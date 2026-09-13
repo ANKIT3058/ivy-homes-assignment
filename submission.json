@@ -1,0 +1,169 @@
+{
+  "api_key": "IVY26-XXXXXXXXXXXX",
+  "candidate": {
+    "name": "Ankit Kumar Anand",
+    "email": "",
+    "repo_url": "",
+    "demo_url": ""
+  },
+  "answers": {
+    "total_listing_records": 3500,
+    "unique_properties": 3499,
+    "active_listings": 2792,
+    "corrupt_listing_ids": [
+      "100-6001475",
+      "DWE-6000627",
+      "MAG-6000014",
+      "SQU-6002204",
+      "SQU-6002405",
+      "ZER-6001341"
+    ],
+    "total_monthly_rent": 3733800,
+    "avg_price_per_sqft_2bhk": 26709.99037687148,
+    "costliest_project": {
+      "project_id": "P60090",
+      "price_max_inr": 989000000
+    },
+    "listings_last_7_days": 129,
+    "fake_listing_ids": [
+      "100-6000297",
+      "DWE-6001082",
+      "MAG-6002328",
+      "SQU-6000334",
+      "SQU-6002610",
+      "ZER-6000479"
+    ],
+    "projects_with_wrong_listing_count": 295
+  },
+  "findings": [
+    {
+      "endpoint": "POST /auth/login",
+      "category": "auth",
+      "documented": "API key is appended as the ?api_key= query parameter; subsequent requests use Authorization: Bearer <token>.",
+      "actual": "The running API rejects ?api_key= and requires the API key in the X-API-Key request header. Requests without a bearer token are rejected with a missing-bearer-token error.",
+      "how_found": "Attempted authentication using the documented query parameter, then retried with X-API-Key and the bearer token returned by login.",
+      "impact": "The documented authentication flow does not work against the running service.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/listings",
+      "category": "pagination",
+      "documented": "Uses page and limit; page is 1-indexed; response contains total, page, page_size, and results.",
+      "actual": "The running endpoint uses offset and limit; response contains offset, limit, count, total, has_more, and results. The page parameter was ignored: page=2 returned offset=0 and the same records as page=1.",
+      "how_found": "Requested the same endpoint with limit=5 using page=1, page=2, and offset=5 and compared response metadata and records.",
+      "impact": "Clients following the documented page-based pagination will repeatedly retrieve the first page.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/rentals",
+      "category": "pagination",
+      "documented": "Uses page and limit with page-based pagination.",
+      "actual": "The running endpoint uses offset and limit; page=2 returned offset=0, while offset=5 advanced the result set.",
+      "how_found": "Requested rentals with limit=5 using page=2 and offset=5 and compared offsets/results.",
+      "impact": "The documented pagination method does not advance through the collection.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/projects",
+      "category": "pagination",
+      "documented": "Uses page and limit with page-based pagination.",
+      "actual": "The running endpoint uses offset and limit; page=2 returned offset=0, while offset=5 advanced the result set.",
+      "how_found": "Requested projects with limit=5 using page=2 and offset=5 and compared offsets/results.",
+      "impact": "The documented pagination method does not advance through the collection.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/listings",
+      "category": "completeness",
+      "documented": "Returns active sale listings only and excludes inactive/expired/withdrawn records server-side.",
+      "actual": "The running endpoint returned inactive records. Across complete retrieval, 3500 listing records were returned, including 708 records with is_live=false.",
+      "how_found": "Fetched the collection to the end using offset pagination and inspected the actual is_live field.",
+      "impact": "Consumers must filter on the actual listing state instead of assuming the endpoint is active-only.",
+      "evidence": [
+        "SQU-6001937",
+        "DWE-6002796"
+      ]
+    },
+    {
+      "endpoint": "GET /v1/listings",
+      "category": "completeness",
+      "documented": "The total is the exact number matching the filters and clients can fetch all records by pages.",
+      "actual": "The initial response reported total=3375, but complete offset pagination returned 3500 records.",
+      "how_found": "Fetched offsets 0 through the end with limit=50 and counted returned records.",
+      "impact": "The reported total is inconsistent with the actual collection size, so total/has_more must be treated cautiously.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/rentals",
+      "category": "completeness",
+      "documented": "The total is the exact number matching the filters.",
+      "actual": "The endpoint reported total=1273, but complete offset pagination returned 1320 records.",
+      "how_found": "Fetched the rentals collection to the end using offset pagination and counted returned records.",
+      "impact": "The reported total undercounts the retrievable collection.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/projects",
+      "category": "completeness",
+      "documented": "The total is the exact number matching the filters.",
+      "actual": "The endpoint reported total=386, but complete offset pagination returned 400 projects.",
+      "how_found": "Fetched the projects collection to the end using offset pagination and counted returned records.",
+      "impact": "The reported total undercounts the retrievable collection.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/analytics/summary",
+      "category": "missing_endpoint",
+      "documented": "A precomputed analytics summary endpoint is available.",
+      "actual": "The running API returned HTTP 404 for /v1/analytics/summary.",
+      "how_found": "Requested the documented endpoint with valid authentication.",
+      "impact": "The documented analytics endpoint cannot be used by the application.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/projects",
+      "category": "units",
+      "documented": "price_min and price_max are integer Indian rupees.",
+      "actual": "Project prices are returned as decimal values such as price_max=98.9. For the costliest project P60090, the value corresponds to a crore-style representation (₹98.9 crore = ₹989,000,000), while associated listing prices are ordinary rupee integers.",
+      "how_found": "Inspected project P60090 and compared price_max=98.9 with its associated listing prices, whose maximum is ₹22,830,000.",
+      "impact": "Treating the documented project value literally as rupees produces an invalid interpretation; project price units/representation require normalization.",
+      "evidence": [
+        "P60090"
+      ]
+    },
+    {
+      "endpoint": "GET /v1/listings",
+      "category": "timestamps",
+      "documented": "Timestamps are ISO 8601 UTC with a Z suffix.",
+      "actual": "The running data contains timestamps without a Z suffix, and /health reports server timezone Asia/Kolkata with a +05:30 server timestamp.",
+      "how_found": "Compared listing posted_at values and the /health response with the timestamp convention in the documentation.",
+      "impact": "Timestamp interpretation requires knowing the actual server timezone; treating the values as documented UTC timestamps can shift time-window calculations.",
+      "evidence": []
+    },
+    {
+      "endpoint": "GET /v1/projects",
+      "category": "consistency",
+      "documented": "total_listings is the number currently available and always agrees with /v1/listings?project_id=....",
+      "actual": "295 of 400 retrievable projects had total_listings values that did not agree with the number of associated listing records.",
+      "how_found": "Joined every retrievable project with listing records by project_id and compared the documented project total_listings value against the actual listing count.",
+      "impact": "Project-level listing counts cannot be trusted without recomputation from listing data.",
+      "evidence": [
+        "P60011",
+        "P60017",
+        "P60030"
+      ]
+    },
+    {
+      "endpoint": "GET /v1/listings",
+      "category": "duplicates",
+      "documented": "Every listing_id is globally unique and each listing corresponds to exactly one physical property.",
+      "actual": "All 3500 listing_ids were unique, but two distinct listing records, DWE-6003109 and MAG-6000909, describe the same property based on an exact match of apartment name, locality, bedroom count, bathroom count, price, carpet area, and super built-up area.",
+      "how_found": "Computed property fingerprints across the complete listing dataset and manually verified the strongest exact duplicate pair.",
+      "impact": "listing_id uniqueness does not imply one record per physical property; property deduplication is required for unique-property counts.",
+      "evidence": [
+        "DWE-6003109",
+        "MAG-6000909"
+      ]
+    }
+  ]
+}
