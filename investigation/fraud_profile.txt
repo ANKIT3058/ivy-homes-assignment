@@ -1,0 +1,281 @@
+TOTAL: 3500
+
+=== WEBSITE ===
+767 'magichomes'
+702 '100acres'
+688 'dwelling'
+674 'zerobroker'
+669 'squarelane'
+
+=== LISTING ID PREFIX ===
+767 MAG
+702 100
+688 DWE
+674 ZER
+669 SQU
+
+=== LIVE / VERIFIED ===
+(True, False) 1106
+(True, True) 1686
+(False, True) 412
+(False, False) 296
+
+=== SAME PHONE + SAME APARTMENT NAME ===
+
+PHONE: +912000185390 NAME: prestige enclave COUNT: 2
+  100-6002203 | 2 BHK | floor 5 | price 6640000 | carpet 772 | project P60062 | locality mg road
+  SQU-6003085 | 2 BHK | floor 2 | price 7660000 | carpet 761 | project P60169 | locality dwarka expressway
+
+PHONE: +912003500880 NAME: nitesh boulevard COUNT: 2
+  ZER-6000104 | 3 BHK | floor 9 | price 19890000 | carpet 1288 | project P60316 | locality sohna road
+  100-6001708 | 2 BHK | floor 3 | price 12290000 | carpet 907 | project None | locality sohna road
+
+PHONE: +912000651130 NAME: sobha boulevard COUNT: 2
+  MAG-6000610 | 1 BHK | floor 21 | price 8590000 | carpet 489 | project P60187 | locality dlf phase 3
+  MAG-6002684 | 5 BHK | floor 0 | price 24560000 | carpet 1839 | project None | locality sector 56
+
+PHONE: +912002826025 NAME: godrej residency COUNT: 2
+  DWE-6001133 | 5 BHK | floor 10 | price 20180000 | carpet 1865 | project P60295 | locality sector 65
+  ZER-6001879 | 2 BHK | floor 4 | price 8310000 | carpet 688 | project None | locality golf course road
+
+PHONE: +912009439950 NAME: kolte patil heights COUNT: 2
+  DWE-6000340 | 3 BHK | floor 0 | price 15470000 | carpet 1221 | project None | locality sector 65
+  DWE-6001689 | 3 BHK | floor 17 | price 17530000 | carpet 1228 | project None | locality dlf phase 3
+
+PHONE: +912000213900 NAME: mantri boulevard COUNT: 2
+  ZER-6002496 | 3 BHK | floor 18 | price 13710000 | carpet 1185 | project P60075 | locality dwarka expressway
+  SQU-6003498 | 3 BHK | floor 18 | price 14090000 | carpet 1183 | project P60258 | locality dwarka expressway
+
+PHONE: +912000808826 NAME: kolte patil habitat COUNT: 2
+  SQU-6001100 | 2 BHK | floor 5 | price 17940000 | carpet 962 | project None | locality sohna road
+  DWE-6002934 | 4 BHK | floor 15 | price 20680000 | carpet 1515 | project P60001 | locality golf course road
+
+PHONE: +912008261704 NAME: puravankara boulevard COUNT: 2
+  SQU-6000786 | 2 BHK | floor 7 | price 14880000 | carpet 798 | project P60146 | locality sector 56
+  DWE-6002897 | 4 BHK | floor 10 | price 28380000 | carpet 1603 | project P60197 | locality sector 65
+
+PHONE: +912004923985 NAME: aparna willows COUNT: 2
+  100-6001102 | 3 BHK | floor 16 | price 20150000 | carpet 1138 | project None | locality mg road
+  MAG-6002941 | 5 BHK | floor 14 | price 17250 | carpet 180 | project P60021 | locality dwarka expressway
+
+PHONE: +912008465127 NAME: salarpuria meadows COUNT: 2
+  SQU-6003385 | 4 BHK | floor 11 | price 19670000 | carpet 1567 | project P60359 | locality sector 65
+  MAG-6002282 | 2 BHK | floor 11 | price 13330000 | carpet 832 | project P60183 | locality dwarka expressway
+
+PHONE: +912003137805 NAME: century woods COUNT: 2
+  ZER-6001680 | 2 BHK | floor 9 | price 12080000 | carpet 819 | project None | locality dwarka expressway
+  SQU-6000306 | 2 BHK | floor 3 | price 12430000 | carpet 952 | project P60165 | locality sohna road
+
+PHONE: +912002362011 NAME: nitesh serenity COUNT: 2
+  ZER-6001495 | 2 BHK | floor 2 | price 10160000 | carpet 819 | project P60371 | locality dlf phase 3
+  DWE-6003331 | 2 BHK | floor 2 | price 9780000 | carpet 816 | project None | locality dlf phase 3
+
+PHONE: +912001561620 NAME: assetz heights COUNT: 2
+  DWE-6002627 | 2 BHK | floor 6 | price 7880000 | carpet 820 | project None | locality sector 49
+  MAG-6002772 | 4 BHK | floor 6 | price 18890000 | carpet 1604 | project P60247 | locality golf course road
+
+PHONE: +912004059615 NAME: aparna serenity COUNT: 2
+  DWE-6002218 | 2 BHK | floor 7 | price 9370000 | carpet 953 | project P60113 | locality sohna road
+  SQU-6001351 | 1 BHK | floor 2 | price 7130000 | carpet 532 | project P60332 | locality sohna road
+
+PHONE: +912006316330 NAME: assetz grand COUNT: 2
+  DWE-6001022 | 4 BHK | floor 14 | price 23020000 | carpet 1505 | project P60291 | locality golf course road
+  SQU-6001383 | 2 BHK | floor 4 | price 8640000 | carpet 800 | project None | locality dwarka expressway
+
+PHONE: +912001863617 NAME: rohan woods COUNT: 2
+  ZER-6000094 | 2 BHK | floor 8 | price 15270000 | carpet 846 | project P60127 | locality sector 82
+  ZER-6002280 | 3 BHK | floor 14 | price 11940000 | carpet 1145 | project P60396 | locality sohna road
+
+PHONE: +912009022910 NAME: godrej residency COUNT: 2
+  DWE-6001803 | 3 BHK | floor 20 | price 22520000 | carpet 1257 | project P60133 | locality sector 56
+  MAG-6002083 | 4 BHK | floor 18 | price 15370000 | carpet 1535 | project P60356 | locality sector 82
+
+PHONE: +912000543109 NAME: nitesh residency COUNT: 2
+  MAG-6000550 | 1 BHK | floor 0 | price 8990000 | carpet 498 | project P60228 | locality dlf phase 3
+  100-6000385 | 2 BHK | floor 2 | price 12580000 | carpet 857 | project None | locality golf course road
+
+PHONE: +912007954933 NAME: prestige enclave COUNT: 2
+  MAG-6001682 | 3 BHK | floor 11 | price 24030000 | carpet 114 | project P60369 | locality sector 56
+  DWE-6001227 | 0 BHK | floor 0 | price 17840000 | carpet 1944 | project None | locality sector 65
+
+PHONE: +912006080219 NAME: nitesh boulevard COUNT: 2
+  100-6001118 | 1 BHK | floor 16 | price 5820000 | carpet 337 | project P60340 | locality dwarka expressway
+  ZER-6000056 | 0 BHK | floor 0 | price 11600000 | carpet 1570 | project None | locality sector 82
+
+PHONE: +912008285213 NAME: sobha sanctuary COUNT: 2
+  100-6002298 | 3 BHK | floor 3 | price 23630000 | carpet 1255 | project None | locality sohna road
+  100-6003082 | 3 BHK | floor 10 | price 15880000 | carpet 1161 | project P60046 | locality sector 49
+
+PHONE: +912008961899 NAME: godrej meadows COUNT: 2
+  DWE-6001888 | 2 BHK | floor 14 | price 11040000 | carpet 942 | project None | locality sohna road
+  100-6000825 | 2 BHK | floor 0 | price 10630000 | carpet 910 | project None | locality dlf phase 3
+
+PHONE: +912008051428 NAME: century serenity COUNT: 2
+  MAG-6002683 | 5 BHK | floor 0 | price 23000000 | carpet 1864 | project P60372 | locality sector 56
+  SQU-6000903 | 3 BHK | floor 10 | price 15100000 | carpet 1173 | project P60290 | locality sector 49
+
+PHONE: +912000213900 NAME: aparna sanctuary COUNT: 2
+  SQU-6003476 | 3 BHK | floor 5 | price 10620000 | carpet 1105 | project P60299 | locality sector 82
+  DWE-6001225 | 2 BHK | floor 6 | price 10510000 | carpet 900 | project None | locality golf course road
+
+PHONE: +912009439950 NAME: shriram habitat COUNT: 2
+  MAG-6002757 | 2 BHK | floor 2 | price 14730000 | carpet 75 | project P60081 | locality sector 49
+  SQU-6000589 | 1 BHK | floor 2 | price 10010000 | carpet 495 | project None | locality new gurgaon
+
+PHONE: +912000239981 NAME: my home grand COUNT: 2
+  ZER-6001248 | 2 BHK | floor 3 | price 10350000 | carpet 747 | project P60053 | locality sohna road
+  SQU-6002515 | 2 BHK | floor 15 | price 7320000 | carpet 798 | project None | locality golf course road
+
+PHONE: +912001222248 NAME: lodha grand COUNT: 2
+  100-6003137 | 2 BHK | floor 17 | price 10500000 | carpet 795 | project None | locality sector 56
+  ZER-6003424 | 2 BHK | floor 6 | price 14870000 | carpet 825 | project P60185 | locality sector 49
+
+PHONE: +912009782693 NAME: kolte patil pavilion COUNT: 2
+  SQU-6000659 | 2 BHK | floor 22 | price 11500000 | carpet 888 | project None | locality sohna road
+  MAG-6000691 | 3 BHK | floor 9 | price 16510000 | carpet 1088 | project P60131 | locality mg road
+
+PHONE: +912000808826 NAME: nitesh willows COUNT: 2
+  100-6001642 | 2 BHK | floor 3 | price 10670000 | carpet 857 | project P60116 | locality sector 49
+  100-6000970 | 2 BHK | floor 11 | price 9060000 | carpet 870 | project None | locality dwarka expressway
+
+PHONE: +912002104493 NAME: shriram sanctuary COUNT: 2
+  DWE-6002378 | 4 BHK | floor 3 | price 25090000 | carpet 1565 | project None | locality dlf phase 3
+  SQU-6000639 | 3 BHK | floor 2 | price 15720000 | carpet 1214 | project None | locality sector 56
+
+PHONE: +912002802497 NAME: rohan meadows COUNT: 2
+  MAG-6000751 | 5 BHK | floor 4 | price 36840000 | carpet 187 | project None | locality mg road
+  MAG-6003084 | 5 BHK | floor 4 | price 38920000 | carpet 1997 | project P60297 | locality mg road
+GROUP COUNT: 31
+
+=== SAME PHONE + NAME + BHK ===
+
+PHONE: +912000185390 | NAME: prestige enclave | BHK: 2 | COUNT: 2
+  100-6002203 | price 6640000 | carpet 772 | super 976 | floor 5 | project P60062 | posted 2026-02-06T11:54:00
+  SQU-6003085 | price 7660000 | carpet 761 | super 966 | floor 2 | project P60169 | posted 2026-07-16T17:24:00
+
+PHONE: +912009439950 | NAME: kolte patil heights | BHK: 3 | COUNT: 2
+  DWE-6000340 | price 15470000 | carpet 1221 | super 1569 | floor 0 | project None | posted 2026-06-28T20:54:00
+  DWE-6001689 | price 17530000 | carpet 1228 | super 1622 | floor 17 | project None | posted 2026-09-01T08:35:00
+
+PHONE: +912000213900 | NAME: mantri boulevard | BHK: 3 | COUNT: 2
+  ZER-6002496 | price 13710000 | carpet 1185 | super 1567 | floor 18 | project P60075 | posted 2026-03-05T22:30:00
+  SQU-6003498 | price 14090000 | carpet 1183 | super 1560 | floor 18 | project P60258 | posted 2026-07-30T21:46:00
+
+PHONE: +912003137805 | NAME: century woods | BHK: 2 | COUNT: 2
+  ZER-6001680 | price 12080000 | carpet 819 | super 1110 | floor 9 | project None | posted 2026-08-08T01:55:00
+  SQU-6000306 | price 12430000 | carpet 952 | super 1232 | floor 3 | project P60165 | posted 2026-08-11T09:42:00
+
+PHONE: +912002362011 | NAME: nitesh serenity | BHK: 2 | COUNT: 2
+  ZER-6001495 | price 10160000 | carpet 819 | super 1047 | floor 2 | project P60371 | posted 2026-04-06T11:56:00
+  DWE-6003331 | price 9780000 | carpet 816 | super 1056 | floor 2 | project None | posted 2026-09-09T22:58:00
+
+PHONE: +912008285213 | NAME: sobha sanctuary | BHK: 3 | COUNT: 2
+  100-6002298 | price 23630000 | carpet 1255 | super 1680 | floor 3 | project None | posted 2026-03-13T00:00:00
+  100-6003082 | price 15880000 | carpet 1161 | super 1506 | floor 10 | project P60046 | posted 2026-01-20T16:43:00
+
+PHONE: +912008961899 | NAME: godrej meadows | BHK: 2 | COUNT: 2
+  DWE-6001888 | price 11040000 | carpet 942 | super 1313 | floor 14 | project None | posted 2026-04-21T19:42:00
+  100-6000825 | price 10630000 | carpet 910 | super 1194 | floor 0 | project None | posted 2026-04-11T13:14:00
+
+PHONE: +912000239981 | NAME: my home grand | BHK: 2 | COUNT: 2
+  ZER-6001248 | price 10350000 | carpet 747 | super 1054 | floor 3 | project P60053 | posted 2026-01-16T09:28:00
+  SQU-6002515 | price 7320000 | carpet 798 | super 1034 | floor 15 | project None | posted 2026-06-16T11:04:00
+
+PHONE: +912001222248 | NAME: lodha grand | BHK: 2 | COUNT: 2
+  100-6003137 | price 10500000 | carpet 795 | super 1011 | floor 17 | project None | posted 2026-01-19T00:04:00
+  ZER-6003424 | price 14870000 | carpet 825 | super 1071 | floor 6 | project P60185 | posted 2026-08-02T14:38:00
+
+PHONE: +912000808826 | NAME: nitesh willows | BHK: 2 | COUNT: 2
+  100-6001642 | price 10670000 | carpet 857 | super 1210 | floor 3 | project P60116 | posted 2026-02-25T18:59:00
+  100-6000970 | price 9060000 | carpet 870 | super 1143 | floor 11 | project None | posted 2026-05-29T13:15:00
+
+PHONE: +912002802497 | NAME: rohan meadows | BHK: 5 | COUNT: 2
+  MAG-6000751 | price 36840000 | carpet 187 | super 271 | floor 4 | project None | posted 2026-08-30T19:11:00
+  MAG-6003084 | price 38920000 | carpet 1997 | super 2919 | floor 4 | project P60297 | posted 2026-04-07T17:12:00
+GROUP COUNT: 11
+
+=== SAME PHONE + BHK + CARPET AREA ===
+
+PHONE: +912009304783 | BHK: 2 | AREA: 803 | COUNT: 2
+  100-6000510 | Lodha Pavilion | price 10400000 | project P60011 | locality sohna road
+  DWE-6002368 | Godrej Park | price 9320000 | project P60342 | locality dwarka expressway
+
+PHONE: +912001089042 | BHK: 2 | AREA: 772 | COUNT: 2
+  ZER-6000676 | My Home Pavilion | price 15870000 | project None | locality sector 82
+  SQU-6002968 | Century Grand | price 8660000 | project None | locality sector 65
+
+PHONE: +912009782693 | BHK: 2 | AREA: 841 | COUNT: 2
+  MAG-6002952 | Brigade Terraces | price 11410000 | project P60274 | locality new gurgaon
+  DWE-6000876 | Century Habitat | price 11230000 | project P60254 | locality dwarka expressway
+
+PHONE: +912008137690 | BHK: 3 | AREA: 1256 | COUNT: 2
+  DWE-6001728 | Adarsh Greens | price 15110000 | project None | locality new gurgaon
+  DWE-6000536 | Adarsh Meadows | price 20880000 | project P60150 | locality dlf phase 3
+
+PHONE: +912004055003 | BHK: 3 | AREA: 1201 | COUNT: 2
+  100-6001232 | My Home Terraces | price 9910000 | project P60185 | locality sector 49
+  MAG-6000283 | My Home Sanctuary | price 13480000 | project None | locality mg road
+
+PHONE: +912009782693 | BHK: 1 | AREA: 49 | COUNT: 2
+  MAG-6000055 | Century Willows | price 7030000 | project None | locality sector 56
+  MAG-6002965 | Sobha Residency | price 6720000 | project P60144 | locality sector 65
+
+PHONE: +912004949456 | BHK: 2 | AREA: 867 | COUNT: 2
+  100-6001181 | Kolte Patil Habitat | price 15300000 | project P60045 | locality sector 82
+  DWE-6002000 | Shriram Grand | price 10530000 | project P60145 | locality sector 65
+
+PHONE: +912003566175 | BHK: 2 | AREA: 862 | COUNT: 2
+  100-6003396 | Kolte  Patil  Greens | price 11460000 | project P60345 | locality mg road
+  ZER-6003079 | casagrand park | price 16030000 | project P60363 | locality mg road
+
+PHONE: +912001242913 | BHK: 3 | AREA: 1197 | COUNT: 2
+  100-6002040 | Salarpuria Park | price 20530000 | project P60055 | locality dwarka expressway
+  DWE-6000775 | Lodha Elite | price 23700000 | project None | locality sohna road
+
+PHONE: +912009169074 | BHK: 3 | AREA: 1229 | COUNT: 2
+  DWE-6000885 | Prestige Willows | price 21060000 | project None | locality dwarka expressway
+  MAG-6002033 | Puravankara Woods | price 18210000 | project P60014 | locality dwarka expressway
+
+PHONE: +912000480620 | BHK: 2 | AREA: 821 | COUNT: 2
+  100-6000356 | Rohan Heights | price 11280000 | project P60368 | locality sohna road
+  MAG-6003202 | Mantri Serenity Phase 1 | price 13100000 | project P60363 | locality mg road
+
+PHONE: +912009107125 | BHK: 4 | AREA: 1515 | COUNT: 2
+  100-6002401 | Aparna Woods | price 26410000 | project None | locality dlf phase 3
+  ZER-6000271 | Salarpuria Terraces | price 25500000 | project P60218 | locality sector 56
+
+PHONE: +912003257395 | BHK: 2 | AREA: 924 | COUNT: 3
+  100-6001244 | Assetz Enclave | price 13240000 | project P60379 | locality dwarka expressway
+  100-6000247 | My Home Enclave | price 10460000 | project P60398 | locality mg road
+  100-6000806 | Salarpuria Boulevard | price 15070000 | project P60167 | locality mg road
+
+PHONE: +912001562860 | BHK: 3 | AREA: 110 | COUNT: 2
+  MAG-6002634 | Puravankara Residency | price 12170000 | project None | locality dwarka expressway
+  MAG-6003411 | Puravankara-Enclave | price 16490000 | project P60030 | locality sector 49
+
+PHONE: +912001674345 | BHK: 3 | AREA: 1254 | COUNT: 2
+  SQU-6000276 | Puravankara Woods | price 17440000 | project P60130 | locality mg road
+  MAG-6002855 | Casagrand Meadows | price 13370000 | project P60152 | locality sector 49
+
+PHONE: +912001618956 | BHK: 2 | AREA: 813 | COUNT: 2
+  ZER-6000007 | Lodha Woods | price 10590000 | project None | locality sector 56
+  SQU-6001892 | My Home Serenity | price 13670000 | project None | locality sohna road
+GROUP COUNT: 16
+
+=== EXACT PROPERTY DUPLICATES (NO CONTACT/DESCRIPTION) ===
+
+=== ZERO / NEGATIVE PRICE ===
+MAG-6000631 | price -8550000 | Adarsh Park | 2 BHK
+DWE-6002663 | price -13650000 | Rohan Terraces | 2 BHK
+100-6001461 | price -17880000 | Godrej Greens | 3 BHK
+ZER-6000669 | price -17660000 | Puravankara Vista | 3 BHK
+SQU-6003044 | price -12640000 | Shriram Meadows | 2 BHK
+100-6002071 | price -12340000 | Lodha Greens | 3 BHK
+
+=== COORDINATE SWAPS / OUTLIERS ===
+SQU-6002204 | lat 76.87515 | lon 28.40613 | Brigade Enclave
+ZER-6001341 | lat 76.88596 | lon 28.57863 | Prestige Grand
+100-6001475 | lat 77.14777 | lon 28.34923 | Mantri Elite
+DWE-6000627 | lat 76.92808 | lon 28.37192 | Kolte Patil Willows
+SQU-6002405 | lat 77.0585 | lon 28.31344 | Adarsh Vista
+MAG-6000014 | lat 76.98296 | lon 28.57884 | Aparna Terraces

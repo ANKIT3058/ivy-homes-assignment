@@ -1,0 +1,883 @@
+=== SEMANTIC ANOMALIES ===
+Records with >=1 semantic anomaly: 880
+
+MAG-6000434 | extreme_ppsf | Mantri Elite | apartment | 3 BHK | bath 2 | carpet 106 | super 153 | price 19540000 | floor 23 / 26 | locality dlf phase 3 | live True | verified False
+ZER-6000711 | house_many_floors | Century Habitat | independent house | 3 BHK | bath 3 | carpet 1175 | super 1580 | price 13180000 | floor 21 / 24 | locality sohna road | live True | verified False
+MAG-6000794 | extreme_ppsf | Casagrand Grand | apartment | 3 BHK | bath 3 | carpet 129 | super 185 | price 23670000 | floor 2 / 19 | locality new gurgaon | live False | verified True
+ZER-6003316 | large_BHK_0balcony | Shriram Residency Phase 1 | apartment | 4 BHK | bath 4 | carpet 1674 | super 2411 | price 33500000 | floor 1 / 6 | locality sector 49 | live True | verified False
+100-6001161 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Puravankara Residency | plot | 0 BHK | bath 0 | carpet 2197 | super 2197 | price 21950000 | floor 0 / 0 | locality sector 82 | live True | verified True
+SQU-6001051 | large_BHK_0parking | Lodha Vista | apartment | 5 BHK | bath 4 | carpet 1931 | super 2617 | price 25060000 | floor 2 / 19 | locality sector 56 | live True | verified True
+100-6001959 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Kolte Patil Willows | plot | 0 BHK | bath 0 | carpet 1382 | super 1382 | price 8910000 | floor 0 / 0 | locality sector 49 | live True | verified True
+SQU-6000987 | house_many_floors | Rohan Meadows | independent house | 1 BHK | bath 1 | carpet 388 | super 554 | price 7120000 | floor 20 / 25 | locality sector 56 | live False | verified False
+100-6002836 | house_many_floors | Casagrand Boulevard | independent house | 3 BHK | bath 3 | carpet 1121 | super 1432 | price 9390000 | floor 8 / 21 | locality sector 49 | live True | verified True
+ZER-6001139 | large_BHK_0parking | Adarsh Serenity | villa | 4 BHK | bath 4 | carpet 1552 | super 2127 | price 15960000 | floor 0 / 4 | locality sector 49 | live True | verified True
+MAG-6001288 | extreme_ppsf | Shriram Heights | apartment | 2 BHK | bath 2 | carpet 77 | super 98 | price 15700000 | floor 5 / 7 | locality sector 49 | live False | verified True
+ZER-6000715 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Woods | plot | 0 BHK | bath 0 | carpet 1930 | super 1930 | price 14850000 | floor 0 / 0 | locality sector 49 | live True | verified False
+MAG-6002640 | extreme_ppsf | Brigade Enclave | apartment | 2 BHK | bath 1 | carpet 85 | super 109 | price 15770000 | floor 17 / 24 | locality new gurgaon | live True | verified True
+MAG-6000506 | large_BHK_0parking | Prestige Habitat | apartment | 4 BHK | bath 4 | carpet 1651 | super 2192 | price 21420000 | floor 10 / 12 | locality sector 56 | live True | verified True
+DWE-6002713 | large_BHK_0balcony | Lodha Enclave | apartment | 4 BHK | bath 3 | carpet 1563 | super 1990 | price 20640000 | floor 5 / 26 | locality sector 82 | live True | verified True
+DWE-6002098 | house_many_floors | Adarsh Woods | independent house | 3 BHK | bath 2 | carpet 1285 | super 1636 | price 17210000 | floor 2 / 23 | locality golf course road | live True | verified True
+DWE-6001952 | house_many_floors | Rohan Boulevard | independent house | 2 BHK | bath 2 | carpet 808 | super 1150 | price 14590000 | floor 7 / 14 | locality sector 65 | live True | verified True
+DWE-6001595 | house_many_floors | Salarpuria Park | independent house | 3 BHK | bath 2 | carpet 1235 | super 1612 | price 14050000 | floor 5 / 14 | locality dlf phase 3 | live True | verified False
+DWE-6001625 | house_many_floors | Casagrand Enclave | independent house | 3 BHK | bath 2 | carpet 1136 | super 1485 | price 20400000 | floor 11 / 16 | locality sector 49 | live True | verified True
+100-6002415 | large_BHK_0balcony | Mantri Enclave | builder floor | 4 BHK | bath 3 | carpet 1521 | super 2150 | price 14100000 | floor 2 / 13 | locality new gurgaon | live False | verified True
+SQU-6002042 | large_BHK_0balcony | Casagrand Woods | apartment | 4 BHK | bath 4 | carpet 1677 | super 2118 | price 14920000 | floor 15 / 23 | locality sector 49 | live True | verified False
+SQU-6001398 | large_BHK_0balcony,large_BHK_0parking | Mantri Greens | villa | 4 BHK | bath 3 | carpet 1661 | super 2354 | price 33850000 | floor 6 / 7 | locality sector 65 | live False | verified True
+MAG-6001630 | extreme_ppsf | Puravankara Pavilion | villa | 3 BHK | bath 3 | carpet 107 | super 140 | price 12560000 | floor 6 / 6 | locality sector 82 | live True | verified False
+MAG-6002414 | house_many_floors,extreme_ppsf | Godrej Woods | independent house | 2 BHK | bath 1 | carpet 78 | super 104 | price 8100000 | floor 23 / 31 | locality dwarka expressway | live True | verified True
+SQU-6000895 | house_many_floors | Godrej Sanctuary | independent house | 3 BHK | bath 2 | carpet 1255 | super 1688 | price 18790000 | floor 14 / 25 | locality sector 65 | live True | verified True
+MAG-6000554 | extreme_ppsf | Sobha Park | apartment | 3 BHK | bath 3 | carpet 114 | super 149 | price 18530000 | floor 20 / 21 | locality new gurgaon | live False | verified False
+MAG-6002733 | extreme_ppsf | My Home Vista | builder floor | 3 BHK | bath 2 | carpet 117 | super 167 | price 24720000 | floor 8 / 9 | locality dwarka expressway | live True | verified True
+ZER-6001812 | large_BHK_0balcony | Shriram Heights | apartment | 4 BHK | bath 3 | carpet 1539 | super 2124 | price 18410000 | floor 4 / 19 | locality sector 49 | live True | verified False
+100-6002572 | large_BHK_0parking | Shriram Enclave | apartment | 4 BHK | bath 3 | carpet 1479 | super 1958 | price 26220000 | floor 16 / 25 | locality sector 56 | live True | verified True
+100-6001922 | large_BHK_0balcony | Salarpuria Grand | apartment | 4 BHK | bath 4 | carpet 1447 | super 1981 | price 25370000 | floor 31 / 32 | locality sector 49 | live True | verified True
+MAG-6002350 | house_many_floors,extreme_ppsf | Kolte Patil Crest | independent house | 3 BHK | bath 3 | carpet 110 | super 150 | price 11970000 | floor 11 / 16 | locality sector 56 | live True | verified False
+ZER-6000750 | large_BHK_0parking,house_many_floors | Rohan Meadows | independent house | 4 BHK | bath 3 | carpet 1472 | super 1855 | price 22650000 | floor 15 / 30 | locality dwarka expressway | live True | verified False
+SQU-6002645 | large_BHK_0balcony | Mantri Boulevard | apartment | 4 BHK | bath 3 | carpet 1547 | super 2221 | price 22710000 | floor 6 / 12 | locality dwarka expressway | live False | verified True
+MAG-6002328 | extreme_ppsf | Sobha Grand | apartment | 3 BHK | bath 3 | carpet 109 | super 151 | price 18440000 | floor 7 / 14 | locality sector 56 | live True | verified True
+MAG-6002066 | house_many_floors,extreme_ppsf | Prestige Pavilion | independent house | 3 BHK | bath 3 | carpet 119 | super 169 | price 13280000 | floor 13 / 21 | locality sohna road | live True | verified True
+MAG-6000954 | extreme_ppsf | Kolte Patil Serenity | apartment | 3 BHK | bath 3 | carpet 106 | super 144 | price 15730000 | floor 1 / 20 | locality new gurgaon | live True | verified True
+SQU-6001695 | large_BHK_0balcony | My Home Crest | builder floor | 4 BHK | bath 4 | carpet 1553 | super 2090 | price 20790000 | floor 15 / 26 | locality new gurgaon | live False | verified True
+DWE-6003270 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Mantri  Enclave | plot | 0 BHK | bath 0 | carpet 1586 | super 1586 | price 8710000 | floor 0 / 0 | locality dwarka expressway | live True | verified False
+100-6001043 | house_many_floors | Godrej Elite | independent house | 3 BHK | bath 3 | carpet 1223 | super 1724 | price 12680000 | floor 20 / 20 | locality sector 82 | live True | verified True
+SQU-6000688 | large_BHK_0parking,house_many_floors | Godrej Willows | independent house | 4 BHK | bath 4 | carpet 1478 | super 1977 | price 24390000 | floor 7 / 22 | locality dwarka expressway | live True | verified True
+100-6001168 | large_BHK_0parking | Lodha Woods | apartment | 4 BHK | bath 4 | carpet 1644 | super 2374 | price 29580000 | floor 1 / 7 | locality sohna road | live True | verified True
+MAG-6000823 | house_many_floors,extreme_ppsf | Kolte Patil Park | independent house | 3 BHK | bath 2 | carpet 110 | super 144 | price 15720000 | floor 17 / 23 | locality sector 65 | live True | verified True
+MAG-6000605 | extreme_ppsf | Lodha Vista | apartment | 2 BHK | bath 2 | carpet 85 | super 109 | price 11840000 | floor 8 / 26 | locality sector 56 | live True | verified False
+MAG-6001012 | extreme_ppsf | Aparna Elite | villa | 3 BHK | bath 2 | carpet 115 | super 150 | price 23950000 | floor 4 / 7 | locality sector 56 | live True | verified False
+MAG-6001842 | large_BHK_0parking,extreme_ppsf | Mantri Enclave | apartment | 5 BHK | bath 4 | carpet 179 | super 255 | price 27690000 | floor 16 / 27 | locality sector 65 | live True | verified True
+DWE-6000154 | large_BHK_0balcony,large_BHK_0parking | Salarpuria Pavilion | apartment | 4 BHK | bath 4 | carpet 1447 | super 1946 | price 24630000 | floor 5 / 30 | locality sector 82 | live True | verified True
+100-6003467 | house_many_floors | Lodha-Grand | independent house | 2 BHK | bath 2 | carpet 787 | super 995 | price 10200000 | floor 17 / 25 | locality sector 56 | live True | verified True
+MAG-6002467 | 0BHK+0bath,0/0_floor,carpet_equals_super,extreme_ppsf | Shriram Boulevard | plot | 0 BHK | bath 0 | carpet 209 | super 209 | price 21320000 | floor 0 / 0 | locality golf course road | live False | verified False
+MAG-6003092 | large_BHK_0parking | shriram vista | apartment | 4 BHK | bath 3 | carpet 1479 | super 2023 | price 19420000 | floor 11 / 28 | locality sector 56 | live False | verified True
+MAG-6002341 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Adarsh Greens | plot | 0 BHK | bath 0 | carpet 1687 | super 1687 | price 19060000 | floor 0 / 0 | locality sector 65 | live True | verified True
+100-6002592 | large_BHK_0balcony | Sobha Habitat | apartment | 5 BHK | bath 4 | carpet 1804 | super 2321 | price 18010000 | floor 2 / 12 | locality dwarka expressway | live True | verified True
+MAG-6001969 | large_BHK_0parking | Lodha Residency | apartment | 4 BHK | bath 4 | carpet 1525 | super 2065 | price 30370000 | floor 6 / 13 | locality dlf phase 3 | live True | verified True
+ZER-6001048 | large_BHK_0balcony | Prestige Serenity | apartment | 4 BHK | bath 4 | carpet 1619 | super 2162 | price 17820000 | floor 11 / 23 | locality sector 65 | live False | verified True
+MAG-6001849 | large_BHK_0parking | Nitesh Elite | builder floor | 4 BHK | bath 3 | carpet 1519 | super 2023 | price 14920000 | floor 18 / 23 | locality sohna road | live False | verified True
+MAG-6002556 | extreme_ppsf | Brigade Habitat | apartment | 3 BHK | bath 2 | carpet 106 | super 142 | price 14520000 | floor 10 / 28 | locality mg road | live True | verified False
+MAG-6001941 | extreme_ppsf | Salarpuria Vista | apartment | 2 BHK | bath 1 | carpet 80 | super 107 | price 12890000 | floor 5 / 19 | locality golf course road | live True | verified True
+MAG-6003100 | large_BHK_0balcony,large_BHK_0parking | KOLTE PATIL WOODS | builder floor | 4 BHK | bath 3 | carpet 143 | super 177 | price 14170000 | floor 0 / 9 | locality golf course road | live False | verified True
+MAG-6000230 | extreme_ppsf | Mantri Greens | apartment | 3 BHK | bath 2 | carpet 114 | super 158 | price 20120000 | floor 2 / 23 | locality dwarka expressway | live True | verified True
+MAG-6003296 | extreme_ppsf | Aparna Boulevard | builder floor | 2 BHK | bath 2 | carpet 75 | super 107 | price 8590000 | floor 14 / 23 | locality golf course road | live True | verified True
+MAG-6002139 | house_many_floors | Nitesh Crest | independent house | 1 BHK | bath 1 | carpet 427 | super 575 | price 7910000 | floor 0 / 12 | locality golf course road | live True | verified True
+ZER-6001611 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Salarpuria Habitat | plot | 0 BHK | bath 0 | carpet 1871 | super 1871 | price 16100000 | floor 0 / 0 | locality golf course road | live True | verified True
+100-6000114 | large_BHK_0parking | Nitesh Willows | apartment | 5 BHK | bath 5 | carpet 2071 | super 2985 | price 10150000 | floor 26 / 30 | locality sector 56 | live True | verified True
+100-6001270 | house_many_floors | Prestige Vista | independent house | 1 BHK | bath 1 | carpet 514 | super 738 | price 10300000 | floor 14 / 21 | locality sohna road | live True | verified True
+MAG-6001936 | extreme_ppsf | Lodha Woods | apartment | 4 BHK | bath 3 | carpet 148 | super 188 | price 27760000 | floor 2 / 4 | locality sector 65 | live True | verified True
+DWE-6000233 | large_BHK_0parking | Puravankara Woods | apartment | 4 BHK | bath 3 | carpet 1548 | super 2118 | price 27840000 | floor 7 / 12 | locality golf course road | live True | verified False
+100-6001652 | large_BHK_0balcony | Rohan Crest | apartment | 4 BHK | bath 3 | carpet 1630 | super 2209 | price 24790000 | floor 20 / 22 | locality sector 56 | live True | verified True
+DWE-6001873 | large_BHK_0balcony,large_BHK_0parking | Rohan Park | villa | 4 BHK | bath 3 | carpet 1637 | super 2244 | price 22980000 | floor 11 / 30 | locality sohna road | live True | verified True
+SQU-6000990 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Sobha Greens | plot | 0 BHK | bath 0 | carpet 2479 | super 2479 | price 17910000 | floor 0 / 0 | locality golf course road | live True | verified True
+MAG-6000654 | house_many_floors | Brigade Enclave | independent house | 2 BHK | bath 2 | carpet 831 | super 1166 | price 17440000 | floor 24 / 28 | locality sector 82 | live True | verified False
+100-6001517 | large_BHK_0parking,house_many_floors | Lodha Meadows | independent house | 5 BHK | bath 4 | carpet 2009 | super 2583 | price 30220000 | floor 3 / 15 | locality sector 65 | live True | verified False
+SQU-6003096 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Meadows Phase 1 | plot | 0 BHK | bath 0 | carpet 1515 | super 1515 | price 11630000 | floor 0 / 0 | locality sector 56 | live True | verified False
+MAG-6001484 | extreme_ppsf | Aparna Grand | apartment | 3 BHK | bath 2 | carpet 99 | super 136 | price 13600000 | floor 7 / 8 | locality new gurgaon | live False | verified True
+100-6003097 | large_BHK_0balcony,large_BHK_0parking | SALARPURIA TERRACES | apartment | 4 BHK | bath 4 | carpet 1572 | super 2132 | price 30290000 | floor 1 / 8 | locality mg road | live True | verified False
+SQU-6001285 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Casagrand Serenity | plot | 0 BHK | bath 0 | carpet 1509 | super 1509 | price 9220000 | floor 0 / 0 | locality dlf phase 3 | live True | verified True
+MAG-6002214 | extreme_ppsf | My Home Greens | apartment | 4 BHK | bath 4 | carpet 145 | super 188 | price 22240000 | floor 14 / 30 | locality dlf phase 3 | live True | verified True
+DWE-6001245 | large_BHK_0balcony | Godrej Boulevard | apartment | 5 BHK | bath 5 | carpet 1955 | super 2519 | price 23980000 | floor 6 / 6 | locality dlf phase 3 | live False | verified True
+MAG-6000492 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Casagrand Park | plot | 0 BHK | bath 0 | carpet 1766 | super 1766 | price 20310000 | floor 0 / 0 | locality new gurgaon | live True | verified False
+SQU-6001361 | large_BHK_0parking | Sobha Greens | apartment | 5 BHK | bath 5 | carpet 1857 | super 2429 | price 29850000 | floor 22 / 30 | locality golf course road | live True | verified True
+MAG-6001624 | extreme_ppsf | Century Meadows | independent house | 4 BHK | bath 3 | carpet 144 | super 209 | price 21580000 | floor 0 / 6 | locality dlf phase 3 | live True | verified True
+ZER-6002399 | house_many_floors | Nitesh Meadows | independent house | 4 BHK | bath 4 | carpet 1450 | super 1933 | price 18770000 | floor 1 / 26 | locality sohna road | live True | verified False
+MAG-6002220 | large_BHK_0balcony | Assetz Willows | apartment | 4 BHK | bath 3 | carpet 1595 | super 2131 | price 25360000 | floor 21 / 25 | locality sector 65 | live True | verified False
+ZER-6002159 | large_BHK_0parking | Rohan Enclave | villa | 4 BHK | bath 4 | carpet 1661 | super 2356 | price 25460000 | floor 2 / 8 | locality mg road | live False | verified False
+SQU-6000162 | large_BHK_0balcony,large_BHK_0parking | Casagrand Enclave | apartment | 4 BHK | bath 4 | carpet 1651 | super 2105 | price 23000000 | floor 2 / 7 | locality new gurgaon | live True | verified False
+MAG-6002358 | extreme_ppsf | Godrej Pavilion | villa | 3 BHK | bath 3 | carpet 103 | super 135 | price 20260000 | floor 9 / 24 | locality mg road | live True | verified False
+SQU-6001885 | house_many_floors | Brigade Pavilion | independent house | 2 BHK | bath 1 | carpet 922 | super 1297 | price 13130000 | floor 8 / 32 | locality golf course road | live True | verified False
+MAG-6000054 | house_many_floors | Mantri Greens | independent house | 2 BHK | bath 2 | carpet 864 | super 1151 | price 9620000 | floor 8 / 12 | locality new gurgaon | live True | verified False
+MAG-6000190 | large_BHK_0parking | Rohan Greens | apartment | 4 BHK | bath 3 | carpet 1609 | super 2136 | price 15220000 | floor 7 / 16 | locality new gurgaon | live True | verified False
+MAG-6002533 | extreme_ppsf | Shriram Vista | apartment | 3 BHK | bath 2 | carpet 115 | super 156 | price 15250000 | floor 24 / 29 | locality new gurgaon | live True | verified True
+SQU-6001100 | house_many_floors | Kolte Patil Habitat | independent house | 2 BHK | bath 1 | carpet 962 | super 1354 | price 17940000 | floor 5 / 23 | locality sohna road | live True | verified True
+100-6003410 | large_BHK_0parking | SALARPURIA TERRACES | builder floor | 4 BHK | bath 3 | carpet 1501 | super 2150 | price 24050000 | floor 4 / 4 | locality sector 56 | live False | verified False
+SQU-6002075 | house_many_floors | Aparna Pavilion | independent house | 3 BHK | bath 2 | carpet 1172 | super 1647 | price 18970000 | floor 14 / 27 | locality sector 82 | live True | verified True
+MAG-6002642 | large_BHK_0balcony,extreme_ppsf | Sobha Sanctuary | builder floor | 4 BHK | bath 4 | carpet 147 | super 211 | price 15240000 | floor 0 / 4 | locality dwarka expressway | live True | verified True
+MAG-6002863 | large_BHK_0balcony,extreme_ppsf | My Home Boulevard | apartment | 4 BHK | bath 4 | carpet 148 | super 213 | price 15790000 | floor 1 / 4 | locality new gurgaon | live True | verified False
+DWE-6003119 | house_many_floors | Aparna Crest | independent house | 2 BHK | bath 2 | carpet 824 | super 1045 | price 10420000 | floor 19 / 25 | locality new gurgaon | live True | verified False
+MAG-6001308 | extreme_ppsf | Kolte Patil Vista | apartment | 2 BHK | bath 2 | carpet 79 | super 114 | price 12170000 | floor 3 / 13 | locality sector 49 | live True | verified False
+MAG-6000241 | extreme_ppsf | Sobha Enclave | apartment | 2 BHK | bath 2 | carpet 82 | super 110 | price 10850000 | floor 24 / 31 | locality mg road | live True | verified False
+100-6001621 | large_BHK_0parking | Godrej Willows | apartment | 4 BHK | bath 3 | carpet 1581 | super 2227 | price 22660000 | floor 25 / 30 | locality sector 56 | live True | verified True
+ZER-6001337 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Puravankara Vista | plot | 0 BHK | bath 0 | carpet 1695 | super 1695 | price 17450000 | floor 0 / 0 | locality sector 65 | live False | verified False
+100-6001593 | house_many_floors | Nitesh Elite | independent house | 1 BHK | bath 1 | carpet 408 | super 557 | price 4650000 | floor 6 / 13 | locality sector 56 | live False | verified True
+SQU-6001628 | 0BHK+0bath,0BHK_large_area | Kolte Patil Heights | apartment | 0 BHK | bath 0 | carpet 1987 | super 2541 | price 27860000 | floor 25 / 27 | locality sohna road | live True | verified True
+MAG-6001737 | extreme_ppsf | Adarsh Grand | apartment | 2 BHK | bath 2 | carpet 68 | super 93 | price 7860000 | floor 21 / 26 | locality dwarka expressway | live True | verified True
+DWE-6000926 | house_many_floors | Mantri Serenity | independent house | 3 BHK | bath 3 | carpet 1185 | super 1547 | price 12310000 | floor 21 / 23 | locality sector 82 | live True | verified True
+DWE-6001404 | large_BHK_0parking | Brigade Willows | apartment | 4 BHK | bath 4 | carpet 1583 | super 2091 | price 19270000 | floor 17 / 27 | locality sohna road | live True | verified True
+DWE-6002432 | large_BHK_0balcony | Prestige Heights | apartment | 4 BHK | bath 4 | carpet 1556 | super 2103 | price 15920000 | floor 22 / 27 | locality mg road | live True | verified True
+MAG-6001864 | house_many_floors | Prestige Park | independent house | 2 BHK | bath 1 | carpet 73 | super 95 | price 7010000 | floor 8 / 15 | locality dlf phase 3 | live True | verified False
+MAG-6003021 | large_BHK_0parking,extreme_ppsf | Nitesh Park | apartment | 4 BHK | bath 4 | carpet 130 | super 187 | price 22930000 | floor 10 / 12 | locality mg road | live True | verified False
+MAG-6002940 | extreme_ppsf | Mantri Enclave | apartment | 3 BHK | bath 2 | carpet 109 | super 139 | price 13840000 | floor 2 / 15 | locality sohna road | live True | verified False
+MAG-6001192 | large_BHK_0balcony,large_BHK_0parking,extreme_ppsf | Nitesh Crest | apartment | 4 BHK | bath 4 | carpet 148 | super 196 | price 25470000 | floor 5 / 19 | locality dlf phase 3 | live True | verified True
+MAG-6003083 | extreme_ppsf | Adarsh Crest Apartments | apartment | 4 BHK | bath 4 | carpet 155 | super 198 | price 21190000 | floor 9 / 18 | locality sector 65 | live True | verified False
+100-6000469 | house_many_floors | Adarsh Residency | independent house | 2 BHK | bath 1 | carpet 830 | super 1184 | price 8840000 | floor 2 / 29 | locality sector 56 | live True | verified True
+MAG-6001058 | extreme_ppsf | Nitesh Crest | apartment | 3 BHK | bath 2 | carpet 122 | super 161 | price 25430000 | floor 5 / 8 | locality dwarka expressway | live True | verified False
+100-6000746 | house_many_floors | Lodha Vista | independent house | 2 BHK | bath 1 | carpet 888 | super 1198 | price 11240000 | floor 9 / 21 | locality dlf phase 3 | live True | verified False
+ZER-6002543 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Century Greens | plot | 0 BHK | bath 0 | carpet 1381 | super 1381 | price 8130000 | floor 0 / 0 | locality mg road | live True | verified False
+MAG-6002949 | large_BHK_0parking | Kolte Patil Willows | apartment | 5 BHK | bath 5 | carpet 1974 | super 2532 | price 32180000 | floor 1 / 14 | locality dwarka expressway | live True | verified False
+100-6000405 | large_BHK_0parking | Century Heights | apartment | 4 BHK | bath 3 | carpet 1518 | super 2176 | price 19590000 | floor 7 / 26 | locality sector 56 | live True | verified True
+MAG-6000908 | large_BHK_0parking,extreme_ppsf | Rohan Woods | apartment | 4 BHK | bath 3 | carpet 139 | super 191 | price 17170000 | floor 6 / 7 | locality sector 49 | live False | verified False
+100-6003339 | house_many_floors | My Home Greens Apartments | independent house | 3 BHK | bath 3 | carpet 1080 | super 1443 | price 18760000 | floor 7 / 25 | locality sector 65 | live True | verified False
+MAG-6000868 | extreme_ppsf | Brigade Boulevard | apartment | 3 BHK | bath 3 | carpet 110 | super 149 | price 12360000 | floor 4 / 4 | locality sector 82 | live False | verified False
+SQU-6002501 | house_many_floors | My Home Sanctuary | independent house | 3 BHK | bath 3 | carpet 1195 | super 1629 | price 12170000 | floor 14 / 19 | locality sector 56 | live True | verified False
+100-6002307 | large_BHK_0parking | Assetz Elite | apartment | 4 BHK | bath 4 | carpet 1637 | super 2252 | price 24550000 | floor 6 / 19 | locality sector 65 | live True | verified True
+ZER-6000570 | house_many_floors | Prestige Terraces | independent house | 2 BHK | bath 2 | carpet 814 | super 1020 | price 13840000 | floor 5 / 24 | locality sohna road | live False | verified False
+DWE-6001564 | large_BHK_0balcony | Puravankara Greens | apartment | 4 BHK | bath 4 | carpet 1648 | super 2344 | price 32830000 | floor 12 / 28 | locality new gurgaon | live True | verified True
+MAG-6001985 | extreme_ppsf | Shriram Serenity | apartment | 2 BHK | bath 1 | carpet 73 | super 103 | price 14580000 | floor 15 / 19 | locality sector 82 | live False | verified True
+SQU-6001555 | large_BHK_0parking | Salarpuria Greens | apartment | 4 BHK | bath 4 | carpet 1507 | super 1892 | price 13920000 | floor 1 / 6 | locality sector 56 | live False | verified True
+100-6002089 | large_BHK_0balcony | Lodha Greens | apartment | 4 BHK | bath 4 | carpet 1533 | super 2174 | price 24070000 | floor 7 / 15 | locality sector 65 | live True | verified True
+MAG-6003224 | extreme_ppsf | Puravankara Enclave Apartments | apartment | 2 BHK | bath 1 | carpet 73 | super 103 | price 10530000 | floor 23 / 30 | locality sector 82 | live True | verified True
+100-6000174 | house_many_floors | Mantri Crest | independent house | 2 BHK | bath 1 | carpet 883 | super 1224 | price 11470000 | floor 16 / 19 | locality golf course road | live False | verified True
+DWE-6003314 | house_many_floors | Salarpuria-Terraces | independent house | 1 BHK | bath 1 | carpet 387 | super 492 | price 6020000 | floor 10 / 11 | locality golf course road | live True | verified True
+100-6000560 | house_many_floors | Century Vista | independent house | 3 BHK | bath 3 | carpet 1151 | super 1630 | price 14500000 | floor 0 / 30 | locality golf course road | live False | verified False
+MAG-6001996 | house_many_floors | Lodha Greens | independent house | 2 BHK | bath 1 | carpet 788 | super 996 | price 12130000 | floor 4 / 13 | locality dwarka expressway | live False | verified True
+MAG-6002051 | extreme_ppsf | Salarpuria Greens | apartment | 3 BHK | bath 2 | carpet 108 | super 151 | price 21810000 | floor 9 / 27 | locality sector 82 | live False | verified True
+MAG-6000845 | large_BHK_0parking,extreme_ppsf | Sobha Habitat | apartment | 4 BHK | bath 3 | carpet 143 | super 196 | price 25050000 | floor 0 / 4 | locality sector 65 | live True | verified True
+SQU-6000395 | extreme_ppsf | Puravankara Woods | apartment | 4 BHK | bath 4 | carpet 1456 | super 1900 | price 17010 | floor 12 / 12 | locality golf course road | live False | verified True
+DWE-6002897 | large_BHK_0parking | Puravankara Boulevard | apartment | 4 BHK | bath 3 | carpet 1603 | super 2046 | price 28380000 | floor 10 / 23 | locality sector 65 | live True | verified False
+100-6001456 | large_BHK_0balcony | Prestige Elite | apartment | 4 BHK | bath 3 | carpet 1508 | super 1954 | price 20260000 | floor 1 / 30 | locality sohna road | live True | verified True
+MAG-6001986 | large_BHK_0balcony,extreme_ppsf | Century Enclave | apartment | 4 BHK | bath 3 | carpet 136 | super 196 | price 26080000 | floor 9 / 15 | locality mg road | live False | verified False
+MAG-6002723 | large_BHK_0balcony | Brigade Elite | apartment | 4 BHK | bath 3 | carpet 1532 | super 2019 | price 23990000 | floor 11 / 21 | locality sector 56 | live True | verified False
+MAG-6002356 | extreme_ppsf | Prestige Woods | apartment | 3 BHK | bath 2 | carpet 119 | super 157 | price 18520000 | floor 2 / 13 | locality sector 56 | live True | verified True
+MAG-6002011 | large_BHK_0balcony,extreme_ppsf | Mantri Enclave | apartment | 4 BHK | bath 4 | carpet 155 | super 213 | price 29040000 | floor 14 / 27 | locality sector 65 | live True | verified False
+MAG-6003073 | extreme_ppsf | PURAVANKARA PARK | apartment | 3 BHK | bath 3 | carpet 112 | super 161 | price 20800000 | floor 2 / 5 | locality sector 65 | live False | verified False
+MAG-6001823 | extreme_ppsf | Prestige Residency | apartment | 3 BHK | bath 3 | carpet 120 | super 169 | price 19210000 | floor 1 / 5 | locality dwarka expressway | live True | verified True
+MAG-6003499 | extreme_ppsf | Brigade  Greens | apartment | 4 BHK | bath 3 | carpet 143 | super 198 | price 19990000 | floor 11 / 28 | locality dwarka expressway | live False | verified False
+ZER-6001557 | house_many_floors | My Home Woods | independent house | 3 BHK | bath 2 | carpet 1160 | super 1672 | price 23100000 | floor 8 / 23 | locality dwarka expressway | live True | verified True
+MAG-6003336 | extreme_ppsf | Sobha-Pavilion | apartment | 1 BHK | bath 1 | carpet 47 | super 65 | price 7790000 | floor 1 / 8 | locality sohna road | live True | verified True
+MAG-6002759 | extreme_ppsf | Mantri Greens | apartment | 2 BHK | bath 2 | carpet 75 | super 95 | price 9070000 | floor 2 / 8 | locality dlf phase 3 | live True | verified False
+ZER-6000595 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Godrej Boulevard | plot | 0 BHK | bath 0 | carpet 1622 | super 1622 | price 9110000 | floor 0 / 0 | locality dlf phase 3 | live True | verified True
+SQU-6003385 | large_BHK_0balcony | Salarpuria Meadows | apartment | 4 BHK | bath 4 | carpet 1567 | super 2215 | price 19670000 | floor 11 / 12 | locality sector 65 | live True | verified True
+ZER-6001299 | large_BHK_0balcony | Shriram Boulevard | apartment | 4 BHK | bath 4 | carpet 1615 | super 2242 | price 16440000 | floor 3 / 7 | locality sector 65 | live True | verified False
+ZER-6000664 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Assetz Serenity | plot | 0 BHK | bath 0 | carpet 1417 | super 1417 | price 13320000 | floor 0 / 0 | locality sector 82 | live True | verified False
+MAG-6002950 | large_BHK_0balcony | Brigade Meadows | apartment | 4 BHK | bath 4 | carpet 1639 | super 2353 | price 19420000 | floor 3 / 6 | locality golf course road | live True | verified True
+100-6001778 | house_many_floors | Salarpuria Habitat | independent house | 2 BHK | bath 2 | carpet 830 | super 1179 | price 16070000 | floor 3 / 30 | locality sector 82 | live True | verified False
+MAG-6003455 | extreme_ppsf | Casagrand Boulevard | builder floor | 3 BHK | bath 2 | carpet 119 | super 158 | price 16300000 | floor 4 / 10 | locality new gurgaon | live True | verified True
+MAG-6003062 | extreme_ppsf | Prestige  Sanctuary | builder floor | 2 BHK | bath 1 | carpet 68 | super 86 | price 13050000 | floor 4 / 14 | locality sector 49 | live True | verified True
+MAG-6003280 | large_BHK_0balcony,extreme_ppsf | Godrej Boulevard Phase 1 | apartment | 5 BHK | bath 5 | carpet 181 | super 234 | price 24960000 | floor 6 / 6 | locality dlf phase 3 | live True | verified True
+SQU-6000637 | house_many_floors | Brigade Residency | independent house | 3 BHK | bath 3 | carpet 1126 | super 1474 | price 14530000 | floor 27 / 27 | locality sector 65 | live False | verified True
+MAG-6003029 | extreme_ppsf | Prestige Heights | villa | 2 BHK | bath 2 | carpet 75 | super 104 | price 10290000 | floor 4 / 4 | locality new gurgaon | live True | verified False
+100-6000399 | large_BHK_0parking | Mantri Greens | builder floor | 5 BHK | bath 5 | carpet 1903 | super 2699 | price 36130000 | floor 11 / 15 | locality mg road | live False | verified True
+ZER-6001535 | house_many_floors | Mantri Heights | independent house | 4 BHK | bath 4 | carpet 1704 | super 2284 | price 24110000 | floor 2 / 32 | locality mg road | live True | verified False
+MAG-6003287 | large_BHK_0parking,extreme_ppsf | Puravankara-Habitat | apartment | 4 BHK | bath 3 | carpet 153 | super 217 | price 25170000 | floor 2 / 6 | locality mg road | live True | verified True
+MAG-6001029 | extreme_ppsf | Lodha Habitat | apartment | 3 BHK | bath 2 | carpet 117 | super 164 | price 25780000 | floor 6 / 24 | locality golf course road | live True | verified False
+MAG-6002160 | extreme_ppsf | Casagrand Residency | apartment | 3 BHK | bath 3 | carpet 110 | super 143 | price 18430000 | floor 7 / 21 | locality golf course road | live True | verified True
+DWE-6003392 | large_BHK_0balcony,large_BHK_0parking | Rohan  Park | villa | 4 BHK | bath 3 | carpet 1623 | super 2229 | price 23190000 | floor 11 / 30 | locality sohna road | live False | verified True
+ZER-6001680 | house_many_floors | Century Woods | independent house | 2 BHK | bath 2 | carpet 819 | super 1110 | price 12080000 | floor 9 / 14 | locality dwarka expressway | live True | verified True
+MAG-6002769 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Adarsh Residency | plot | 0 BHK | bath 0 | carpet 2227 | super 2227 | price 26440000 | floor 0 / 0 | locality dwarka expressway | live True | verified True
+MAG-6000938 | extreme_ppsf | Nitesh Enclave | apartment | 2 BHK | bath 2 | carpet 73 | super 101 | price 10130000 | floor 1 / 30 | locality dlf phase 3 | live True | verified True
+DWE-6003037 | large_BHK_0parking | Nitesh Meadows | apartment | 4 BHK | bath 4 | carpet 1573 | super 2176 | price 27210000 | floor 5 / 8 | locality sector 82 | live True | verified False
+SQU-6000911 | house_many_floors | Shriram Serenity | independent house | 3 BHK | bath 3 | carpet 1145 | super 1589 | price 22450000 | floor 9 / 17 | locality sector 82 | live True | verified True
+100-6001503 | large_BHK_0parking | Century Enclave | apartment | 5 BHK | bath 5 | carpet 1993 | super 2639 | price 27650000 | floor 10 / 22 | locality mg road | live True | verified False
+MAG-6002440 | extreme_ppsf | Shriram Park | villa | 3 BHK | bath 2 | carpet 108 | super 140 | price 14020000 | floor 17 / 30 | locality sohna road | live True | verified False
+ZER-6001490 | house_many_floors | Lodha Park | independent house | 1 BHK | bath 1 | carpet 285 | super 368 | price 3730000 | floor 32 / 32 | locality sector 65 | live True | verified True
+100-6001307 | large_BHK_0balcony | Puravankara Grand | villa | 4 BHK | bath 3 | carpet 1591 | super 2246 | price 15990000 | floor 4 / 13 | locality golf course road | live True | verified True
+MAG-6001212 | extreme_ppsf | Mantri Serenity | apartment | 2 BHK | bath 1 | carpet 89 | super 122 | price 16100000 | floor 18 / 29 | locality sector 82 | live True | verified True
+SQU-6002322 | large_BHK_0parking | Puravankara Heights | apartment | 5 BHK | bath 5 | carpet 2065 | super 2781 | price 15560000 | floor 18 / 23 | locality golf course road | live True | verified True
+MAG-6002865 | house_many_floors,extreme_ppsf | Brigade Vista | independent house | 1 BHK | bath 1 | carpet 49 | super 61 | price 5040000 | floor 13 / 19 | locality golf course road | live True | verified False
+DWE-6002982 | large_BHK_0parking | Lodha Heights | apartment | 4 BHK | bath 4 | carpet 1584 | super 2018 | price 23970000 | floor 5 / 8 | locality sector 49 | live True | verified False
+MAG-6002129 | extreme_ppsf | Mantri Boulevard | apartment | 2 BHK | bath 1 | carpet 78 | super 103 | price 16070000 | floor 3 / 32 | locality mg road | live True | verified True
+ZER-6003403 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Mantri Grand | plot | 0 BHK | bath 0 | carpet 1855 | super 1855 | price 12700000 | floor 0 / 0 | locality golf course road | live False | verified False
+MAG-6001287 | extreme_ppsf | My Home Pavilion | apartment | 1 BHK | bath 1 | carpet 49 | super 64 | price 8650000 | floor 1 / 11 | locality dlf phase 3 | live True | verified True
+MAG-6000248 | 0BHK+0bath,extreme_ppsf | Mantri Woods | apartment | 0 BHK | bath 0 | carpet 125 | super 174 | price 15550000 | floor 23 / 24 | locality dwarka expressway | live True | verified True
+SQU-6001201 | house_many_floors | Kolte Patil Serenity | independent house | 3 BHK | bath 3 | carpet 1266 | super 1647 | price 14380000 | floor 11 / 24 | locality sector 49 | live True | verified False
+SQU-6000619 | house_many_floors | Salarpuria Elite | independent house | 3 BHK | bath 3 | carpet 1180 | super 1600 | price 8640000 | floor 0 / 16 | locality sector 65 | live True | verified False
+ZER-6001770 | large_BHK_0parking,house_many_floors | Brigade Willows | independent house | 4 BHK | bath 3 | carpet 1490 | super 2034 | price 26850000 | floor 6 / 18 | locality sector 65 | live True | verified False
+DWE-6000243 | house_many_floors | Aparna Grand | independent house | 3 BHK | bath 3 | carpet 1172 | super 1679 | price 22550000 | floor 16 / 19 | locality dwarka expressway | live False | verified True
+MAG-6002430 | extreme_ppsf | Mantri Residency | apartment | 2 BHK | bath 1 | carpet 78 | super 104 | price 15310000 | floor 1 / 8 | locality new gurgaon | live True | verified True
+100-6000040 | house_many_floors | Puravankara Sanctuary | independent house | 3 BHK | bath 2 | carpet 1161 | super 1472 | price 20000000 | floor 4 / 20 | locality dwarka expressway | live False | verified False
+MAG-6000630 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Puravankara Terraces | plot | 0 BHK | bath 0 | carpet 1510 | super 1510 | price 16960000 | floor 0 / 0 | locality sector 56 | live True | verified True
+MAG-6002798 | extreme_ppsf | Kolte Patil Habitat | builder floor | 2 BHK | bath 1 | carpet 68 | super 86 | price 9310000 | floor 10 / 18 | locality golf course road | live True | verified True
+SQU-6002566 | large_BHK_0parking | Adarsh Willows | apartment | 4 BHK | bath 4 | carpet 1595 | super 2312 | price 20560000 | floor 16 / 16 | locality mg road | live False | verified False
+MAG-6002967 | extreme_ppsf | Sobha Grand | apartment | 3 BHK | bath 2 | carpet 123 | super 173 | price 19320000 | floor 4 / 27 | locality mg road | live True | verified True
+100-6003374 | house_many_floors | Brigade  Enclave | independent house | 2 BHK | bath 2 | carpet 823 | super 1172 | price 17670000 | floor 24 / 28 | locality sector 82 | live True | verified False
+MAG-6000055 | extreme_ppsf | Century Willows | apartment | 1 BHK | bath 1 | carpet 49 | super 70 | price 7030000 | floor 4 / 12 | locality sector 56 | live False | verified True
+MAG-6002419 | large_BHK_0balcony | Aparna Boulevard | apartment | 4 BHK | bath 3 | carpet 1577 | super 2010 | price 25300000 | floor 10 / 16 | locality sector 49 | live True | verified False
+100-6002249 | large_BHK_0parking,house_many_floors | Lodha Sanctuary | independent house | 4 BHK | bath 4 | carpet 1572 | super 2190 | price 28580000 | floor 6 / 22 | locality dlf phase 3 | live True | verified True
+100-6003401 | large_BHK_0parking | Kolte Patil Sanctuary Apartments | apartment | 5 BHK | bath 5 | carpet 1827 | super 2278 | price 20570000 | floor 6 / 20 | locality sector 65 | live False | verified True
+100-6002064 | large_BHK_0parking | Sobha Pavilion | apartment | 4 BHK | bath 3 | carpet 1538 | super 2107 | price 23110000 | floor 20 / 21 | locality sector 65 | live True | verified True
+DWE-6002179 | house_many_floors | Prestige Residency | independent house | 2 BHK | bath 1 | carpet 965 | super 1308 | price 18050000 | floor 0 / 31 | locality mg road | live False | verified False
+DWE-6002627 | house_many_floors | Assetz Heights | independent house | 2 BHK | bath 2 | carpet 820 | super 1151 | price 7880000 | floor 6 / 12 | locality sector 49 | live True | verified True
+100-6001919 | large_BHK_0balcony | Salarpuria Meadows | apartment | 4 BHK | bath 4 | carpet 1573 | super 2226 | price 19480000 | floor 11 / 12 | locality sector 65 | live False | verified True
+SQU-6001876 | large_BHK_0balcony | Brigade Meadows | apartment | 4 BHK | bath 4 | carpet 1642 | super 2199 | price 19250000 | floor 16 / 17 | locality dwarka expressway | live True | verified False
+MAG-6001991 | house_many_floors,extreme_ppsf | Lodha Heights | independent house | 3 BHK | bath 3 | carpet 122 | super 153 | price 16890000 | floor 8 / 28 | locality sector 56 | live True | verified True
+100-6001808 | large_BHK_0parking | Puravankara Serenity | apartment | 4 BHK | bath 4 | carpet 1555 | super 2101 | price 27800000 | floor 3 / 9 | locality dlf phase 3 | live True | verified True
+SQU-6000069 | house_many_floors | Prestige Elite | independent house | 3 BHK | bath 2 | carpet 1214 | super 1517 | price 22700000 | floor 17 / 22 | locality dlf phase 3 | live True | verified True
+MAG-6002404 | extreme_ppsf | Lodha Grand | apartment | 3 BHK | bath 2 | carpet 110 | super 147 | price 21290000 | floor 15 / 15 | locality sector 65 | live True | verified True
+100-6001811 | house_many_floors | Sobha Boulevard | independent house | 2 BHK | bath 2 | carpet 877 | super 1234 | price 9630000 | floor 15 / 18 | locality mg road | live True | verified True
+MAG-6001657 | extreme_ppsf | Godrej Woods | apartment | 2 BHK | bath 2 | carpet 81 | super 102 | price 13340000 | floor 12 / 14 | locality sohna road | live True | verified True
+MAG-6001544 | extreme_ppsf | Godrej Crest | apartment | 1 BHK | bath 1 | carpet 47 | super 64 | price 4840000 | floor 16 / 26 | locality dwarka expressway | live True | verified True
+MAG-6000100 | extreme_ppsf | Puravankara Elite | villa | 3 BHK | bath 3 | carpet 114 | super 160 | price 24180000 | floor 1 / 5 | locality sohna road | live True | verified False
+SQU-6000446 | large_BHK_0balcony,large_BHK_0parking,house_many_floors | Brigade Elite | independent house | 4 BHK | bath 4 | carpet 1627 | super 2275 | price 26560000 | floor 8 / 31 | locality golf course road | live False | verified True
+DWE-6003302 | large_BHK_0balcony | Shriram  Terraces | apartment | 5 BHK | bath 4 | carpet 1989 | super 2690 | price 20340000 | floor 8 / 16 | locality dlf phase 3 | live True | verified False
+100-6000229 | large_BHK_0balcony | Kolte Patil Woods | apartment | 4 BHK | bath 3 | carpet 1625 | super 2271 | price 26730000 | floor 15 / 17 | locality new gurgaon | live True | verified False
+SQU-6002520 | large_BHK_0parking | Sobha Enclave | apartment | 5 BHK | bath 4 | carpet 1889 | super 2602 | price 36370000 | floor 19 / 32 | locality sector 49 | live False | verified True
+SQU-6002568 | large_BHK_0parking,house_many_floors | Brigade Habitat | independent house | 5 BHK | bath 4 | carpet 1945 | super 2747 | price 32480000 | floor 9 / 12 | locality new gurgaon | live True | verified True
+MAG-6000558 | house_many_floors | Brigade Willows | independent house | 3 BHK | bath 2 | carpet 109 | super 140 | price 10380000 | floor 8 / 22 | locality dlf phase 3 | live True | verified True
+MAG-6002941 | extreme_ppsf | Aparna Willows | apartment | 5 BHK | bath 4 | carpet 180 | super 229 | price 17250 | floor 14 / 30 | locality dwarka expressway | live True | verified False
+SQU-6001683 | large_BHK_0parking | Puravankara Elite | apartment | 4 BHK | bath 3 | carpet 1437 | super 2038 | price 18220000 | floor 3 / 8 | locality sector 49 | live True | verified True
+MAG-6003165 | extreme_ppsf | Prestige Grand Apartments | apartment | 2 BHK | bath 1 | carpet 75 | super 96 | price 10950000 | floor 17 / 27 | locality sector 56 | live True | verified True
+MAG-6000129 | house_many_floors,extreme_ppsf | Casagrand Meadows | independent house | 1 BHK | bath 1 | carpet 36 | super 45 | price 3830000 | floor 5 / 21 | locality sector 49 | live True | verified True
+ZER-6002616 | large_BHK_0parking | Adarsh Enclave | apartment | 4 BHK | bath 3 | carpet 1624 | super 2244 | price 22890000 | floor 10 / 32 | locality sector 56 | live True | verified True
+100-6002458 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Sobha Serenity | plot | 0 BHK | bath 0 | carpet 1246 | super 1246 | price 7230000 | floor 0 / 0 | locality mg road | live True | verified True
+MAG-6002880 | extreme_ppsf | Godrej Enclave | builder floor | 2 BHK | bath 1 | carpet 68 | super 92 | price 7500000 | floor 11 / 26 | locality new gurgaon | live False | verified True
+100-6000377 | large_BHK_0parking | Century Pavilion | apartment | 4 BHK | bath 4 | carpet 1531 | super 2173 | price 31940000 | floor 25 / 30 | locality dwarka expressway | live True | verified True
+100-6001726 | large_BHK_0parking | Shriram Pavilion | apartment | 4 BHK | bath 3 | carpet 1546 | super 2020 | price 18450000 | floor 30 / 30 | locality sector 82 | live False | verified False
+DWE-6001424 | large_BHK_0balcony | Salarpuria Willows | apartment | 4 BHK | bath 4 | carpet 1562 | super 2068 | price 18990000 | floor 8 / 20 | locality sector 56 | live True | verified False
+SQU-6002319 | large_BHK_0balcony,large_BHK_0parking,house_many_floors | Aparna Vista | independent house | 5 BHK | bath 5 | carpet 1883 | super 2625 | price 19850000 | floor 11 / 18 | locality dwarka expressway | live True | verified True
+DWE-6001584 | house_many_floors | Shriram Meadows | independent house | 3 BHK | bath 3 | carpet 1128 | super 1484 | price 21970000 | floor 4 / 31 | locality sohna road | live True | verified True
+DWE-6000832 | large_BHK_0parking | Adarsh Terraces | apartment | 4 BHK | bath 4 | carpet 1526 | super 1964 | price 10720000 | floor 3 / 31 | locality dwarka expressway | live True | verified True
+MAG-6001724 | extreme_ppsf | Adarsh Sanctuary | builder floor | 4 BHK | bath 4 | carpet 143 | super 204 | price 17970000 | floor 12 / 18 | locality sector 82 | live True | verified True
+100-6002828 | house_many_floors | Godrej Enclave | independent house | 4 BHK | bath 3 | carpet 1566 | super 2115 | price 20940000 | floor 10 / 15 | locality sector 65 | live True | verified True
+MAG-6001124 | extreme_ppsf | Godrej Residency | apartment | 2 BHK | bath 1 | carpet 90 | super 119 | price 15040000 | floor 0 / 12 | locality dlf phase 3 | live True | verified False
+SQU-6003030 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Vista | plot | 0 BHK | bath 0 | carpet 2149 | super 2149 | price 23580000 | floor 0 / 0 | locality dwarka expressway | live True | verified False
+MAG-6001455 | extreme_ppsf | Sobha Residency | apartment | 1 BHK | bath 1 | carpet 45 | super 63 | price 4950000 | floor 4 / 10 | locality dwarka expressway | live True | verified True
+ZER-6003274 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Godrej Boulevard | plot | 0 BHK | bath 0 | carpet 1608 | super 1608 | price 8730000 | floor 0 / 0 | locality dlf phase 3 | live True | verified True
+ZER-6000236 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Sobha Woods | plot | 0 BHK | bath 0 | carpet 2800 | super 2800 | price 31720000 | floor 0 / 0 | locality dlf phase 3 | live True | verified False
+ZER-6002700 | house_many_floors | Puravankara Habitat | independent house | 2 BHK | bath 2 | carpet 860 | super 1227 | price 15680000 | floor 4 / 20 | locality sector 82 | live True | verified True
+100-6002241 | house_many_floors | Brigade Greens | independent house | 5 BHK | bath 5 | carpet 1944 | super 2760 | price 38890000 | floor 7 / 12 | locality dwarka expressway | live True | verified False
+DWE-6000464 | large_BHK_0parking | Shriram Vista | apartment | 4 BHK | bath 3 | carpet 1571 | super 2161 | price 27070000 | floor 7 / 24 | locality sector 56 | live False | verified False
+MAG-6000713 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Century Residency | plot | 0 BHK | bath 0 | carpet 1908 | super 1908 | price 10920000 | floor 0 / 0 | locality dwarka expressway | live True | verified False
+MAG-6000661 | extreme_ppsf | Lodha Pavilion | apartment | 3 BHK | bath 3 | carpet 103 | super 137 | price 19890000 | floor 0 / 4 | locality sector 49 | live True | verified True
+100-6002359 | large_BHK_0balcony,large_BHK_0parking | Mantri Greens | apartment | 4 BHK | bath 4 | carpet 1573 | super 2249 | price 10090000 | floor 8 / 10 | locality mg road | live True | verified True
+MAG-6001163 | extreme_ppsf | Century Habitat | apartment | 2 BHK | bath 2 | carpet 72 | super 102 | price 10160000 | floor 16 / 23 | locality sector 65 | live True | verified False
+MAG-6003093 | extreme_ppsf | The Shriram Sanctuary | apartment | 3 BHK | bath 3 | carpet 104 | super 143 | price 20000000 | floor 8 / 31 | locality sohna road | live True | verified True
+MAG-6000614 | large_BHK_0parking,extreme_ppsf | Salarpuria Meadows | apartment | 4 BHK | bath 4 | carpet 153 | super 205 | price 15780000 | floor 5 / 9 | locality sohna road | live True | verified True
+MAG-6003013 | large_BHK_0parking | Sobha Serenity | apartment | 4 BHK | bath 3 | carpet 1571 | super 2102 | price 22890000 | floor 9 / 10 | locality new gurgaon | live False | verified False
+MAG-6002611 | extreme_ppsf | Brigade Serenity | apartment | 4 BHK | bath 4 | carpet 141 | super 192 | price 22390000 | floor 6 / 26 | locality mg road | live True | verified False
+MAG-6000427 | extreme_ppsf | Mantri Park | builder floor | 2 BHK | bath 1 | carpet 72 | super 102 | price 7570000 | floor 0 / 21 | locality dwarka expressway | live True | verified False
+SQU-6001580 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Brigade Elite | plot | 0 BHK | bath 0 | carpet 1274 | super 1274 | price 12820000 | floor 0 / 0 | locality new gurgaon | live True | verified True
+MAG-6003494 | extreme_ppsf | KOLTE PATIL WILLOWS | apartment | 2 BHK | bath 1 | carpet 77 | super 107 | price 8130000 | floor 2 / 7 | locality sector 65 | live False | verified False
+ZER-6001371 | large_BHK_0parking | Mantri Pavilion | apartment | 5 BHK | bath 4 | carpet 2014 | super 2831 | price 31370000 | floor 7 / 14 | locality new gurgaon | live True | verified False
+DWE-6002804 | large_BHK_0parking | Shriram Boulevard | apartment | 4 BHK | bath 4 | carpet 1588 | super 2302 | price 18830000 | floor 0 / 10 | locality sector 65 | live True | verified True
+100-6000026 | house_many_floors | Mantri Habitat | independent house | 3 BHK | bath 2 | carpet 1303 | super 1764 | price 25350000 | floor 3 / 22 | locality sohna road | live True | verified True
+100-6003492 | large_BHK_0parking | Puravankara  Serenity | apartment | 4 BHK | bath 3 | carpet 1687 | super 2135 | price 31330000 | floor 8 / 18 | locality sector 56 | live True | verified True
+100-6002344 | large_BHK_0balcony | Brigade Habitat | builder floor | 4 BHK | bath 3 | carpet 1616 | super 2030 | price 27710000 | floor 20 / 30 | locality sector 56 | live True | verified True
+SQU-6002340 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Prestige Vista | plot | 0 BHK | bath 0 | carpet 1173 | super 1173 | price 6240000 | floor 0 / 0 | locality new gurgaon | live True | verified True
+SQU-6000206 | house_many_floors | Lodha Woods | independent house | 1 BHK | bath 1 | carpet 475 | super 640 | price 4410000 | floor 14 / 23 | locality mg road | live True | verified False
+DWE-6000108 | large_BHK_0parking | Puravankara Boulevard | apartment | 4 BHK | bath 4 | carpet 1509 | super 1928 | price 13030000 | floor 2 / 8 | locality sohna road | live True | verified True
+MAG-6000273 | extreme_ppsf | Mantri Heights | apartment | 4 BHK | bath 3 | carpet 146 | super 211 | price 31330000 | floor 1 / 26 | locality new gurgaon | live True | verified True
+MAG-6003257 | extreme_ppsf | Puravankara Vista Phase 1 | independent house | 2 BHK | bath 2 | carpet 82 | super 105 | price 15830000 | floor 0 / 9 | locality sohna road | live True | verified False
+DWE-6002797 | large_BHK_0balcony,large_BHK_0parking | Aparna Crest | apartment | 4 BHK | bath 4 | carpet 1526 | super 2144 | price 16240000 | floor 15 / 20 | locality mg road | live True | verified False
+MAG-6000687 | extreme_ppsf | Aparna Meadows | apartment | 3 BHK | bath 3 | carpet 106 | super 136 | price 20080000 | floor 7 / 22 | locality golf course road | live True | verified False
+MAG-6001520 | extreme_ppsf | Puravankara Enclave | apartment | 3 BHK | bath 3 | carpet 106 | super 153 | price 23990000 | floor 0 / 10 | locality sector 56 | live True | verified True
+MAG-6000755 | extreme_ppsf | Mantri Terraces | apartment | 3 BHK | bath 3 | carpet 106 | super 145 | price 16330000 | floor 9 / 18 | locality sohna road | live True | verified True
+MAG-6001363 | extreme_ppsf | Mantri Woods | apartment | 3 BHK | bath 3 | carpet 101 | super 134 | price 20590000 | floor 17 / 24 | locality dwarka expressway | live True | verified True
+SQU-6002354 | large_BHK_0parking | Salarpuria Vista | villa | 4 BHK | bath 4 | carpet 1576 | super 1986 | price 21710000 | floor 3 / 24 | locality dwarka expressway | live True | verified True
+SQU-6000303 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Brigade Elite | plot | 0 BHK | bath 0 | carpet 973 | super 973 | price 5700000 | floor 0 / 0 | locality sohna road | live True | verified True
+DWE-6000730 | house_many_floors | Rohan Vista | independent house | 2 BHK | bath 1 | carpet 828 | super 1196 | price 10980000 | floor 24 / 31 | locality sector 49 | live True | verified True
+DWE-6003190 | house_many_floors | Brigade Heights Phase 1 | independent house | 3 BHK | bath 3 | carpet 1210 | super 1631 | price 15340000 | floor 25 / 29 | locality sohna road | live False | verified True
+ZER-6001469 | house_many_floors | Rohan Meadows | independent house | 3 BHK | bath 2 | carpet 1238 | super 1750 | price 19180000 | floor 2 / 26 | locality dlf phase 3 | live True | verified True
+MAG-6002406 | extreme_ppsf | Nitesh Willows | apartment | 3 BHK | bath 3 | carpet 108 | super 143 | price 22010000 | floor 9 / 12 | locality sector 65 | live True | verified False
+SQU-6001470 | large_BHK_0balcony,large_BHK_0parking | Sobha Willows | apartment | 5 BHK | bath 5 | carpet 1908 | super 2728 | price 20320000 | floor 8 / 12 | locality golf course road | live True | verified False
+MAG-6000119 | extreme_ppsf | Mantri Heights | apartment | 3 BHK | bath 2 | carpet 111 | super 140 | price 16770000 | floor 5 / 5 | locality sohna road | live False | verified True
+DWE-6003263 | house_many_floors | Shriram Habitat Apartments | independent house | 2 BHK | bath 2 | carpet 878 | super 1100 | price 8710000 | floor 0 / 11 | locality sector 65 | live True | verified False
+100-6000297 | large_BHK_0balcony | Century Terraces | villa | 5 BHK | bath 5 | carpet 1999 | super 2722 | price 18360000 | floor 9 / 18 | locality sector 82 | live True | verified False
+MAG-6001682 | extreme_ppsf | Prestige Enclave | apartment | 3 BHK | bath 3 | carpet 114 | super 158 | price 24030000 | floor 11 / 14 | locality sector 56 | live True | verified False
+MAG-6001130 | extreme_ppsf | Godrej Meadows | apartment | 2 BHK | bath 1 | carpet 78 | super 110 | price 16550000 | floor 3 / 22 | locality new gurgaon | live False | verified True
+MAG-6001372 | extreme_ppsf | Adarsh Vista | apartment | 3 BHK | bath 2 | carpet 105 | super 140 | price 13120000 | floor 9 / 11 | locality dwarka expressway | live True | verified True
+MAG-6001381 | large_BHK_0parking | Casagrand Willows | apartment | 4 BHK | bath 3 | carpet 1499 | super 2111 | price 22020000 | floor 5 / 9 | locality dlf phase 3 | live False | verified True
+100-6001902 | house_many_floors | Shriram Heights | independent house | 3 BHK | bath 2 | carpet 1137 | super 1424 | price 11520000 | floor 3 / 20 | locality sector 65 | live True | verified True
+100-6002060 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Kolte Patil Greens | plot | 0 BHK | bath 0 | carpet 1503 | super 1503 | price 12120000 | floor 0 / 0 | locality sohna road | live True | verified False
+100-6002100 | large_BHK_0parking | Shriram Vista | apartment | 4 BHK | bath 4 | carpet 1616 | super 2234 | price 21920000 | floor 13 / 14 | locality mg road | live True | verified False
+MAG-6001041 | extreme_ppsf | Prestige Residency | apartment | 1 BHK | bath 1 | carpet 37 | super 50 | price 7620000 | floor 0 / 4 | locality mg road | live True | verified False
+MAG-6002336 | extreme_ppsf | Kolte Patil Residency | apartment | 2 BHK | bath 2 | carpet 90 | super 131 | price 16680000 | floor 6 / 12 | locality sector 49 | live True | verified True
+SQU-6000440 | large_BHK_0parking | Prestige Serenity | apartment | 4 BHK | bath 3 | carpet 1578 | super 2255 | price 14980000 | floor 8 / 14 | locality sector 65 | live False | verified True
+MAG-6001833 | house_many_floors | Brigade Park | independent house | 3 BHK | bath 2 | carpet 1250 | super 1568 | price 15910000 | floor 1 / 21 | locality dlf phase 3 | live True | verified True
+MAG-6002343 | extreme_ppsf | Rohan Sanctuary | apartment | 2 BHK | bath 1 | carpet 79 | super 102 | price 9600000 | floor 17 / 18 | locality sector 65 | live True | verified False
+MAG-6001276 | extreme_ppsf | Kolte Patil Woods | builder floor | 2 BHK | bath 1 | carpet 80 | super 108 | price 12490000 | floor 3 / 7 | locality sector 56 | live False | verified False
+MAG-6002007 | house_many_floors,extreme_ppsf | Puravankara Pavilion | independent house | 2 BHK | bath 2 | carpet 82 | super 113 | price 13040000 | floor 12 / 26 | locality dlf phase 3 | live True | verified True
+ZER-6000509 | large_BHK_0parking | Assetz Habitat | apartment | 5 BHK | bath 5 | carpet 1776 | super 2298 | price 17820000 | floor 11 / 32 | locality golf course road | live True | verified True
+DWE-6002233 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Kolte Patil Park | plot | 0 BHK | bath 0 | carpet 1662 | super 1662 | price 11540000 | floor 0 / 0 | locality dwarka expressway | live True | verified False
+MAG-6002295 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Kolte Patil Willows | plot | 0 BHK | bath 0 | carpet 1688 | super 1688 | price 17440000 | floor 0 / 0 | locality sector 49 | live True | verified True
+SQU-6001464 | house_many_floors | Brigade Heights | independent house | 3 BHK | bath 3 | carpet 1262 | super 1809 | price 23490000 | floor 6 / 20 | locality sector 56 | live True | verified True
+MAG-6003358 | large_BHK_0parking | The Century Enclave | apartment | 5 BHK | bath 5 | carpet 187 | super 244 | price 11760000 | floor 10 / 22 | locality mg road | live True | verified True
+MAG-6001279 | extreme_ppsf | Lodha Vista | apartment | 3 BHK | bath 3 | carpet 123 | super 174 | price 27800000 | floor 1 / 19 | locality sector 56 | live True | verified True
+100-6000101 | large_BHK_0parking | Sobha Greens | apartment | 4 BHK | bath 4 | carpet 1639 | super 2055 | price 27860000 | floor 17 / 21 | locality new gurgaon | live True | verified True
+SQU-6002693 | large_BHK_0balcony | Prestige Heights | apartment | 4 BHK | bath 3 | carpet 1529 | super 2216 | price 19360000 | floor 19 / 31 | locality golf course road | live True | verified True
+DWE-6001929 | large_BHK_0parking | Prestige Elite | apartment | 5 BHK | bath 5 | carpet 1865 | super 2347 | price 25510000 | floor 3 / 14 | locality sohna road | live True | verified True
+SQU-6001613 | large_BHK_0parking | My Home Serenity | apartment | 5 BHK | bath 4 | carpet 1896 | super 2599 | price 31750000 | floor 0 / 4 | locality mg road | live True | verified False
+DWE-6002008 | large_BHK_0parking | Brigade Woods | apartment | 4 BHK | bath 3 | carpet 1550 | super 2120 | price 17460000 | floor 15 / 27 | locality sector 82 | live False | verified True
+MAG-6002099 | extreme_ppsf | Brigade Boulevard | villa | 2 BHK | bath 2 | carpet 81 | super 109 | price 15000000 | floor 20 / 29 | locality sohna road | live True | verified True
+MAG-6003380 | extreme_ppsf | Mantri-Enclave | apartment | 2 BHK | bath 1 | carpet 78 | super 109 | price 17290000 | floor 19 / 22 | locality sector 82 | live True | verified True
+SQU-6002272 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Casagrand Meadows | plot | 0 BHK | bath 0 | carpet 2026 | super 2026 | price 23780000 | floor 0 / 0 | locality golf course road | live False | verified True
+MAG-6001324 | extreme_ppsf | Salarpuria Meadows | apartment | 1 BHK | bath 1 | carpet 49 | super 64 | price 7610000 | floor 5 / 6 | locality new gurgaon | live True | verified False
+MAG-6001097 | extreme_ppsf | Casagrand Park | apartment | 3 BHK | bath 2 | carpet 114 | super 154 | price 13380000 | floor 12 / 23 | locality sector 49 | live False | verified True
+MAG-6001474 | 0BHK+0bath,0/0_floor,carpet_equals_super | Aparna Elite | plot | 0 BHK | bath 0 | carpet 156 | super 156 | price 11980000 | floor 0 / 0 | locality sohna road | live False | verified True
+ZER-6003465 | large_BHK_0balcony,house_many_floors | nitesh park | independent house | 4 BHK | bath 4 | carpet 1529 | super 2209 | price 20500000 | floor 13 / 29 | locality golf course road | live True | verified True
+SQU-6002908 | house_many_floors | Aparna Crest | independent house | 2 BHK | bath 2 | carpet 825 | super 1040 | price 10460000 | floor 19 / 25 | locality new gurgaon | live True | verified False
+ZER-6001747 | house_many_floors | Nitesh Terraces | independent house | 3 BHK | bath 2 | carpet 1193 | super 1675 | price 22500000 | floor 12 / 29 | locality sector 49 | live True | verified True
+DWE-6000679 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Vista | plot | 0 BHK | bath 0 | carpet 1614 | super 1614 | price 9930000 | floor 0 / 0 | locality sector 82 | live True | verified False
+SQU-6001980 | large_BHK_0balcony,large_BHK_0parking | Godrej Crest | apartment | 5 BHK | bath 4 | carpet 1921 | super 2767 | price 22260000 | floor 2 / 27 | locality sector 56 | live False | verified True
+ZER-6000604 | house_many_floors | Godrej Grand | independent house | 1 BHK | bath 1 | carpet 446 | super 559 | price 6240000 | floor 1 / 14 | locality new gurgaon | live False | verified True
+MAG-6002763 | extreme_ppsf | Nitesh Meadows | apartment | 3 BHK | bath 3 | carpet 112 | super 147 | price 21310000 | floor 9 / 20 | locality mg road | live True | verified True
+MAG-6000917 | house_many_floors | Assetz Elite | independent house | 3 BHK | bath 2 | carpet 1168 | super 1548 | price 15430000 | floor 6 / 20 | locality sector 82 | live True | verified True
+MAG-6002441 | house_many_floors,extreme_ppsf | Assetz Meadows | independent house | 2 BHK | bath 2 | carpet 71 | super 102 | price 15790000 | floor 15 / 32 | locality mg road | live True | verified False
+MAG-6000212 | 0BHK+0bath,0BHK_large_area | Adarsh Habitat | builder floor | 0 BHK | bath 0 | carpet 904 | super 1214 | price 12950000 | floor 0 / 20 | locality sector 82 | live True | verified False
+DWE-6002667 | house_many_floors | Casagrand Heights | independent house | 3 BHK | bath 2 | carpet 1300 | super 1732 | price 11560000 | floor 4 / 16 | locality sohna road | live True | verified True
+SQU-6000910 | large_BHK_0parking | Salarpuria Meadows | villa | 4 BHK | bath 4 | carpet 1591 | super 2243 | price 29790000 | floor 2 / 10 | locality new gurgaon | live False | verified True
+MAG-6003480 | extreme_ppsf | Aparna Sanctuary Phase 1 | independent house | 3 BHK | bath 3 | carpet 101 | super 140 | price 18540000 | floor 2 / 6 | locality sector 65 | live True | verified True
+100-6000666 | large_BHK_0balcony,large_BHK_0parking | Kolte Patil Grand | apartment | 4 BHK | bath 3 | carpet 1598 | super 2296 | price 17160000 | floor 4 / 14 | locality sohna road | live True | verified False
+MAG-6001525 | extreme_ppsf | Assetz Greens | apartment | 2 BHK | bath 2 | carpet 75 | super 99 | price 14640000 | floor 3 / 12 | locality dlf phase 3 | live True | verified True
+ZER-6002854 | large_BHK_0parking | Kolte Patil Sanctuary | apartment | 5 BHK | bath 5 | carpet 1809 | super 2294 | price 19850000 | floor 6 / 20 | locality sector 65 | live True | verified True
+MAG-6001755 | large_BHK_0balcony | Kolte Patil Greens | apartment | 4 BHK | bath 3 | carpet 1580 | super 2205 | price 27120000 | floor 23 / 24 | locality mg road | live True | verified False
+MAG-6000563 | house_many_floors,extreme_ppsf | Salarpuria Pavilion | independent house | 2 BHK | bath 2 | carpet 77 | super 105 | price 12030000 | floor 9 / 27 | locality sector 49 | live True | verified True
+ZER-6003447 | large_BHK_0balcony,large_BHK_0parking | kolte patil grand | apartment | 4 BHK | bath 3 | carpet 1597 | super 2298 | price 16900000 | floor 4 / 14 | locality sohna road | live True | verified False
+100-6001220 | house_many_floors | Puravankara Enclave | independent house | 2 BHK | bath 2 | carpet 743 | super 1062 | price 7640000 | floor 2 / 31 | locality golf course road | live True | verified False
+MAG-6002516 | extreme_ppsf | Shriram Boulevard | villa | 3 BHK | bath 3 | carpet 109 | super 144 | price 19710000 | floor 4 / 12 | locality golf course road | live True | verified False
+SQU-6002260 | large_BHK_0balcony | Sobha Vista | independent house | 4 BHK | bath 3 | carpet 1595 | super 2194 | price 16750000 | floor 6 / 9 | locality dlf phase 3 | live False | verified True
+100-6003369 | large_BHK_0balcony,large_BHK_0parking | Rohan-Habitat | apartment | 5 BHK | bath 5 | carpet 1948 | super 2474 | price 33520000 | floor 6 / 9 | locality sector 49 | live True | verified True
+MAG-6000456 | extreme_ppsf | Rohan Park | apartment | 4 BHK | bath 3 | carpet 149 | super 206 | price 27680000 | floor 15 / 23 | locality new gurgaon | live True | verified False
+MAG-6003398 | 0BHK+0bath,0/0_floor,carpet_equals_super | Assetz-Residency | plot | 0 BHK | bath 0 | carpet 167 | super 167 | price 10500000 | floor 0 / 0 | locality sector 49 | live True | verified True
+MAG-6003188 | large_BHK_0balcony,large_BHK_0parking | The Salarpuria Pavilion | apartment | 4 BHK | bath 4 | carpet 1494 | super 2113 | price 26280000 | floor 15 / 24 | locality sector 65 | live True | verified False
+SQU-6003149 | large_BHK_0balcony | Mantri Terraces Apartments | apartment | 4 BHK | bath 4 | carpet 1579 | super 2031 | price 27620000 | floor 6 / 6 | locality dwarka expressway | live True | verified True
+DWE-6000792 | house_many_floors | Godrej Meadows | independent house | 3 BHK | bath 2 | carpet 1265 | super 1736 | price 21820000 | floor 22 / 26 | locality new gurgaon | live False | verified False
+ZER-6000495 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Lodha Willows | plot | 0 BHK | bath 0 | carpet 1500 | super 1500 | price 14650000 | floor 0 / 0 | locality dwarka expressway | live False | verified True
+MAG-6002682 | extreme_ppsf | Sobha Elite | builder floor | 3 BHK | bath 2 | carpet 106 | super 139 | price 14090000 | floor 3 / 7 | locality sohna road | live True | verified True
+SQU-6002955 | large_BHK_0parking | Lodha Serenity | apartment | 4 BHK | bath 3 | carpet 1554 | super 2021 | price 23460000 | floor 18 / 31 | locality sector 49 | live True | verified False
+SQU-6001541 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Kolte Patil Heights | plot | 0 BHK | bath 0 | carpet 1559 | super 1559 | price 13040000 | floor 0 / 0 | locality sector 56 | live True | verified True
+100-6003015 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Vista | plot | 0 BHK | bath 0 | carpet 2278 | super 2278 | price 22260000 | floor 0 / 0 | locality new gurgaon | live True | verified False
+100-6002603 | large_BHK_0balcony | Godrej Sanctuary | apartment | 5 BHK | bath 5 | carpet 1918 | super 2705 | price 21310000 | floor 11 / 20 | locality new gurgaon | live True | verified True
+SQU-6002464 | large_BHK_0balcony,large_BHK_0parking | Lodha Boulevard | apartment | 4 BHK | bath 4 | carpet 1635 | super 2210 | price 17430000 | floor 11 / 20 | locality golf course road | live True | verified False
+MAG-6001402 | extreme_ppsf | Casagrand Boulevard | apartment | 1 BHK | bath 1 | carpet 48 | super 63 | price 9410000 | floor 3 / 6 | locality dwarka expressway | live True | verified True
+MAG-6002612 | extreme_ppsf | Salarpuria Vista | apartment | 3 BHK | bath 2 | carpet 106 | super 134 | price 17310000 | floor 13 / 17 | locality sector 56 | live False | verified False
+SQU-6000364 | house_many_floors | Kolte Patil Elite | independent house | 2 BHK | bath 2 | carpet 904 | super 1169 | price 8100000 | floor 23 / 24 | locality sector 65 | live False | verified True
+DWE-6001797 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Shriram Heights | plot | 0 BHK | bath 0 | carpet 1860 | super 1860 | price 19410000 | floor 0 / 0 | locality sohna road | live True | verified False
+MAG-6001815 | extreme_ppsf | Prestige Park | apartment | 2 BHK | bath 2 | carpet 81 | super 115 | price 11490000 | floor 5 / 5 | locality sector 49 | live True | verified False
+MAG-6001774 | extreme_ppsf | Aparna Habitat | builder floor | 3 BHK | bath 3 | carpet 121 | super 157 | price 20740000 | floor 2 / 18 | locality sector 65 | live True | verified False
+MAG-6003474 | large_BHK_0balcony | adarsh grand | apartment | 5 BHK | bath 4 | carpet 1729 | super 2433 | price 24450000 | floor 14 / 15 | locality sector 65 | live True | verified False
+MAG-6002081 | extreme_ppsf | Godrej Elite | apartment | 4 BHK | bath 4 | carpet 135 | super 182 | price 15160000 | floor 2 / 9 | locality new gurgaon | live True | verified False
+DWE-6003175 | large_BHK_0parking,house_many_floors | lodha meadows | independent house | 5 BHK | bath 4 | carpet 2013 | super 2599 | price 31280000 | floor 3 / 15 | locality sector 65 | live True | verified False
+DWE-6000214 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Residency | plot | 0 BHK | bath 0 | carpet 1909 | super 1909 | price 21990000 | floor 0 / 0 | locality sector 49 | live True | verified True
+DWE-6000584 | large_BHK_0balcony | Shriram Grand | apartment | 4 BHK | bath 4 | carpet 1557 | super 1988 | price 23150000 | floor 4 / 10 | locality dwarka expressway | live True | verified True
+DWE-6000698 | large_BHK_0parking | Lodha Terraces | apartment | 4 BHK | bath 4 | carpet 1678 | super 2425 | price 17010000 | floor 5 / 8 | locality sector 65 | live True | verified True
+MAG-6003472 | extreme_ppsf | Lodha-Terraces | apartment | 3 BHK | bath 3 | carpet 112 | super 158 | price 12710000 | floor 0 / 5 | locality sector 65 | live True | verified False
+DWE-6003209 | large_BHK_0parking | My  Home  Serenity | apartment | 5 BHK | bath 4 | carpet 1889 | super 2617 | price 33300000 | floor 0 / 4 | locality mg road | live True | verified False
+MAG-6000148 | extreme_ppsf | Kolte Patil Heights | apartment | 1 BHK | bath 1 | carpet 43 | super 58 | price 6820000 | floor 21 / 23 | locality dlf phase 3 | live True | verified False
+DWE-6002964 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Godrej Greens | plot | 0 BHK | bath 0 | carpet 2213 | super 2213 | price 21330000 | floor 0 / 0 | locality sector 49 | live True | verified False
+SQU-6000697 | large_BHK_0parking | Aparna Pavilion | apartment | 4 BHK | bath 3 | carpet 1450 | super 2074 | price 13500000 | floor 2 / 15 | locality dwarka expressway | live False | verified True
+100-6002429 | large_BHK_0balcony | Rohan Heights | apartment | 5 BHK | bath 5 | carpet 1918 | super 2483 | price 24500000 | floor 23 / 23 | locality sohna road | live True | verified False
+DWE-6001394 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Brigade Pavilion | plot | 0 BHK | bath 0 | carpet 2033 | super 2033 | price 21180000 | floor 0 / 0 | locality sector 65 | live False | verified True
+SQU-6001388 | house_many_floors | Lodha Greens | independent house | 3 BHK | bath 2 | carpet 1060 | super 1518 | price 16550000 | floor 23 / 24 | locality sohna road | live False | verified True
+MAG-6003297 | large_BHK_0parking,extreme_ppsf | Sobha Greens Apartments | apartment | 4 BHK | bath 4 | carpet 152 | super 192 | price 27970000 | floor 17 / 21 | locality new gurgaon | live True | verified True
+MAG-6001243 | 0BHK+0bath,0/0_floor,carpet_equals_super | Rohan Serenity | plot | 0 BHK | bath 0 | carpet 97 | super 97 | price 9090000 | floor 0 / 0 | locality mg road | live True | verified True
+MAG-6001065 | extreme_ppsf | Adarsh Elite | builder floor | 3 BHK | bath 2 | carpet 121 | super 165 | price 25070000 | floor 3 / 5 | locality sector 82 | live True | verified False
+MAG-6002601 | house_many_floors | Aparna Vista | independent house | 3 BHK | bath 3 | carpet 1217 | super 1617 | price 22830000 | floor 3 / 31 | locality dlf phase 3 | live True | verified True
+MAG-6001194 | extreme_ppsf | Casagrand Grand | villa | 3 BHK | bath 3 | carpet 113 | super 163 | price 25760000 | floor 1 / 6 | locality dlf phase 3 | live False | verified True
+MAG-6001586 | extreme_ppsf | Century Pavilion | apartment | 2 BHK | bath 2 | carpet 74 | super 99 | price 10340000 | floor 2 / 12 | locality dwarka expressway | live True | verified False
+ZER-6002720 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Adarsh Woods | plot | 0 BHK | bath 0 | carpet 2289 | super 2289 | price 16750000 | floor 0 / 0 | locality dlf phase 3 | live True | verified False
+MAG-6002191 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Century Grand | plot | 0 BHK | bath 0 | carpet 2134 | super 2134 | price 21420000 | floor 0 / 0 | locality golf course road | live False | verified True
+DWE-6000847 | large_BHK_0parking | Nitesh Habitat | apartment | 4 BHK | bath 3 | carpet 1578 | super 1996 | price 20450000 | floor 16 / 16 | locality dlf phase 3 | live True | verified True
+MAG-6002779 | large_BHK_0balcony,house_many_floors | Assetz Meadows | independent house | 5 BHK | bath 5 | carpet 1962 | super 2778 | price 19710000 | floor 10 / 14 | locality dlf phase 3 | live True | verified True
+SQU-6001880 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Assetz Residency | plot | 0 BHK | bath 0 | carpet 1781 | super 1781 | price 10520000 | floor 0 / 0 | locality sector 49 | live True | verified True
+MAG-6002504 | extreme_ppsf | Prestige Vista | villa | 4 BHK | bath 3 | carpet 151 | super 190 | price 22920000 | floor 3 / 4 | locality new gurgaon | live True | verified False
+SQU-6001162 | large_BHK_0parking | Nitesh Pavilion | apartment | 4 BHK | bath 4 | carpet 1542 | super 1952 | price 15140000 | floor 5 / 19 | locality dlf phase 3 | live True | verified False
+DWE-6002296 | house_many_floors | Adarsh Meadows | independent house | 2 BHK | bath 2 | carpet 946 | super 1204 | price 9610000 | floor 10 / 22 | locality sector 82 | live True | verified True
+ZER-6000158 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Kolte Patil Willows | plot | 0 BHK | bath 0 | carpet 1909 | super 1909 | price 13740000 | floor 0 / 0 | locality mg road | live True | verified False
+MAG-6000017 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Lodha Greens | plot | 0 BHK | bath 0 | carpet 2121 | super 2121 | price 21730000 | floor 0 / 0 | locality new gurgaon | live False | verified False
+DWE-6000181 | large_BHK_0balcony | Shriram Elite | apartment | 4 BHK | bath 3 | carpet 1573 | super 2123 | price 29400000 | floor 13 / 17 | locality dwarka expressway | live True | verified True
+MAG-6002053 | extreme_ppsf | Brigade Heights | villa | 3 BHK | bath 2 | carpet 109 | super 156 | price 20410000 | floor 9 / 17 | locality golf course road | live True | verified False
+MAG-6003023 | extreme_ppsf | Casagrand Habitat | apartment | 3 BHK | bath 2 | carpet 122 | super 163 | price 16950000 | floor 4 / 24 | locality dlf phase 3 | live True | verified True
+MAG-6001718 | extreme_ppsf | Brigade Serenity | villa | 3 BHK | bath 2 | carpet 121 | super 174 | price 12730000 | floor 0 / 4 | locality dlf phase 3 | live True | verified True
+SQU-6002991 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Mantri Greens | plot | 0 BHK | bath 0 | carpet 2179 | super 2179 | price 18570000 | floor 0 / 0 | locality golf course road | live False | verified True
+100-6001599 | extreme_ppsf | Prestige Habitat | apartment | 5 BHK | bath 5 | carpet 1899 | super 2402 | price 26260 | floor 13 / 22 | locality sector 49 | live False | verified True
+100-6000922 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Enclave | plot | 0 BHK | bath 0 | carpet 1558 | super 1558 | price 15050000 | floor 0 / 0 | locality mg road | live True | verified True
+SQU-6000001 | 0BHK+0bath,0BHK_large_area | Nitesh Heights | apartment | 0 BHK | bath 0 | carpet 921 | super 1300 | price 17620000 | floor 9 / 9 | locality sector 65 | live True | verified True
+MAG-6003072 | extreme_ppsf | Lodha  Habitat | apartment | 3 BHK | bath 3 | carpet 106 | super 145 | price 14660000 | floor 10 / 10 | locality dwarka expressway | live True | verified True
+SQU-6001040 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | My Home Boulevard | plot | 0 BHK | bath 0 | carpet 1249 | super 1249 | price 10000000 | floor 0 / 0 | locality sohna road | live True | verified True
+DWE-6000071 | large_BHK_0parking | Adarsh Park | apartment | 4 BHK | bath 4 | carpet 1656 | super 2354 | price 31030000 | floor 7 / 19 | locality sector 82 | live True | verified False
+MAG-6002896 | extreme_ppsf | Brigade Heights | builder floor | 4 BHK | bath 4 | carpet 139 | super 196 | price 22870000 | floor 2 / 10 | locality sector 65 | live True | verified True
+MAG-6003324 | large_BHK_0balcony,extreme_ppsf | Lodha-Crest | villa | 4 BHK | bath 4 | carpet 141 | super 178 | price 27510000 | floor 4 / 31 | locality sector 49 | live True | verified True
+MAG-6000358 | house_many_floors | Puravankara Park | independent house | 3 BHK | bath 3 | carpet 1152 | super 1487 | price 18420000 | floor 16 / 28 | locality sector 65 | live True | verified True
+100-6001572 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Assetz Enclave | plot | 0 BHK | bath 0 | carpet 1957 | super 1957 | price 12560000 | floor 0 / 0 | locality new gurgaon | live False | verified True
+MAG-6000788 | extreme_ppsf | Century Vista | builder floor | 2 BHK | bath 2 | carpet 84 | super 111 | price 17960000 | floor 18 / 30 | locality new gurgaon | live False | verified True
+SQU-6003131 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Vista Apartments | plot | 0 BHK | bath 0 | carpet 1606 | super 1606 | price 10030000 | floor 0 / 0 | locality sector 82 | live True | verified False
+DWE-6002649 | house_many_floors | Shriram Habitat | independent house | 2 BHK | bath 2 | carpet 875 | super 1095 | price 8840000 | floor 0 / 11 | locality sector 65 | live True | verified False
+MAG-6001725 | extreme_ppsf | Casagrand Heights | builder floor | 4 BHK | bath 3 | carpet 144 | super 203 | price 23710000 | floor 10 / 22 | locality sector 56 | live True | verified True
+DWE-6003402 | large_BHK_0balcony | The Adarsh Pavilion | apartment | 4 BHK | bath 4 | carpet 1506 | super 1874 | price 22260000 | floor 13 / 31 | locality sector 65 | live True | verified True
+ZER-6002928 | house_many_floors | Aparna Habitat | independent house | 3 BHK | bath 3 | carpet 1324 | super 1791 | price 25800000 | floor 11 / 21 | locality dwarka expressway | live True | verified True
+SQU-6000274 | large_BHK_0parking | Puravankara Greens | apartment | 4 BHK | bath 4 | carpet 1557 | super 2070 | price 24810000 | floor 24 / 25 | locality sohna road | live False | verified True
+SQU-6000541 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Brigade Crest | plot | 0 BHK | bath 0 | carpet 2380 | super 2380 | price 13980000 | floor 0 / 0 | locality sohna road | live True | verified True
+DWE-6001574 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Salarpuria Sanctuary | plot | 0 BHK | bath 0 | carpet 1874 | super 1874 | price 21440000 | floor 0 / 0 | locality new gurgaon | live False | verified True
+MAG-6000011 | extreme_ppsf | Salarpuria Pavilion | apartment | 4 BHK | bath 3 | carpet 141 | super 189 | price 20880000 | floor 10 / 24 | locality sector 65 | live True | verified False
+MAG-6003035 | extreme_ppsf | Century Heights | apartment | 3 BHK | bath 3 | carpet 103 | super 135 | price 18380000 | floor 24 / 32 | locality sector 65 | live True | verified False
+ZER-6000995 | house_many_floors | Aparna Meadows | independent house | 2 BHK | bath 1 | carpet 825 | super 1167 | price 17280000 | floor 14 / 27 | locality new gurgaon | live True | verified True
+100-6001206 | large_BHK_0balcony | Assetz Willows | apartment | 4 BHK | bath 4 | carpet 1518 | super 2045 | price 18600000 | floor 5 / 12 | locality sohna road | live True | verified False
+ZER-6000573 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Enclave | plot | 0 BHK | bath 0 | carpet 1541 | super 1541 | price 14880000 | floor 0 / 0 | locality sector 49 | live True | verified False
+MAG-6001210 | large_BHK_0parking | Assetz Sanctuary | apartment | 4 BHK | bath 3 | carpet 1559 | super 2232 | price 29430000 | floor 11 / 11 | locality new gurgaon | live True | verified True
+MAG-6000165 | large_BHK_0balcony | Brigade Crest | independent house | 4 BHK | bath 3 | carpet 162 | super 203 | price 15650000 | floor 4 / 9 | locality sector 49 | live True | verified False
+MAG-6000033 | extreme_ppsf | Kolte Patil Park | apartment | 2 BHK | bath 1 | carpet 77 | super 99 | price 12370000 | floor 6 / 11 | locality dwarka expressway | live False | verified True
+DWE-6003256 | house_many_floors | GODREJ SANCTUARY | independent house | 3 BHK | bath 2 | carpet 1246 | super 1671 | price 18110000 | floor 14 / 25 | locality sector 65 | live True | verified True
+DWE-6000407 | large_BHK_0parking,house_many_floors | Assetz Enclave | independent house | 5 BHK | bath 5 | carpet 1896 | super 2529 | price 24010000 | floor 14 / 32 | locality sector 49 | live True | verified True
+100-6000074 | house_many_floors | Adarsh Vista | independent house | 2 BHK | bath 1 | carpet 786 | super 1028 | price 11150000 | floor 1 / 19 | locality dwarka expressway | live True | verified False
+SQU-6002219 | house_many_floors | Adarsh Serenity | independent house | 2 BHK | bath 2 | carpet 788 | super 1014 | price 13090000 | floor 23 / 32 | locality dwarka expressway | live True | verified True
+MAG-6000779 | extreme_ppsf | My Home Park | apartment | 2 BHK | bath 2 | carpet 82 | super 108 | price 11820000 | floor 19 / 23 | locality sector 82 | live True | verified True
+DWE-6000465 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Salarpuria Terraces | plot | 0 BHK | bath 0 | carpet 1434 | super 1434 | price 15010000 | floor 0 / 0 | locality sector 49 | live False | verified False
+ZER-6000508 | house_many_floors | Mantri Elite | independent house | 3 BHK | bath 2 | carpet 1256 | super 1706 | price 13640000 | floor 23 / 26 | locality sector 65 | live True | verified True
+MAG-6000673 | extreme_ppsf | Puravankara Willows | apartment | 2 BHK | bath 1 | carpet 74 | super 101 | price 10570000 | floor 6 / 26 | locality mg road | live True | verified False
+DWE-6001478 | house_many_floors | Lodha Vista | independent house | 3 BHK | bath 3 | carpet 1283 | super 1831 | price 18270000 | floor 12 / 32 | locality sohna road | live False | verified True
+MAG-6003065 | extreme_ppsf | PURAVANKARA TERRACES | apartment | 3 BHK | bath 3 | carpet 123 | super 171 | price 14480000 | floor 20 / 30 | locality sector 82 | live True | verified True
+SQU-6000072 | large_BHK_0parking | Rohan Habitat | apartment | 4 BHK | bath 3 | carpet 1475 | super 1955 | price 27600000 | floor 1 / 9 | locality sector 49 | live False | verified False
+MAG-6001552 | large_BHK_0balcony,extreme_ppsf | Godrej Elite | builder floor | 4 BHK | bath 3 | carpet 154 | super 219 | price 33540000 | floor 18 / 27 | locality mg road | live True | verified True
+SQU-6003488 | large_BHK_0balcony | The Shriram Park | apartment | 5 BHK | bath 5 | carpet 1974 | super 2748 | price 18150000 | floor 0 / 12 | locality dlf phase 3 | live True | verified False
+ZER-6000396 | large_BHK_0parking | Godrej Willows | apartment | 5 BHK | bath 4 | carpet 1932 | super 2510 | price 32700000 | floor 17 / 19 | locality sector 82 | live True | verified True
+DWE-6001111 | large_BHK_0balcony | Shriram Terraces | apartment | 5 BHK | bath 4 | carpet 1970 | super 2691 | price 8700000 | floor 8 / 16 | locality dlf phase 3 | live True | verified True
+ZER-6001274 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Mantri Boulevard | plot | 0 BHK | bath 0 | carpet 1762 | super 1762 | price 11230000 | floor 0 / 0 | locality mg road | live True | verified True
+MAG-6000027 | extreme_ppsf | Puravankara Boulevard | apartment | 2 BHK | bath 2 | carpet 82 | super 113 | price 13620000 | floor 8 / 8 | locality sohna road | live True | verified False
+MAG-6002226 | extreme_ppsf | Aparna Heights | apartment | 2 BHK | bath 2 | carpet 84 | super 109 | price 15760000 | floor 2 / 20 | locality sector 82 | live True | verified False
+MAG-6000462 | extreme_ppsf | Prestige Greens | apartment | 2 BHK | bath 2 | carpet 76 | super 105 | price 9770000 | floor 26 / 27 | locality sector 49 | live True | verified True
+MAG-6002631 | extreme_ppsf | Brigade Terraces | apartment | 3 BHK | bath 2 | carpet 112 | super 158 | price 13020000 | floor 15 / 32 | locality sector 49 | live False | verified False
+MAG-6000829 | extreme_ppsf | Mantri Habitat | apartment | 2 BHK | bath 2 | carpet 71 | super 97 | price 9900000 | floor 0 / 28 | locality dwarka expressway | live True | verified True
+DWE-6001992 | house_many_floors | Salarpuria Elite | independent house | 2 BHK | bath 1 | carpet 870 | super 1176 | price 15260000 | floor 9 / 32 | locality dlf phase 3 | live True | verified True
+MAG-6000394 | extreme_ppsf | Brigade Greens | builder floor | 3 BHK | bath 3 | carpet 104 | super 138 | price 16030000 | floor 2 / 6 | locality dwarka expressway | live True | verified True
+ZER-6001422 | large_BHK_0parking | Puravankara Elite | apartment | 4 BHK | bath 4 | carpet 1461 | super 1932 | price 18640000 | floor 1 / 11 | locality golf course road | live False | verified False
+DWE-6003201 | large_BHK_0parking | Prestige Habitat | apartment | 4 BHK | bath 4 | carpet 1577 | super 2196 | price 24350000 | floor 7 / 13 | locality sector 49 | live False | verified True
+SQU-6002407 | large_BHK_0balcony,large_BHK_0parking | Kolte Patil Woods | builder floor | 4 BHK | bath 3 | carpet 1530 | super 1912 | price 14290000 | floor 0 / 9 | locality golf course road | live True | verified True
+ZER-6001853 | house_many_floors | Nitesh Meadows | independent house | 3 BHK | bath 2 | carpet 1212 | super 1611 | price 20770000 | floor 14 / 15 | locality golf course road | live True | verified False
+MAG-6001086 | extreme_ppsf | Casagrand Boulevard | apartment | 3 BHK | bath 2 | carpet 111 | super 146 | price 16060000 | floor 3 / 9 | locality dlf phase 3 | live True | verified True
+SQU-6001145 | house_many_floors | My Home Grand | independent house | 4 BHK | bath 3 | carpet 1609 | super 2176 | price 24180000 | floor 25 / 27 | locality golf course road | live True | verified False
+100-6000103 | house_many_floors | Puravankara Elite | independent house | 5 BHK | bath 4 | carpet 1897 | super 2454 | price 23210000 | floor 11 / 24 | locality sector 65 | live True | verified True
+MAG-6000723 | large_BHK_0balcony,large_BHK_0parking | Sobha Vista | apartment | 4 BHK | bath 3 | carpet 145 | super 193 | price 13690000 | floor 15 / 18 | locality dwarka expressway | live True | verified True
+SQU-6002006 | large_BHK_0parking | Rohan Greens | apartment | 4 BHK | bath 4 | carpet 1591 | super 2190 | price 19420000 | floor 6 / 26 | locality golf course road | live True | verified True
+DWE-6002947 | large_BHK_0parking | Casagrand Willows | apartment | 4 BHK | bath 4 | carpet 1574 | super 2096 | price 23870000 | floor 5 / 19 | locality mg road | live True | verified False
+ZER-6000809 | house_many_floors | Nitesh Pavilion | independent house | 4 BHK | bath 3 | carpet 1447 | super 1824 | price 14320000 | floor 7 / 15 | locality sector 65 | live True | verified True
+MAG-6001148 | large_BHK_0balcony,extreme_ppsf | Adarsh Pavilion | apartment | 4 BHK | bath 4 | carpet 140 | super 175 | price 22240000 | floor 13 / 31 | locality sector 65 | live True | verified True
+100-6001073 | house_many_floors | Century Woods | independent house | 2 BHK | bath 2 | carpet 791 | super 1069 | price 12450000 | floor 2 / 15 | locality sohna road | live False | verified False
+SQU-6001591 | large_BHK_0parking | Nitesh Grand | apartment | 4 BHK | bath 4 | carpet 1628 | super 2153 | price 30560000 | floor 22 / 30 | locality sohna road | live True | verified True
+SQU-6001344 | large_BHK_0parking | Mantri Heights | apartment | 4 BHK | bath 3 | carpet 1584 | super 2066 | price 27350000 | floor 0 / 13 | locality new gurgaon | live True | verified True
+MAG-6002199 | house_many_floors,extreme_ppsf | Shriram Sanctuary | independent house | 2 BHK | bath 2 | carpet 88 | super 113 | price 12570000 | floor 14 / 16 | locality sohna road | live False | verified False
+MAG-6001092 | extreme_ppsf | Salarpuria Heights | villa | 3 BHK | bath 2 | carpet 109 | super 147 | price 18720000 | floor 12 / 19 | locality dlf phase 3 | live True | verified False
+100-6001143 | house_many_floors | My Home Serenity | independent house | 1 BHK | bath 1 | carpet 390 | super 493 | price 4860000 | floor 4 / 32 | locality new gurgaon | live False | verified True
+MAG-6003069 | large_BHK_0balcony,extreme_ppsf | Assetz Boulevard Phase 1 | apartment | 4 BHK | bath 4 | carpet 138 | super 180 | price 25290000 | floor 19 / 29 | locality golf course road | live True | verified False
+MAG-6002965 | extreme_ppsf | Sobha Residency | apartment | 1 BHK | bath 1 | carpet 49 | super 69 | price 6720000 | floor 10 / 11 | locality sector 65 | live False | verified True
+MAG-6001519 | large_BHK_0balcony,large_BHK_0parking | Adarsh Crest | apartment | 5 BHK | bath 4 | carpet 1887 | super 2387 | price 19580000 | floor 17 / 30 | locality dlf phase 3 | live False | verified False
+100-6003053 | house_many_floors | Kolte Patil Serenity Phase 1 | independent house | 3 BHK | bath 3 | carpet 1266 | super 1652 | price 13890000 | floor 11 / 24 | locality sector 49 | live True | verified False
+SQU-6002656 | house_many_floors | Kolte Patil Grand | independent house | 3 BHK | bath 2 | carpet 1147 | super 1487 | price 11630000 | floor 0 / 17 | locality mg road | live True | verified True
+SQU-6002433 | house_many_floors | Mantri Greens | independent house | 2 BHK | bath 2 | carpet 853 | super 1197 | price 8350000 | floor 14 / 15 | locality sector 82 | live True | verified True
+100-6002315 | large_BHK_0balcony,large_BHK_0parking | Shriram Park | apartment | 4 BHK | bath 3 | carpet 1562 | super 2222 | price 19570000 | floor 13 / 14 | locality sector 56 | live True | verified True
+100-6001589 | house_many_floors | My Home Crest | independent house | 3 BHK | bath 2 | carpet 1244 | super 1625 | price 13900000 | floor 23 / 28 | locality dwarka expressway | live True | verified False
+DWE-6003087 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | kolte patil heights | plot | 0 BHK | bath 0 | carpet 1559 | super 1559 | price 13250000 | floor 0 / 0 | locality sector 56 | live True | verified True
+MAG-6001434 | house_many_floors,extreme_ppsf | Sobha Habitat | independent house | 5 BHK | bath 4 | carpet 174 | super 238 | price 25090000 | floor 10 / 23 | locality sector 82 | live True | verified True
+DWE-6002817 | large_BHK_0parking | Casagrand Enclave | apartment | 4 BHK | bath 4 | carpet 1485 | super 1943 | price 28400000 | floor 4 / 5 | locality sector 82 | live True | verified True
+SQU-6002948 | house_many_floors | Godrej Pavilion | independent house | 3 BHK | bath 2 | carpet 1085 | super 1374 | price 17940000 | floor 13 / 14 | locality mg road | live True | verified False
+MAG-6002757 | extreme_ppsf | Shriram Habitat | apartment | 2 BHK | bath 2 | carpet 75 | super 107 | price 14730000 | floor 2 / 26 | locality sector 49 | live False | verified False
+MAG-6001840 | large_BHK_0balcony | Sobha Boulevard | apartment | 5 BHK | bath 5 | carpet 1873 | super 2461 | price 16040000 | floor 0 / 6 | locality mg road | live True | verified True
+MAG-6000064 | extreme_ppsf | Lodha Habitat | apartment | 3 BHK | bath 3 | carpet 109 | super 141 | price 12830000 | floor 4 / 4 | locality dlf phase 3 | live True | verified False
+MAG-6000962 | extreme_ppsf | Rohan Residency | apartment | 2 BHK | bath 1 | carpet 86 | super 122 | price 13270000 | floor 12 / 15 | locality sector 65 | live True | verified True
+100-6003137 | house_many_floors | LODHA GRAND | independent house | 2 BHK | bath 2 | carpet 795 | super 1011 | price 10500000 | floor 17 / 25 | locality sector 56 | live False | verified True
+MAG-6000106 | extreme_ppsf | Lodha Crest | builder floor | 2 BHK | bath 1 | carpet 79 | super 110 | price 15920000 | floor 3 / 5 | locality dwarka expressway | live True | verified True
+100-6000437 | large_BHK_0balcony,large_BHK_0parking | Prestige Willows | apartment | 4 BHK | bath 4 | carpet 1534 | super 1972 | price 18170000 | floor 12 / 18 | locality mg road | live True | verified True
+100-6000881 | house_many_floors | Century Pavilion | independent house | 2 BHK | bath 1 | carpet 754 | super 970 | price 8110000 | floor 19 / 30 | locality sector 65 | live True | verified False
+100-6001134 | large_BHK_0balcony | Adarsh Serenity | villa | 4 BHK | bath 4 | carpet 1530 | super 2168 | price 31180000 | floor 3 / 4 | locality new gurgaon | live True | verified False
+SQU-6000706 | house_many_floors | Prestige Boulevard | independent house | 2 BHK | bath 2 | carpet 812 | super 1157 | price 8880000 | floor 10 / 32 | locality sector 65 | live True | verified True
+MAG-6002411 | extreme_ppsf | Salarpuria Enclave | apartment | 2 BHK | bath 2 | carpet 70 | super 95 | price 12140000 | floor 19 / 22 | locality mg road | live True | verified True
+100-6002178 | house_many_floors | Kolte Patil Residency | independent house | 3 BHK | bath 3 | carpet 1165 | super 1562 | price 21390000 | floor 18 / 21 | locality new gurgaon | live True | verified True
+MAG-6003412 | house_many_floors | Godrej Vista | independent house | 3 BHK | bath 3 | carpet 1283 | super 1633 | price 17630000 | floor 2 / 25 | locality dlf phase 3 | live False | verified False
+ZER-6002961 | large_BHK_0parking | Kolte Patil Willows | apartment | 4 BHK | bath 4 | carpet 1560 | super 2165 | price 16300000 | floor 11 / 29 | locality sector 65 | live True | verified True
+DWE-6003140 | house_many_floors | aparna meadows | independent house | 2 BHK | bath 1 | carpet 819 | super 1172 | price 16640000 | floor 14 / 27 | locality new gurgaon | live True | verified True
+MAG-6001511 | extreme_ppsf | Rohan Residency | villa | 4 BHK | bath 3 | carpet 147 | super 188 | price 22600000 | floor 27 / 27 | locality mg road | live True | verified True
+SQU-6000659 | house_many_floors | Kolte Patil Pavilion | independent house | 2 BHK | bath 2 | carpet 888 | super 1158 | price 11500000 | floor 22 / 22 | locality sohna road | live True | verified True
+SQU-6002606 | house_many_floors | Puravankara Serenity | independent house | 2 BHK | bath 1 | carpet 888 | super 1161 | price 16180000 | floor 12 / 27 | locality sector 56 | live True | verified True
+MAG-6001204 | extreme_ppsf | Adarsh Sanctuary | apartment | 2 BHK | bath 2 | carpet 80 | super 111 | price 13090000 | floor 5 / 24 | locality mg road | live True | verified True
+100-6000907 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Shriram Pavilion | plot | 0 BHK | bath 0 | carpet 2007 | super 2007 | price 21970000 | floor 0 / 0 | locality sector 82 | live True | verified True
+100-6000601 | house_many_floors | Adarsh Park | independent house | 2 BHK | bath 1 | carpet 839 | super 1144 | price 9770000 | floor 11 / 21 | locality new gurgaon | live True | verified True
+MAG-6000363 | extreme_ppsf | Sobha Habitat | apartment | 2 BHK | bath 1 | carpet 79 | super 101 | price 9140000 | floor 5 / 6 | locality mg road | live True | verified False
+DWE-6001343 | large_BHK_0balcony | My Home Willows | apartment | 4 BHK | bath 3 | carpet 1592 | super 2091 | price 15160000 | floor 5 / 15 | locality sector 49 | live True | verified True
+MAG-6000025 | large_BHK_0balcony | Puravankara Sanctuary | apartment | 5 BHK | bath 5 | carpet 1980 | super 2491 | price 31850000 | floor 4 / 27 | locality golf course road | live True | verified False
+MAG-6001218 | extreme_ppsf | Shriram Grand | apartment | 5 BHK | bath 4 | carpet 184 | super 265 | price 25930000 | floor 5 / 15 | locality sector 49 | live True | verified True
+100-6002045 | large_BHK_0parking | Nitesh Grand | apartment | 4 BHK | bath 3 | carpet 1589 | super 2203 | price 31690000 | floor 10 / 24 | locality dlf phase 3 | live True | verified False
+DWE-6001597 | large_BHK_0parking | Casagrand Habitat | apartment | 4 BHK | bath 4 | carpet 1589 | super 2017 | price 19540000 | floor 1 / 12 | locality sector 65 | live True | verified False
+MAG-6001785 | extreme_ppsf | Puravankara Enclave | builder floor | 3 BHK | bath 3 | carpet 116 | super 157 | price 15060000 | floor 0 / 24 | locality sector 82 | live True | verified True
+ZER-6003080 | house_many_floors | Godrej  Woods | independent house | 3 BHK | bath 3 | carpet 1272 | super 1602 | price 17390000 | floor 4 / 16 | locality sohna road | live True | verified True
+DWE-6000156 | large_BHK_0parking | Aparna Boulevard | builder floor | 5 BHK | bath 5 | carpet 1942 | super 2724 | price 26350000 | floor 13 / 16 | locality sector 65 | live False | verified True
+MAG-6002312 | extreme_ppsf | Aparna Terraces | apartment | 3 BHK | bath 2 | carpet 114 | super 163 | price 17640000 | floor 17 / 18 | locality sohna road | live True | verified False
+SQU-6003454 | house_many_floors | Adarsh-Vista | independent house | 2 BHK | bath 1 | carpet 785 | super 1038 | price 11210000 | floor 1 / 19 | locality dwarka expressway | live True | verified False
+SQU-6003344 | house_many_floors | nitesh meadows | independent house | 3 BHK | bath 2 | carpet 1212 | super 1617 | price 20930000 | floor 14 / 15 | locality golf course road | live False | verified False
+ZER-6002600 | large_BHK_0parking | Aparna Park | apartment | 4 BHK | bath 4 | carpet 1557 | super 2078 | price 21350000 | floor 4 / 16 | locality sector 49 | live True | verified True
+MAG-6003445 | house_many_floors,extreme_ppsf | assetz enclave | independent house | 4 BHK | bath 3 | carpet 148 | super 188 | price 18000000 | floor 3 / 16 | locality new gurgaon | live False | verified True
+100-6002919 | large_BHK_0parking | Sobha Serenity | apartment | 4 BHK | bath 3 | carpet 1639 | super 2175 | price 26780000 | floor 7 / 8 | locality dlf phase 3 | live True | verified True
+ZER-6002913 | large_BHK_0parking | Rohan Heights | apartment | 4 BHK | bath 3 | carpet 1666 | super 2394 | price 32960000 | floor 20 / 27 | locality sohna road | live True | verified True
+ZER-6002644 | house_many_floors | Nitesh Willows | independent house | 2 BHK | bath 1 | carpet 890 | super 1286 | price 19200000 | floor 4 / 28 | locality dlf phase 3 | live True | verified True
+DWE-6002418 | house_many_floors | Century Crest | independent house | 1 BHK | bath 1 | carpet 455 | super 606 | price 7480000 | floor 22 / 31 | locality sector 82 | live False | verified False
+MAG-6000959 | house_many_floors,extreme_ppsf | Brigade Serenity | independent house | 3 BHK | bath 3 | carpet 108 | super 156 | price 18420000 | floor 17 / 25 | locality golf course road | live False | verified True
+MAG-6000662 | house_many_floors,extreme_ppsf | Casagrand Grand | independent house | 1 BHK | bath 1 | carpet 36 | super 49 | price 7360000 | floor 18 / 28 | locality sector 82 | live False | verified False
+100-6000964 | house_many_floors | Assetz Habitat | independent house | 2 BHK | bath 2 | carpet 846 | super 1130 | price 16660000 | floor 9 / 28 | locality mg road | live True | verified True
+DWE-6001221 | large_BHK_0balcony | Prestige Sanctuary | apartment | 4 BHK | bath 3 | carpet 1466 | super 1975 | price 28470000 | floor 5 / 18 | locality sector 82 | live True | verified True
+ZER-6002915 | house_many_floors | Adarsh Sanctuary | independent house | 3 BHK | bath 3 | carpet 1150 | super 1529 | price 15690000 | floor 14 / 25 | locality sector 49 | live False | verified True
+MAG-6000403 | extreme_ppsf | My Home Heights | apartment | 5 BHK | bath 5 | carpet 189 | super 254 | price 38960000 | floor 6 / 12 | locality new gurgaon | live False | verified True
+MAG-6002380 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Century Vista | plot | 0 BHK | bath 0 | carpet 2073 | super 2073 | price 18490000 | floor 0 / 0 | locality sohna road | live False | verified True
+MAG-6002976 | extreme_ppsf | Mantri Habitat | apartment | 2 BHK | bath 2 | carpet 79 | super 111 | price 16040000 | floor 4 / 24 | locality mg road | live True | verified False
+MAG-6000717 | extreme_ppsf | Rohan Sanctuary | apartment | 2 BHK | bath 2 | carpet 79 | super 108 | price 13120000 | floor 7 / 22 | locality golf course road | live True | verified True
+100-6002951 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Willows | plot | 0 BHK | bath 0 | carpet 1803 | super 1803 | price 17050000 | floor 0 / 0 | locality sector 65 | live True | verified False
+100-6003356 | large_BHK_0parking | The Adarsh Grand | apartment | 4 BHK | bath 4 | carpet 1622 | super 2306 | price 18730000 | floor 7 / 7 | locality mg road | live True | verified False
+MAG-6001690 | large_BHK_0balcony,extreme_ppsf | Mantri Elite | apartment | 5 BHK | bath 5 | carpet 182 | super 246 | price 29340000 | floor 0 / 6 | locality golf course road | live True | verified False
+MAG-6002615 | extreme_ppsf | Mantri Willows | apartment | 1 BHK | bath 1 | carpet 47 | super 60 | price 5740000 | floor 19 / 20 | locality new gurgaon | live True | verified True
+MAG-6002452 | large_BHK_0balcony,extreme_ppsf | Rohan Crest | apartment | 4 BHK | bath 3 | carpet 148 | super 197 | price 25410000 | floor 4 / 13 | locality dlf phase 3 | live True | verified False
+MAG-6003194 | extreme_ppsf | Adarsh Heights Apartments | independent house | 3 BHK | bath 2 | carpet 106 | super 149 | price 20500000 | floor 3 / 4 | locality sector 49 | live True | verified True
+SQU-6000077 | large_BHK_0balcony,large_BHK_0parking | Sobha Vista | apartment | 4 BHK | bath 3 | carpet 1584 | super 2126 | price 20230000 | floor 12 / 26 | locality new gurgaon | live False | verified False
+MAG-6001311 | large_BHK_0balcony,large_BHK_0parking,house_many_floors,extreme_ppsf | Lodha Boulevard | independent house | 5 BHK | bath 5 | carpet 183 | super 253 | price 22850000 | floor 8 / 15 | locality sohna road | live False | verified False
+MAG-6001766 | extreme_ppsf | Mantri Woods | apartment | 2 BHK | bath 1 | carpet 85 | super 112 | price 11400000 | floor 6 / 8 | locality sector 56 | live True | verified True
+MAG-6002526 | extreme_ppsf | Nitesh Boulevard | apartment | 3 BHK | bath 2 | carpet 121 | super 163 | price 21730000 | floor 0 / 13 | locality sector 65 | live True | verified False
+MAG-6002384 | extreme_ppsf | Shriram Sanctuary | apartment | 3 BHK | bath 3 | carpet 105 | super 137 | price 10610000 | floor 12 / 18 | locality dwarka expressway | live True | verified True
+MAG-6002594 | extreme_ppsf | Godrej Park | apartment | 1 BHK | bath 1 | carpet 42 | super 59 | price 7750000 | floor 9 / 10 | locality dwarka expressway | live False | verified True
+100-6001508 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Shriram Serenity | plot | 0 BHK | bath 0 | carpet 1884 | super 1884 | price 10910000 | floor 0 / 0 | locality golf course road | live True | verified False
+DWE-6000653 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Residency | plot | 0 BHK | bath 0 | carpet 1499 | super 1499 | price 10430000 | floor 0 / 0 | locality sohna road | live True | verified False
+SQU-6000963 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Grand | plot | 0 BHK | bath 0 | carpet 1899 | super 1899 | price 11340000 | floor 0 / 0 | locality mg road | live True | verified False
+MAG-6002985 | extreme_ppsf | Godrej Park | apartment | 4 BHK | bath 4 | carpet 150 | super 199 | price 18860000 | floor 3 / 13 | locality new gurgaon | live True | verified False
+MAG-6002901 | extreme_ppsf | Brigade Terraces | apartment | 2 BHK | bath 2 | carpet 79 | super 105 | price 12710000 | floor 5 / 18 | locality mg road | live True | verified True
+ZER-6000056 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Boulevard | plot | 0 BHK | bath 0 | carpet 1570 | super 1570 | price 11600000 | floor 0 / 0 | locality sector 82 | live True | verified True
+MAG-6001577 | large_BHK_0parking | Shriram Vista | apartment | 4 BHK | bath 3 | carpet 1464 | super 2012 | price 20210000 | floor 11 / 28 | locality sector 56 | live True | verified True
+DWE-6002789 | large_BHK_0parking | Godrej Pavilion | builder floor | 5 BHK | bath 5 | carpet 1868 | super 2553 | price 22200000 | floor 8 / 11 | locality sector 56 | live True | verified True
+ZER-6000118 | house_many_floors | Assetz Heights | independent house | 2 BHK | bath 1 | carpet 874 | super 1158 | price 16680000 | floor 13 / 18 | locality sector 49 | live True | verified True
+ZER-6000692 | large_BHK_0balcony | Shriram Park | apartment | 5 BHK | bath 5 | carpet 1956 | super 2741 | price 18620000 | floor 0 / 12 | locality dlf phase 3 | live False | verified False
+DWE-6003068 | house_many_floors | Godrej  Sanctuary | independent house | 3 BHK | bath 2 | carpet 1250 | super 1689 | price 17720000 | floor 14 / 25 | locality sector 65 | live True | verified True
+SQU-6000613 | large_BHK_0balcony,large_BHK_0parking | Nitesh Heights | apartment | 4 BHK | bath 3 | carpet 1528 | super 2056 | price 21490000 | floor 8 / 9 | locality sector 65 | live True | verified False
+SQU-6002698 | large_BHK_0balcony | Salarpuria Residency | apartment | 4 BHK | bath 3 | carpet 1585 | super 2256 | price 25250000 | floor 3 / 16 | locality mg road | live False | verified True
+MAG-6002905 | extreme_ppsf | Godrej Boulevard | apartment | 4 BHK | bath 3 | carpet 134 | super 185 | price 16330000 | floor 1 / 6 | locality dlf phase 3 | live True | verified False
+SQU-6002364 | large_BHK_0parking | Nitesh Enclave | independent house | 5 BHK | bath 5 | carpet 1858 | super 2418 | price 29110000 | floor 8 / 8 | locality sector 82 | live True | verified False
+SQU-6001982 | large_BHK_0parking | Puravankara Sanctuary | apartment | 4 BHK | bath 3 | carpet 1606 | super 2262 | price 29790000 | floor 12 / 13 | locality dlf phase 3 | live True | verified False
+MAG-6000443 | extreme_ppsf | Lodha Park | apartment | 2 BHK | bath 2 | carpet 74 | super 98 | price 15200000 | floor 26 / 29 | locality golf course road | live True | verified False
+DWE-6002252 | house_many_floors | Nitesh Sanctuary | independent house | 3 BHK | bath 2 | carpet 1077 | super 1420 | price 18460000 | floor 13 / 19 | locality dwarka expressway | live False | verified False
+DWE-6002824 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Elite | plot | 0 BHK | bath 0 | carpet 1916 | super 1916 | price 15440000 | floor 0 / 0 | locality sector 56 | live True | verified True
+ZER-6001265 | large_BHK_0parking | Nitesh Woods | apartment | 5 BHK | bath 5 | carpet 1981 | super 2513 | price 34520000 | floor 3 / 6 | locality sector 65 | live True | verified False
+MAG-6000734 | house_many_floors | My Home Grand | independent house | 3 BHK | bath 3 | carpet 1272 | super 1839 | price 14360000 | floor 6 / 11 | locality dlf phase 3 | live True | verified False
+ZER-6002012 | house_many_floors | Assetz Vista | independent house | 3 BHK | bath 3 | carpet 1211 | super 1539 | price 18910000 | floor 15 / 21 | locality sohna road | live False | verified False
+DWE-6000210 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Adarsh Heights | plot | 0 BHK | bath 0 | carpet 969 | super 969 | price 9190000 | floor 0 / 0 | locality sector 65 | live True | verified False
+SQU-6002255 | large_BHK_0parking | Assetz Grand | apartment | 4 BHK | bath 3 | carpet 1555 | super 2005 | price 19720000 | floor 13 / 26 | locality sector 56 | live True | verified False
+MAG-6001614 | extreme_ppsf | Kolte Patil Pavilion | apartment | 1 BHK | bath 1 | carpet 51 | super 72 | price 6300000 | floor 11 / 22 | locality mg road | live True | verified False
+ZER-6000031 | large_BHK_0parking | Prestige Habitat | apartment | 4 BHK | bath 4 | carpet 1579 | super 2177 | price 24290000 | floor 7 / 13 | locality sector 49 | live True | verified True
+100-6002607 | large_BHK_0balcony | Puravankara Elite | apartment | 4 BHK | bath 3 | carpet 1560 | super 2069 | price 18480000 | floor 3 / 30 | locality sohna road | live True | verified False
+MAG-6000178 | extreme_ppsf | Century Greens | apartment | 2 BHK | bath 1 | carpet 77 | super 103 | price 13240000 | floor 17 / 29 | locality sector 56 | live True | verified True
+MAG-6001251 | house_many_floors | Lodha Enclave | independent house | 3 BHK | bath 2 | carpet 1096 | super 1374 | price 13830000 | floor 15 / 25 | locality sector 65 | live False | verified False
+DWE-6001923 | large_BHK_0balcony | Aparna Serenity | apartment | 5 BHK | bath 4 | carpet 1858 | super 2561 | price 37930000 | floor 15 / 16 | locality sohna road | live True | verified True
+100-6000385 | house_many_floors | Nitesh Residency | independent house | 2 BHK | bath 1 | carpet 857 | super 1160 | price 12580000 | floor 2 / 21 | locality golf course road | live True | verified False
+SQU-6001257 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Adarsh Pavilion | plot | 0 BHK | bath 0 | carpet 2618 | super 2618 | price 24520000 | floor 0 / 0 | locality sector 56 | live False | verified True
+MAG-6003024 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Terraces | plot | 0 BHK | bath 0 | carpet 2141 | super 2141 | price 19330000 | floor 0 / 0 | locality golf course road | live True | verified False
+MAG-6001687 | house_many_floors | Lodha Enclave | independent house | 2 BHK | bath 1 | carpet 942 | super 1317 | price 10430000 | floor 3 / 25 | locality new gurgaon | live True | verified True
+MAG-6001006 | extreme_ppsf | Century Serenity | apartment | 2 BHK | bath 1 | carpet 79 | super 114 | price 10440000 | floor 0 / 24 | locality sector 56 | live False | verified False
+MAG-6003268 | extreme_ppsf | SALARPURIA MEADOWS | builder floor | 1 BHK | bath 1 | carpet 46 | super 62 | price 6320000 | floor 23 / 27 | locality new gurgaon | live True | verified True
+DWE-6000261 | large_BHK_0parking | Rohan Greens | apartment | 4 BHK | bath 3 | carpet 1548 | super 2091 | price 15810000 | floor 9 / 16 | locality new gurgaon | live True | verified False
+MAG-6001072 | extreme_ppsf | Salarpuria Greens | apartment | 3 BHK | bath 3 | carpet 109 | super 144 | price 13790000 | floor 5 / 17 | locality golf course road | live False | verified False
+DWE-6002981 | large_BHK_0balcony | Aparna Woods | apartment | 5 BHK | bath 5 | carpet 1957 | super 2819 | price 40820000 | floor 8 / 30 | locality mg road | live False | verified False
+SQU-6000266 | large_BHK_0balcony | Sobha Boulevard | independent house | 4 BHK | bath 4 | carpet 1499 | super 2032 | price 27800000 | floor 6 / 10 | locality dwarka expressway | live True | verified False
+MAG-6000522 | extreme_ppsf | Kolte Patil Elite | villa | 4 BHK | bath 3 | carpet 145 | super 210 | price 18380000 | floor 1 / 17 | locality mg road | live True | verified True
+100-6001871 | house_many_floors | Nitesh Elite | independent house | 2 BHK | bath 1 | carpet 844 | super 1168 | price 15490000 | floor 10 / 14 | locality sector 82 | live False | verified True
+MAG-6000191 | extreme_ppsf | Godrej Residency | apartment | 2 BHK | bath 2 | carpet 79 | super 112 | price 13080000 | floor 12 / 17 | locality sector 56 | live True | verified False
+ZER-6000278 | house_many_floors | Kolte Patil Terraces | independent house | 3 BHK | bath 3 | carpet 1150 | super 1452 | price 14600000 | floor 3 / 19 | locality golf course road | live False | verified True
+DWE-6002261 | large_BHK_0balcony | Shriram Habitat | apartment | 4 BHK | bath 4 | carpet 1457 | super 1974 | price 24770000 | floor 7 / 19 | locality sector 82 | live True | verified False
+DWE-6000980 | large_BHK_0parking | My Home Enclave | apartment | 5 BHK | bath 4 | carpet 1965 | super 2551 | price 28270000 | floor 9 / 13 | locality mg road | live True | verified True
+SQU-6002624 | large_BHK_0balcony,house_many_floors | Sobha Serenity | independent house | 4 BHK | bath 3 | carpet 1458 | super 2026 | price 28470000 | floor 1 / 20 | locality sector 82 | live True | verified True
+SQU-6003312 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Casagrand-Pavilion | plot | 0 BHK | bath 0 | carpet 2063 | super 2063 | price 17800000 | floor 0 / 0 | locality sector 65 | live True | verified True
+ZER-6002574 | house_many_floors | Kolte Patil Greens | independent house | 1 BHK | bath 1 | carpet 439 | super 583 | price 8150000 | floor 3 / 15 | locality sohna road | live False | verified False
+ZER-6002090 | house_many_floors | My Home Serenity | independent house | 2 BHK | bath 2 | carpet 815 | super 1129 | price 10460000 | floor 0 / 16 | locality sector 82 | live False | verified False
+100-6000242 | house_many_floors | Assetz Serenity | independent house | 2 BHK | bath 2 | carpet 846 | super 1095 | price 10800000 | floor 0 / 27 | locality sector 49 | live True | verified True
+SQU-6001746 | large_BHK_0parking | Kolte Patil Greens | apartment | 4 BHK | bath 3 | carpet 1584 | super 2216 | price 28620000 | floor 0 / 31 | locality sector 82 | live True | verified True
+100-6002422 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Sobha Elite | plot | 0 BHK | bath 0 | carpet 1088 | super 1088 | price 5820000 | floor 0 / 0 | locality sector 82 | live True | verified False
+MAG-6000745 | extreme_ppsf | Shriram Grand | apartment | 2 BHK | bath 2 | carpet 77 | super 96 | price 14640000 | floor 11 / 15 | locality sector 49 | live True | verified True
+MAG-6002054 | large_BHK_0balcony,large_BHK_0parking,extreme_ppsf | Aparna Grand | apartment | 4 BHK | bath 3 | carpet 148 | super 201 | price 20200000 | floor 31 / 31 | locality sector 82 | live True | verified False
+ZER-6003225 | large_BHK_0balcony | Adarsh Pavilion | apartment | 4 BHK | bath 4 | carpet 1513 | super 1888 | price 22330000 | floor 13 / 31 | locality sector 65 | live True | verified True
+MAG-6003437 | extreme_ppsf | Godrej  Park | apartment | 2 BHK | bath 2 | carpet 73 | super 93 | price 8460000 | floor 4 / 9 | locality mg road | live True | verified True
+MAG-6001762 | house_many_floors | Puravankara Greens | independent house | 2 BHK | bath 2 | carpet 842 | super 1202 | price 12300000 | floor 8 / 20 | locality dlf phase 3 | live True | verified False
+DWE-6002140 | large_BHK_0parking | Sobha Enclave | builder floor | 4 BHK | bath 3 | carpet 1504 | super 2002 | price 27860000 | floor 2 / 5 | locality dlf phase 3 | live True | verified False
+DWE-6002050 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Meadows | plot | 0 BHK | bath 0 | carpet 1504 | super 1504 | price 11370000 | floor 0 / 0 | locality sector 56 | live False | verified False
+SQU-6001384 | house_many_floors | Casagrand Grand | independent house | 3 BHK | bath 3 | carpet 1166 | super 1490 | price 13100000 | floor 9 / 19 | locality golf course road | live True | verified False
+SQU-6001600 | large_BHK_0balcony | Casagrand Heights | apartment | 4 BHK | bath 3 | carpet 1570 | super 2199 | price 32780000 | floor 7 / 32 | locality golf course road | live True | verified False
+MAG-6000383 | extreme_ppsf | Brigade Heights | apartment | 3 BHK | bath 3 | carpet 122 | super 170 | price 27000000 | floor 1 / 5 | locality mg road | live False | verified False
+100-6002036 | large_BHK_0parking | Sobha Habitat | apartment | 4 BHK | bath 3 | carpet 1540 | super 2183 | price 23940000 | floor 7 / 7 | locality new gurgaon | live True | verified False
+SQU-6003388 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | The Nitesh Greens | plot | 0 BHK | bath 0 | carpet 1182 | super 1182 | price 13330000 | floor 0 / 0 | locality dlf phase 3 | live False | verified False
+SQU-6001658 | large_BHK_0parking | Brigade Greens | apartment | 4 BHK | bath 4 | carpet 1558 | super 2162 | price 25900000 | floor 22 / 22 | locality sector 65 | live True | verified True
+SQU-6003246 | large_BHK_0parking | Salarpuria  Greens | apartment | 4 BHK | bath 4 | carpet 1497 | super 1905 | price 14190000 | floor 1 / 6 | locality sector 56 | live True | verified True
+SQU-6002780 | house_many_floors | Salarpuria Vista | independent house | 2 BHK | bath 1 | carpet 851 | super 1204 | price 16510000 | floor 11 / 20 | locality mg road | live True | verified True
+MAG-6003451 | extreme_ppsf | The Prestige Crest | apartment | 4 BHK | bath 4 | carpet 140 | super 199 | price 27240000 | floor 18 / 21 | locality dwarka expressway | live True | verified False
+100-6002477 | house_many_floors | Sobha Habitat | independent house | 2 BHK | bath 1 | carpet 702 | super 1011 | price 15140000 | floor 1 / 16 | locality sector 65 | live True | verified False
+MAG-6003008 | extreme_ppsf | Kolte Patil Habitat | apartment | 3 BHK | bath 3 | carpet 112 | super 155 | price 12540000 | floor 11 / 14 | locality sector 82 | live True | verified False
+MAG-6001857 | extreme_ppsf | Puravankara Vista | apartment | 3 BHK | bath 3 | carpet 122 | super 167 | price 13170000 | floor 2 / 7 | locality dwarka expressway | live True | verified True
+MAG-6003135 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Aparna Elite Phase 1 | plot | 0 BHK | bath 0 | carpet 1678 | super 1678 | price 12580000 | floor 0 / 0 | locality sohna road | live True | verified True
+100-6000354 | large_BHK_0parking | Salarpuria Elite | apartment | 4 BHK | bath 3 | carpet 1706 | super 2378 | price 31990000 | floor 5 / 23 | locality sector 82 | live True | verified False
+100-6001848 | large_BHK_0balcony | Century Boulevard | builder floor | 4 BHK | bath 4 | carpet 1628 | super 2179 | price 18520000 | floor 0 / 18 | locality sohna road | live True | verified True
+ZER-6000271 | large_BHK_0parking | Salarpuria Terraces | builder floor | 4 BHK | bath 3 | carpet 1515 | super 2151 | price 25500000 | floor 4 / 4 | locality sector 56 | live True | verified False
+MAG-6002171 | extreme_ppsf | Mantri Terraces | apartment | 2 BHK | bath 1 | carpet 71 | super 96 | price 7470000 | floor 11 / 24 | locality golf course road | live True | verified False
+SQU-6002761 | large_BHK_0parking | Rohan Terraces | apartment | 4 BHK | bath 3 | carpet 1528 | super 2133 | price 12640000 | floor 1 / 31 | locality sohna road | live True | verified True
+MAG-6002598 | extreme_ppsf | Kolte Patil Willows | apartment | 2 BHK | bath 1 | carpet 78 | super 113 | price 12610000 | floor 7 / 7 | locality sector 65 | live True | verified True
+MAG-6002463 | large_BHK_0balcony | Mantri Terraces | apartment | 4 BHK | bath 4 | carpet 1572 | super 2036 | price 28610000 | floor 6 / 6 | locality dwarka expressway | live False | verified True
+MAG-6003185 | extreme_ppsf | Puravankara  Enclave | apartment | 1 BHK | bath 1 | carpet 43 | super 61 | price 5170000 | floor 6 / 13 | locality sector 49 | live True | verified False
+SQU-6001485 | large_BHK_0parking | Godrej Heights | apartment | 4 BHK | bath 4 | carpet 1465 | super 1948 | price 13490000 | floor 5 / 10 | locality sector 56 | live True | verified False
+ZER-6001789 | large_BHK_0parking | Lodha Residency | villa | 4 BHK | bath 3 | carpet 1558 | super 2233 | price 26540000 | floor 5 / 13 | locality golf course road | live False | verified True
+DWE-6000010 | large_BHK_0balcony | Aparna Meadows | apartment | 4 BHK | bath 4 | carpet 2668 | super 2149 | price 25090000 | floor 21 / 24 | locality golf course road | live True | verified True
+SQU-6001863 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | My Home Willows | plot | 0 BHK | bath 0 | carpet 1434 | super 1434 | price 8970000 | floor 0 / 0 | locality dwarka expressway | live True | verified False
+MAG-6000702 | extreme_ppsf | Godrej Enclave | villa | 3 BHK | bath 3 | carpet 114 | super 151 | price 22300000 | floor 17 / 20 | locality dwarka expressway | live True | verified False
+100-6000710 | house_many_floors | Godrej Vista | independent house | 3 BHK | bath 3 | carpet 1279 | super 1640 | price 17270000 | floor 2 / 25 | locality dlf phase 3 | live False | verified False
+SQU-6003237 | house_many_floors | puravankara greens | independent house | 2 BHK | bath 2 | carpet 905 | super 1153 | price 9190000 | floor 8 / 29 | locality new gurgaon | live True | verified True
+SQU-6003199 | house_many_floors | Nitesh  Pavilion | independent house | 4 BHK | bath 3 | carpet 1456 | super 1826 | price 14860000 | floor 7 / 15 | locality sector 65 | live True | verified True
+SQU-6000646 | large_BHK_0balcony,large_BHK_0parking | Salarpuria Pavilion | apartment | 4 BHK | bath 4 | carpet 1504 | super 2132 | price 26290000 | floor 15 / 24 | locality sector 65 | live True | verified False
+SQU-6000592 | large_BHK_0parking | Godrej Pavilion | apartment | 5 BHK | bath 4 | carpet 1913 | super 2589 | price 24000000 | floor 1 / 16 | locality dwarka expressway | live False | verified True
+MAG-6003136 | extreme_ppsf | shriram serenity | apartment | 2 BHK | bath 1 | carpet 73 | super 104 | price 8720000 | floor 15 / 19 | locality sector 82 | live True | verified True
+SQU-6003452 | house_many_floors | The Nitesh Willows | independent house | 2 BHK | bath 1 | carpet 893 | super 1289 | price 18920000 | floor 4 / 28 | locality dlf phase 3 | live True | verified True
+ZER-6000960 | large_BHK_0balcony,large_BHK_0parking | Godrej Heights | apartment | 4 BHK | bath 3 | carpet 1562 | super 2022 | price 25980000 | floor 4 / 18 | locality dwarka expressway | live True | verified False
+DWE-6001837 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Casagrand Grand | plot | 0 BHK | bath 0 | carpet 1661 | super 1661 | price 19730000 | floor 0 / 0 | locality mg road | live False | verified True
+100-6001678 | house_many_floors | My Home Vista | independent house | 3 BHK | bath 2 | carpet 1188 | super 1556 | price 22230000 | floor 23 / 23 | locality sector 49 | live True | verified True
+DWE-6000904 | large_BHK_0parking,house_many_floors | Aparna Residency | independent house | 5 BHK | bath 5 | carpet 2035 | super 2947 | price 22130000 | floor 8 / 17 | locality dwarka expressway | live True | verified True
+ZER-6003105 | house_many_floors | salarpuria terraces | independent house | 1 BHK | bath 1 | carpet 382 | super 486 | price 3560000 | floor 10 / 11 | locality golf course road | live True | verified True
+MAG-6000599 | large_BHK_0parking | Sobha Elite | apartment | 4 BHK | bath 4 | carpet 1556 | super 1988 | price 16590000 | floor 22 / 23 | locality dwarka expressway | live False | verified False
+MAG-6002634 | extreme_ppsf | Puravankara Residency | apartment | 3 BHK | bath 2 | carpet 110 | super 144 | price 12170000 | floor 0 / 14 | locality dwarka expressway | live True | verified False
+MAG-6000913 | extreme_ppsf | Mantri Meadows | apartment | 2 BHK | bath 2 | carpet 76 | super 102 | price 11890000 | floor 2 / 15 | locality mg road | live True | verified True
+ZER-6002481 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Sobha Greens | plot | 0 BHK | bath 0 | carpet 1180 | super 1180 | price 8960000 | floor 0 / 0 | locality sector 49 | live False | verified True
+MAG-6001636 | extreme_ppsf | Sobha Residency | builder floor | 4 BHK | bath 3 | carpet 137 | super 173 | price 14600000 | floor 1 / 29 | locality sector 49 | live True | verified False
+ZER-6002019 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Sobha Park | plot | 0 BHK | bath 0 | carpet 1922 | super 1922 | price 12730000 | floor 0 / 0 | locality golf course road | live True | verified True
+ZER-6000410 | house_many_floors | Salarpuria Terraces | independent house | 1 BHK | bath 1 | carpet 385 | super 490 | price 6050000 | floor 10 / 11 | locality golf course road | live True | verified True
+MAG-6001188 | extreme_ppsf | Prestige Sanctuary | apartment | 1 BHK | bath 1 | carpet 44 | super 56 | price 8480000 | floor 3 / 12 | locality sector 82 | live True | verified False
+SQU-6001619 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Casagrand Vista | plot | 0 BHK | bath 0 | carpet 1949 | super 1949 | price 12480000 | floor 0 / 0 | locality mg road | live True | verified True
+MAG-6002377 | extreme_ppsf | My Home Vista | apartment | 2 BHK | bath 1 | carpet 82 | super 117 | price 16590000 | floor 23 / 23 | locality sector 56 | live False | verified False
+SQU-6001516 | large_BHK_0parking | Brigade Park | apartment | 4 BHK | bath 3 | carpet 1448 | super 2056 | price 13540000 | floor 0 / 4 | locality sohna road | live True | verified True
+SQU-6001165 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Nitesh Greens | plot | 0 BHK | bath 0 | carpet 1185 | super 1185 | price 12630000 | floor 0 / 0 | locality dlf phase 3 | live True | verified False
+MAG-6003129 | extreme_ppsf | PRESTIGE MEADOWS | apartment | 2 BHK | bath 2 | carpet 79 | super 109 | price 15000000 | floor 15 / 23 | locality mg road | live True | verified False
+SQU-6000112 | large_BHK_0parking | Puravankara Habitat | apartment | 4 BHK | bath 3 | carpet 1663 | super 2332 | price 26230000 | floor 2 / 6 | locality mg road | live True | verified True
+100-6003361 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Shriram Willows Phase 1 | plot | 0 BHK | bath 0 | carpet 2201 | super 2201 | price 16870000 | floor 0 / 0 | locality dwarka expressway | live True | verified True
+MAG-6003411 | extreme_ppsf | Puravankara-Enclave | apartment | 3 BHK | bath 3 | carpet 110 | super 145 | price 16490000 | floor 23 / 27 | locality sector 49 | live True | verified False
+MAG-6000458 | house_many_floors,extreme_ppsf | Brigade Heights | independent house | 3 BHK | bath 3 | carpet 112 | super 151 | price 15490000 | floor 25 / 29 | locality sohna road | live True | verified True
+SQU-6002999 | house_many_floors | Rohan Elite | independent house | 2 BHK | bath 2 | carpet 885 | super 1145 | price 13660000 | floor 6 / 20 | locality sector 56 | live False | verified True
+MAG-6000368 | extreme_ppsf | Brigade Park | apartment | 4 BHK | bath 3 | carpet 148 | super 209 | price 26690000 | floor 5 / 7 | locality dwarka expressway | live True | verified True
+MAG-6000449 | extreme_ppsf | Assetz Sanctuary | apartment | 2 BHK | bath 1 | carpet 88 | super 117 | price 18250000 | floor 3 / 18 | locality sector 49 | live True | verified False
+SQU-6002331 | house_many_floors | Casagrand Boulevard | independent house | 2 BHK | bath 1 | carpet 853 | super 1093 | price 15680000 | floor 14 / 30 | locality new gurgaon | live True | verified False
+ZER-6000804 | large_BHK_0balcony,large_BHK_0parking | Puravankara Woods | apartment | 4 BHK | bath 3 | carpet 1535 | super 2160 | price 28040000 | floor 2 / 7 | locality mg road | live True | verified False
+MAG-6002273 | large_BHK_0balcony,large_BHK_0parking,extreme_ppsf | Sobha Park | apartment | 4 BHK | bath 3 | carpet 141 | super 203 | price 15980000 | floor 6 / 17 | locality new gurgaon | live True | verified False
+ZER-6000699 | large_BHK_0balcony | Brigade Sanctuary | apartment | 4 BHK | bath 4 | carpet 1645 | super 2190 | price 32110000 | floor 2 / 10 | locality sohna road | live True | verified True
+MAG-6001733 | large_BHK_0balcony,extreme_ppsf | Godrej Woods | apartment | 4 BHK | bath 4 | carpet 132 | super 182 | price 28130000 | floor 8 / 13 | locality sohna road | live True | verified True
+SQU-6001084 | large_BHK_0balcony | Adarsh Grand | apartment | 4 BHK | bath 3 | carpet 1523 | super 2038 | price 30190000 | floor 2 / 15 | locality golf course road | live True | verified True
+100-6000439 | large_BHK_0balcony | Lodha Pavilion | builder floor | 4 BHK | bath 3 | carpet 1586 | super 2222 | price 12260000 | floor 14 / 20 | locality sohna road | live True | verified True
+DWE-6001347 | house_many_floors | Puravankara Enclave | independent house | 1 BHK | bath 1 | carpet 415 | super 568 | price 6940000 | floor 1 / 14 | locality sector 82 | live True | verified False
+MAG-6002022 | extreme_ppsf | Aparna Pavilion | villa | 3 BHK | bath 2 | carpet 111 | super 153 | price 18610000 | floor 3 / 20 | locality sector 65 | live True | verified True
+ZER-6002978 | large_BHK_0balcony | Kolte Patil Terraces | apartment | 4 BHK | bath 4 | carpet 1532 | super 2065 | price 18220000 | floor 9 / 28 | locality new gurgaon | live True | verified True
+SQU-6003489 | house_many_floors | Salarpuria Sanctuary Apartments | independent house | 2 BHK | bath 2 | carpet 800 | super 1111 | price 15300000 | floor 1 / 14 | locality sohna road | live False | verified False
+100-6001877 | large_BHK_0balcony,large_BHK_0parking | Brigade Enclave | apartment | 4 BHK | bath 3 | carpet 1505 | super 1996 | price 13460000 | floor 1 / 4 | locality dwarka expressway | live True | verified False
+100-6002899 | large_BHK_0balcony | My Home Vista | apartment | 4 BHK | bath 3 | carpet 1638 | super 2310 | price 15370000 | floor 3 / 8 | locality new gurgaon | live False | verified False
+MAG-6000143 | extreme_ppsf | Casagrand Elite | apartment | 1 BHK | bath 1 | carpet 43 | super 62 | price 6100000 | floor 16 / 27 | locality sector 56 | live True | verified False
+MAG-6002499 | extreme_ppsf | Salarpuria Residency | apartment | 3 BHK | bath 3 | carpet 109 | super 140 | price 15990000 | floor 2 / 11 | locality new gurgaon | live True | verified True
+ZER-6002666 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Vista | plot | 0 BHK | bath 0 | carpet 1624 | super 1624 | price 17710000 | floor 0 / 0 | locality sector 82 | live True | verified True
+MAG-6000820 | extreme_ppsf | Mantri Crest | apartment | 3 BHK | bath 3 | carpet 120 | super 154 | price 22790000 | floor 17 / 30 | locality sector 82 | live True | verified True
+100-6000489 | house_many_floors | Adarsh Crest | independent house | 3 BHK | bath 3 | carpet 1248 | super 1758 | price 20920000 | floor 2 / 11 | locality sector 49 | live True | verified True
+ZER-6002474 | house_many_floors | Adarsh Enclave | independent house | 3 BHK | bath 2 | carpet 1181 | super 1703 | price 20230000 | floor 2 / 23 | locality mg road | live True | verified False
+MAG-6000029 | extreme_ppsf | Prestige Woods | apartment | 1 BHK | bath 1 | carpet 47 | super 63 | price 6440000 | floor 8 / 10 | locality sohna road | live True | verified True
+ZER-6000289 | large_BHK_0parking | Assetz Heights | apartment | 4 BHK | bath 3 | carpet 1536 | super 2204 | price 23960000 | floor 6 / 32 | locality sector 65 | live True | verified False
+MAG-6000781 | house_many_floors | Assetz Sanctuary | independent house | 4 BHK | bath 3 | carpet 1629 | super 2327 | price 28850000 | floor 6 / 24 | locality new gurgaon | live True | verified True
+ZER-6003216 | house_many_floors | Aparna-Crest | independent house | 2 BHK | bath 2 | carpet 830 | super 1037 | price 10510000 | floor 19 / 25 | locality new gurgaon | live True | verified False
+MAG-6003266 | large_BHK_0balcony,extreme_ppsf | Sobha Habitat Phase 1 | apartment | 5 BHK | bath 4 | carpet 168 | super 216 | price 32390000 | floor 2 / 12 | locality dwarka expressway | live True | verified True
+100-6000531 | large_BHK_0parking | Mantri Park | apartment | 4 BHK | bath 4 | carpet 1536 | super 2147 | price 24070000 | floor 2 / 16 | locality sector 65 | live True | verified False
+MAG-6001011 | extreme_ppsf | Casagrand Meadows | apartment | 3 BHK | bath 3 | carpet 107 | super 137 | price 15430000 | floor 12 / 18 | locality sohna road | live True | verified True
+MAG-6000386 | extreme_ppsf | Puravankara Heights | apartment | 2 BHK | bath 1 | carpet 72 | super 103 | price 11050000 | floor 1 / 20 | locality sector 56 | live False | verified False
+ZER-6002867 | large_BHK_0balcony | Adarsh Serenity | apartment | 4 BHK | bath 4 | carpet 1548 | super 2068 | price 23220000 | floor 2 / 29 | locality sector 65 | live True | verified True
+100-6002489 | house_many_floors | Aparna Elite | independent house | 2 BHK | bath 1 | carpet 901 | super 1139 | price 7750000 | floor 31 / 32 | locality sector 56 | live True | verified True
+ZER-6002224 | house_many_floors | Century Grand | independent house | 3 BHK | bath 3 | carpet 1229 | super 1750 | price 23920000 | floor 18 / 24 | locality mg road | live False | verified True
+DWE-6002725 | large_BHK_0parking | Puravankara Greens | villa | 4 BHK | bath 4 | carpet 1524 | super 1949 | price 17750000 | floor 18 / 29 | locality new gurgaon | live False | verified False
+MAG-6001846 | extreme_ppsf | Brigade Habitat | apartment | 3 BHK | bath 3 | carpet 115 | super 149 | price 17410000 | floor 0 / 9 | locality sector 56 | live True | verified True
+MAG-6000327 | extreme_ppsf | Prestige Terraces | apartment | 3 BHK | bath 3 | carpet 106 | super 145 | price 14170000 | floor 6 / 8 | locality sector 49 | live True | verified False
+MAG-6000171 | house_many_floors | Nitesh Park | independent house | 3 BHK | bath 3 | carpet 1264 | super 1732 | price 14280000 | floor 10 / 32 | locality sector 49 | live True | verified False
+SQU-6002254 | large_BHK_0parking | Assetz Heights | apartment | 4 BHK | bath 3 | carpet 1563 | super 2079 | price 29010000 | floor 20 / 22 | locality sector 65 | live True | verified True
+100-6000682 | large_BHK_0balcony | Adarsh Grand | apartment | 5 BHK | bath 4 | carpet 1729 | super 2416 | price 23480000 | floor 14 / 15 | locality sector 65 | live False | verified False
+SQU-6002309 | large_BHK_0parking | Shriram Elite | apartment | 4 BHK | bath 3 | carpet 1666 | super 2325 | price 21780000 | floor 5 / 5 | locality sector 65 | live False | verified False
+MAG-6002585 | extreme_ppsf | Puravankara Boulevard | apartment | 3 BHK | bath 3 | carpet 110 | super 149 | price 22160000 | floor 7 / 15 | locality dwarka expressway | live True | verified True
+SQU-6003020 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Mantri Terraces | plot | 0 BHK | bath 0 | carpet 2364 | super 2364 | price 18460000 | floor 0 / 0 | locality sector 65 | live True | verified True
+MAG-6001933 | extreme_ppsf | Century Park | apartment | 4 BHK | bath 4 | carpet 145 | super 188 | price 27470000 | floor 17 / 30 | locality golf course road | live True | verified False
+SQU-6003254 | large_BHK_0balcony,large_BHK_0parking | The Shriram Pavilion | apartment | 5 BHK | bath 5 | carpet 1956 | super 2714 | price 26590000 | floor 21 / 25 | locality sector 82 | live False | verified True
+ZER-6000514 | large_BHK_0parking | Shriram Elite | apartment | 4 BHK | bath 3 | carpet 1555 | super 2248 | price 15380000 | floor 10 / 32 | locality sector 49 | live True | verified True
+ZER-6001234 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Prestige Woods | plot | 0 BHK | bath 0 | carpet 1771 | super 1771 | price 17300000 | floor 0 / 0 | locality dlf phase 3 | live False | verified False
+SQU-6002542 | large_BHK_0parking,house_many_floors | Lodha Grand | independent house | 4 BHK | bath 3 | carpet 1545 | super 2009 | price 13200000 | floor 11 / 18 | locality sohna road | live True | verified False
+MAG-6000203 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Adarsh Park | plot | 0 BHK | bath 0 | carpet 2318 | super 2318 | price 13990000 | floor 0 / 0 | locality sector 65 | live True | verified True
+DWE-6000974 | large_BHK_0parking | Nitesh Boulevard | apartment | 4 BHK | bath 4 | carpet 1455 | super 1999 | price 19190000 | floor 18 / 32 | locality dlf phase 3 | live True | verified True
+MAG-6002253 | house_many_floors | Casagrand Boulevard | independent house | 3 BHK | bath 2 | carpet 1265 | super 1591 | price 19310000 | floor 4 / 14 | locality dwarka expressway | live True | verified False
+ZER-6001659 | large_BHK_0parking | Mantri Boulevard | apartment | 4 BHK | bath 4 | carpet 1539 | super 2206 | price 14830000 | floor 4 / 15 | locality sector 56 | live False | verified True
+MAG-6000843 | extreme_ppsf | Salarpuria Meadows | builder floor | 1 BHK | bath 1 | carpet 46 | super 62 | price 6040000 | floor 23 / 27 | locality new gurgaon | live True | verified True
+MAG-6002165 | extreme_ppsf | Kolte Patil Habitat | apartment | 3 BHK | bath 2 | carpet 114 | super 162 | price 14730000 | floor 20 / 25 | locality dwarka expressway | live True | verified True
+100-6001814 | house_many_floors | Sobha Serenity | independent house | 3 BHK | bath 3 | carpet 1216 | super 1547 | price 16700000 | floor 29 / 32 | locality sector 65 | live False | verified False
+100-6003059 | large_BHK_0balcony | Mantri-Elite | apartment | 5 BHK | bath 5 | carpet 1943 | super 2655 | price 28250000 | floor 0 / 6 | locality golf course road | live True | verified False
+MAG-6000813 | house_many_floors,extreme_ppsf | Shriram Meadows | independent house | 3 BHK | bath 3 | carpet 112 | super 155 | price 14620000 | floor 13 / 17 | locality sector 49 | live True | verified True
+MAG-6002772 | large_BHK_0parking | Assetz Heights | apartment | 4 BHK | bath 4 | carpet 1604 | super 2210 | price 18890000 | floor 6 / 12 | locality golf course road | live False | verified True
+SQU-6002613 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Rohan Residency | plot | 0 BHK | bath 0 | carpet 1820 | super 1820 | price 17750000 | floor 0 / 0 | locality sector 56 | live True | verified True
+SQU-6000914 | large_BHK_0balcony,large_BHK_0parking | Nitesh Sanctuary | apartment | 4 BHK | bath 4 | carpet 1442 | super 1830 | price 14670000 | floor 12 / 19 | locality sohna road | live True | verified True
+MAG-6002425 | extreme_ppsf | Rohan Sanctuary | builder floor | 3 BHK | bath 2 | carpet 108 | super 152 | price 11720000 | floor 4 / 15 | locality golf course road | live True | verified True
+100-6001748 | large_BHK_0balcony | Mantri Boulevard | apartment | 4 BHK | bath 3 | carpet 1562 | super 2138 | price 22780000 | floor 8 / 17 | locality golf course road | live True | verified True
+100-6001763 | large_BHK_0balcony | Lodha Habitat | apartment | 4 BHK | bath 3 | carpet 1501 | super 1885 | price 16510000 | floor 7 / 23 | locality sohna road | live True | verified False
+MAG-6000375 | house_many_floors,extreme_ppsf | Brigade Meadows | independent house | 3 BHK | bath 3 | carpet 112 | super 145 | price 13700000 | floor 0 / 18 | locality sohna road | live True | verified False
+SQU-6001836 | 0BHK+0bath,0BHK_large_area | Shriram Meadows | apartment | 0 BHK | bath 0 | carpet 891 | super 1284 | price 12450000 | floor 4 / 8 | locality mg road | live True | verified True
+100-6002984 | large_BHK_0parking | Mantri Sanctuary | apartment | 4 BHK | bath 4 | carpet 1544 | super 1997 | price 21730000 | floor 6 / 30 | locality sohna road | live True | verified True
+MAG-6001365 | extreme_ppsf | Puravankara Park | apartment | 2 BHK | bath 2 | carpet 76 | super 108 | price 16590000 | floor 12 / 18 | locality new gurgaon | live False | verified True
+100-6000419 | house_many_floors | My Home Greens | independent house | 3 BHK | bath 3 | carpet 1087 | super 1431 | price 19270000 | floor 7 / 25 | locality sector 65 | live True | verified False
+MAG-6001013 | large_BHK_0balcony,extreme_ppsf | Shriram Residency | apartment | 4 BHK | bath 4 | carpet 135 | super 172 | price 21600000 | floor 18 / 18 | locality dlf phase 3 | live True | verified True
+100-6002859 | large_BHK_0parking | Prestige Pavilion | apartment | 4 BHK | bath 4 | carpet 1567 | super 2137 | price 24690000 | floor 4 / 7 | locality sector 82 | live True | verified False
+ZER-6000152 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Shriram Willows | plot | 0 BHK | bath 0 | carpet 2202 | super 2202 | price 16230000 | floor 0 / 0 | locality dwarka expressway | live True | verified True
+100-6000939 | house_many_floors | Sobha Crest | independent house | 3 BHK | bath 2 | carpet 1162 | super 1603 | price 12260000 | floor 11 / 23 | locality sector 65 | live True | verified False
+MAG-6001451 | large_BHK_0parking,extreme_ppsf | Puravankara Boulevard | apartment | 5 BHK | bath 5 | carpet 172 | super 220 | price 25340000 | floor 6 / 28 | locality sector 56 | live True | verified True
+SQU-6003354 | large_BHK_0balcony | The Mantri Terraces | apartment | 4 BHK | bath 4 | carpet 1585 | super 2033 | price 30500000 | floor 6 / 6 | locality dwarka expressway | live True | verified True
+100-6002001 | house_many_floors | Puravankara Crest | independent house | 2 BHK | bath 1 | carpet 908 | super 1142 | price 13430000 | floor 22 / 27 | locality new gurgaon | live True | verified True
+MAG-6000886 | extreme_ppsf | Rohan Terraces | builder floor | 4 BHK | bath 4 | carpet 136 | super 193 | price 28540000 | floor 7 / 10 | locality sector 65 | live True | verified True
+ZER-6002638 | house_many_floors | Adarsh Sanctuary | independent house | 2 BHK | bath 1 | carpet 775 | super 975 | price 10770000 | floor 2 / 15 | locality sector 56 | live True | verified False
+ZER-6001865 | large_BHK_0balcony | Mantri Woods | apartment | 4 BHK | bath 4 | carpet 1459 | super 1830 | price 22500000 | floor 0 / 8 | locality sector 56 | live True | verified True
+ZER-6001060 | large_BHK_0balcony | Puravankara Boulevard | villa | 4 BHK | bath 3 | carpet 1518 | super 1934 | price 17570000 | floor 28 / 29 | locality sector 49 | live True | verified False
+100-6001175 | large_BHK_0parking | Adarsh Serenity | apartment | 4 BHK | bath 4 | carpet 1544 | super 1998 | price 18210000 | floor 28 / 28 | locality sohna road | live False | verified True
+SQU-6002024 | large_BHK_0parking | Puravankara Grand | apartment | 5 BHK | bath 5 | carpet 1928 | super 2428 | price 25050000 | floor 1 / 6 | locality sohna road | live True | verified True
+SQU-6001298 | house_many_floors | Salarpuria Enclave | independent house | 2 BHK | bath 1 | carpet 784 | super 1083 | price 8180000 | floor 1 / 15 | locality mg road | live False | verified False
+SQU-6000752 | large_BHK_0balcony | My Home Residency | apartment | 5 BHK | bath 4 | carpet 1924 | super 2668 | price 36190000 | floor 0 / 8 | locality mg road | live True | verified True
+MAG-6002750 | extreme_ppsf | Assetz Pavilion | apartment | 3 BHK | bath 3 | carpet 107 | super 141 | price 13910000 | floor 22 / 23 | locality golf course road | live True | verified True
+SQU-6000421 | large_BHK_0parking | Puravankara Meadows | apartment | 5 BHK | bath 5 | carpet 1924 | super 2609 | price 31670000 | floor 1 / 25 | locality golf course road | live False | verified True
+MAG-6001460 | extreme_ppsf | Shriram Vista | apartment | 3 BHK | bath 2 | carpet 109 | super 151 | price 16040000 | floor 10 / 16 | locality sector 82 | live True | verified False
+ZER-6000515 | large_BHK_0parking | Lodha Serenity | builder floor | 5 BHK | bath 4 | carpet 1855 | super 2399 | price 29190000 | floor 22 / 30 | locality sector 82 | live True | verified False
+MAG-6001889 | extreme_ppsf | Godrej Residency | apartment | 3 BHK | bath 3 | carpet 115 | super 147 | price 12690000 | floor 23 / 25 | locality sector 49 | live True | verified False
+ZER-6001717 | large_BHK_0balcony | Lodha Crest | villa | 4 BHK | bath 4 | carpet 1531 | super 1935 | price 28750000 | floor 4 / 31 | locality sector 49 | live True | verified True
+MAG-6001932 | house_many_floors | Sobha Pavilion | independent house | 3 BHK | bath 3 | carpet 1228 | super 1669 | price 16630000 | floor 6 / 14 | locality new gurgaon | live True | verified False
+100-6003293 | house_many_floors | ASSETZ SERENITY | independent house | 2 BHK | bath 2 | carpet 848 | super 1097 | price 10740000 | floor 0 / 27 | locality sector 49 | live False | verified True
+ZER-6002668 | house_many_floors | Kolte Patil Residency | independent house | 3 BHK | bath 3 | carpet 1225 | super 1646 | price 20700000 | floor 0 / 30 | locality sector 49 | live True | verified True
+MAG-6003168 | extreme_ppsf | puravankara enclave | apartment | 3 BHK | bath 3 | carpet 111 | super 145 | price 16610000 | floor 23 / 27 | locality sector 49 | live True | verified False
+MAG-6000438 | extreme_ppsf | My Home Serenity | apartment | 2 BHK | bath 2 | carpet 80 | super 115 | price 16890000 | floor 1 / 6 | locality sector 56 | live True | verified True
+ZER-6001439 | house_many_floors | Puravankara Sanctuary | independent house | 3 BHK | bath 2 | carpet 1241 | super 1658 | price 13740000 | floor 19 / 29 | locality sector 49 | live True | verified False
+MAG-6001423 | large_BHK_0balcony,extreme_ppsf | Casagrand Sanctuary | apartment | 4 BHK | bath 3 | carpet 151 | super 205 | price 30950000 | floor 16 / 21 | locality mg road | live True | verified False
+DWE-6000115 | large_BHK_0balcony | Puravankara Elite | apartment | 5 BHK | bath 5 | carpet 1817 | super 2344 | price 26550000 | floor 4 / 8 | locality golf course road | live False | verified False
+MAG-6000066 | extreme_ppsf | Century Greens | apartment | 3 BHK | bath 2 | carpet 100 | super 129 | price 13590000 | floor 4 / 15 | locality new gurgaon | live False | verified True
+DWE-6003233 | large_BHK_0parking | The Rohan Greens | apartment | 4 BHK | bath 3 | carpet 1552 | super 2108 | price 16380000 | floor 9 / 16 | locality new gurgaon | live True | verified False
+ZER-6002560 | house_many_floors | Rohan Habitat | independent house | 3 BHK | bath 2 | carpet 1145 | super 1438 | price 18150000 | floor 5 / 14 | locality sector 49 | live True | verified False
+100-6000991 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Sobha Terraces | plot | 0 BHK | bath 0 | carpet 1411 | super 1411 | price 11420000 | floor 0 / 0 | locality sector 65 | live False | verified False
+100-6000892 | large_BHK_0parking | Mantri Sanctuary | apartment | 5 BHK | bath 5 | carpet 1868 | super 2496 | price 35860000 | floor 3 / 6 | locality sector 82 | live True | verified False
+MAG-6001289 | extreme_ppsf | Adarsh Serenity | apartment | 3 BHK | bath 2 | carpet 109 | super 141 | price 14300000 | floor 0 / 28 | locality sohna road | live False | verified False
+MAG-6001685 | extreme_ppsf | Rohan Park | apartment | 1 BHK | bath 1 | carpet 46 | super 58 | price 7320000 | floor 9 / 13 | locality sohna road | live True | verified True
+MAG-6002671 | extreme_ppsf | Sobha Woods | apartment | 3 BHK | bath 2 | carpet 115 | super 148 | price 20650000 | floor 11 / 21 | locality sohna road | live True | verified True
+100-6000994 | large_BHK_0parking | Sobha Vista | apartment | 5 BHK | bath 5 | carpet 1884 | super 2610 | price 29000000 | floor 3 / 8 | locality sector 65 | live True | verified True
+DWE-6002426 | house_many_floors | Assetz Enclave | independent house | 4 BHK | bath 3 | carpet 1602 | super 2028 | price 18170000 | floor 3 / 16 | locality new gurgaon | live True | verified True
+MAG-6002922 | extreme_ppsf | Casagrand Residency | apartment | 2 BHK | bath 1 | carpet 76 | super 110 | price 12980000 | floor 1 / 16 | locality sector 65 | live True | verified True
+100-6000220 | large_BHK_0parking | My Home Residency | apartment | 5 BHK | bath 4 | carpet 1979 | super 2797 | price 26920000 | floor 27 / 28 | locality dwarka expressway | live True | verified True
+100-6003311 | large_BHK_0parking | Mantri Greens Phase 1 | builder floor | 5 BHK | bath 5 | carpet 1920 | super 2688 | price 34560000 | floor 11 / 15 | locality mg road | live True | verified True
+MAG-6000371 | extreme_ppsf | Nitesh Greens | apartment | 2 BHK | bath 2 | carpet 77 | super 104 | price 9320000 | floor 23 / 31 | locality dlf phase 3 | live True | verified False
+DWE-6003046 | house_many_floors | Adarsh Crest Apartments | independent house | 3 BHK | bath 3 | carpet 1256 | super 1773 | price 21680000 | floor 2 / 11 | locality sector 49 | live True | verified True
+MAG-6000534 | extreme_ppsf | Godrej Woods | apartment | 3 BHK | bath 3 | carpet 110 | super 146 | price 16140000 | floor 4 / 14 | locality sohna road | live False | verified True
+DWE-6003052 | house_many_floors | my home serenity | independent house | 2 BHK | bath 2 | carpet 815 | super 1138 | price 10100000 | floor 0 / 16 | locality sector 82 | live True | verified False
+MAG-6001515 | extreme_ppsf | Adarsh Terraces | villa | 3 BHK | bath 3 | carpet 117 | super 169 | price 12710000 | floor 5 / 8 | locality sector 65 | live True | verified False
+MAG-6003281 | large_BHK_0parking | Sobha Greens Apartments | apartment | 4 BHK | bath 4 | carpet 1634 | super 2072 | price 26580000 | floor 17 / 21 | locality new gurgaon | live False | verified True
+SQU-6000199 | house_many_floors | Godrej Greens | independent house | 2 BHK | bath 2 | carpet 779 | super 1117 | price 10670000 | floor 3 / 16 | locality dlf phase 3 | live False | verified False
+SQU-6000860 | large_BHK_0balcony | Rohan Meadows | apartment | 4 BHK | bath 4 | carpet 1567 | super 2212 | price 17270000 | floor 23 / 28 | locality golf course road | live True | verified True
+DWE-6000728 | large_BHK_0parking | My Home Habitat | apartment | 4 BHK | bath 3 | carpet 1538 | super 2141 | price 18970000 | floor 3 / 13 | locality golf course road | live True | verified False
+MAG-6001529 | house_many_floors,extreme_ppsf | Century Heights | independent house | 3 BHK | bath 2 | carpet 117 | super 153 | price 20110000 | floor 16 / 19 | locality mg road | live True | verified True
+SQU-6002130 | 0BHK+0bath,0BHK_large_area | Salarpuria Boulevard | apartment | 0 BHK | bath 0 | carpet 1548 | super 2205 | price 21190000 | floor 2 / 4 | locality dlf phase 3 | live True | verified True
+MAG-6002939 | house_many_floors,extreme_ppsf | Mantri Woods | independent house | 2 BHK | bath 1 | carpet 88 | super 121 | price 12270000 | floor 26 / 28 | locality sector 65 | live False | verified False
+MAG-6002437 | extreme_ppsf | Century Park | apartment | 2 BHK | bath 1 | carpet 90 | super 126 | price 14220000 | floor 0 / 5 | locality golf course road | live True | verified False
+MAG-6002602 | extreme_ppsf | Century Habitat | apartment | 3 BHK | bath 2 | carpet 106 | super 143 | price 19140000 | floor 13 / 23 | locality sector 65 | live True | verified False
+100-6003383 | large_BHK_0parking | Puravankara-Elite | apartment | 4 BHK | bath 4 | carpet 1468 | super 1924 | price 17920000 | floor 1 / 11 | locality golf course road | live True | verified False
+MAG-6001576 | house_many_floors,extreme_ppsf | Godrej Elite | independent house | 1 BHK | bath 1 | carpet 52 | super 74 | price 11820000 | floor 3 / 15 | locality new gurgaon | live True | verified True
+DWE-6000349 | house_many_floors | Salarpuria Sanctuary | independent house | 2 BHK | bath 2 | carpet 808 | super 1112 | price 15050000 | floor 1 / 14 | locality sohna road | live True | verified False
+MAG-6001809 | extreme_ppsf | Aparna Willows | builder floor | 3 BHK | bath 3 | carpet 108 | super 138 | price 14700000 | floor 1 / 9 | locality sector 65 | live True | verified False
+100-6000575 | large_BHK_0parking | Adarsh Residency | apartment | 5 BHK | bath 4 | carpet 1957 | super 2601 | price 27330000 | floor 1 / 15 | locality dwarka expressway | live True | verified False
+MAG-6001999 | house_many_floors,extreme_ppsf | Rohan Heights | independent house | 3 BHK | bath 2 | carpet 111 | super 143 | price 21260000 | floor 15 / 15 | locality mg road | live False | verified False
+SQU-6001064 | large_BHK_0parking,house_many_floors | Salarpuria Pavilion | independent house | 4 BHK | bath 3 | carpet 1500 | super 2168 | price 19890000 | floor 3 / 11 | locality dlf phase 3 | live False | verified True
+MAG-6000841 | extreme_ppsf | Century Sanctuary | apartment | 3 BHK | bath 2 | carpet 114 | super 162 | price 20970000 | floor 16 / 19 | locality new gurgaon | live True | verified False
+MAG-6000751 | extreme_ppsf | Rohan Meadows | apartment | 5 BHK | bath 5 | carpet 187 | super 271 | price 36840000 | floor 4 / 11 | locality mg road | live True | verified True
+DWE-6001227 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Prestige Enclave | plot | 0 BHK | bath 0 | carpet 1944 | super 1944 | price 17840000 | floor 0 / 0 | locality sector 65 | live True | verified True
+MAG-6003335 | extreme_ppsf | Adarsh Sanctuary Apartments | apartment | 2 BHK | bath 2 | carpet 78 | super 96 | price 9600000 | floor 4 / 23 | locality mg road | live True | verified True
+100-6002310 | large_BHK_0parking | Lodha Residency | apartment | 4 BHK | bath 3 | carpet 1653 | super 2115 | price 27280000 | floor 1 / 7 | locality sector 56 | live True | verified False
+100-6000389 | house_many_floors | Brigade Vista | independent house | 4 BHK | bath 3 | carpet 1554 | super 2106 | price 24800000 | floor 9 / 21 | locality dwarka expressway | live True | verified True
+MAG-6001479 | extreme_ppsf | Puravankara Heights | apartment | 3 BHK | bath 3 | carpet 118 | super 148 | price 20800000 | floor 8 / 15 | locality golf course road | live True | verified True
+MAG-6000707 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Sobha Enclave | plot | 0 BHK | bath 0 | carpet 2065 | super 2065 | price 14670000 | floor 0 / 0 | locality sector 49 | live True | verified True
+ZER-6002866 | large_BHK_0balcony,large_BHK_0parking | Assetz Pavilion | apartment | 4 BHK | bath 4 | carpet 1622 | super 2084 | price 26050000 | floor 3 / 4 | locality sector 82 | live True | verified True
+ZER-6002894 | house_many_floors | Kolte Patil Woods | independent house | 3 BHK | bath 3 | carpet 1150 | super 1613 | price 13750000 | floor 11 / 14 | locality sector 82 | live True | verified False
+MAG-6000299 | 0BHK+0bath,0/0_floor,carpet_equals_super,extreme_ppsf | Century Elite | plot | 0 BHK | bath 0 | carpet 176 | super 176 | price 20940000 | floor 0 / 0 | locality sector 82 | live True | verified False
+ZER-6000872 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Century Heights | plot | 0 BHK | bath 0 | carpet 2080 | super 2080 | price 17580000 | floor 0 / 0 | locality sector 49 | live True | verified True
+SQU-6003174 | large_BHK_0parking | Puravankara Boulevard Phase 1 | apartment | 4 BHK | bath 4 | carpet 1522 | super 1932 | price 12760000 | floor 2 / 8 | locality sohna road | live True | verified True
+SQU-6000454 | large_BHK_0parking | Adarsh Enclave | apartment | 4 BHK | bath 3 | carpet 1443 | super 2070 | price 15170000 | floor 7 / 12 | locality new gurgaon | live False | verified False
+100-6000329 | large_BHK_0parking | Salarpuria Boulevard | apartment | 4 BHK | bath 4 | carpet 1621 | super 2277 | price 28290000 | floor 4 / 4 | locality mg road | live True | verified True
+ZER-6001934 | large_BHK_0parking | Puravankara Greens | apartment | 4 BHK | bath 3 | carpet 1396 | super 1794 | price 17980000 | floor 6 / 8 | locality sector 65 | live True | verified False
+MAG-6002708 | extreme_ppsf | Lodha Park | apartment | 2 BHK | bath 1 | carpet 71 | super 100 | price 7780000 | floor 0 / 4 | locality golf course road | live True | verified False
+MAG-6000192 | extreme_ppsf | Mantri Heights | apartment | 2 BHK | bath 2 | carpet 70 | super 101 | price 14260000 | floor 14 / 26 | locality new gurgaon | live True | verified False
+ZER-6002864 | house_many_floors | Prestige Sanctuary | independent house | 4 BHK | bath 4 | carpet 1571 | super 2013 | price 29120000 | floor 3 / 15 | locality sector 65 | live True | verified False
+MAG-6000603 | extreme_ppsf | Mantri Enclave | apartment | 2 BHK | bath 1 | carpet 86 | super 117 | price 12120000 | floor 2 / 29 | locality dlf phase 3 | live False | verified True
+ZER-6000634 | large_BHK_0parking | Puravankara Serenity | apartment | 4 BHK | bath 3 | carpet 1687 | super 2126 | price 31380000 | floor 8 / 18 | locality sector 56 | live True | verified True
+SQU-6000249 | large_BHK_0balcony | Salarpuria Crest | builder floor | 4 BHK | bath 3 | carpet 1603 | super 2166 | price 26380000 | floor 16 / 25 | locality new gurgaon | live True | verified False
+MAG-6002534 | large_BHK_0balcony | Kolte Patil Boulevard | apartment | 4 BHK | bath 4 | carpet 1627 | super 2044 | price 23590000 | floor 7 / 11 | locality sohna road | live True | verified True
+MAG-6000392 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Mantri Enclave | plot | 0 BHK | bath 0 | carpet 1579 | super 1579 | price 8570000 | floor 0 / 0 | locality dwarka expressway | live False | verified False
+MAG-6002266 | house_many_floors | Mantri Woods | independent house | 3 BHK | bath 2 | carpet 1168 | super 1519 | price 19420000 | floor 2 / 32 | locality sector 82 | live True | verified True
+SQU-6000415 | house_many_floors | Prestige Woods | independent house | 1 BHK | bath 1 | carpet 633 | super 827 | price 9400000 | floor 8 / 16 | locality sector 82 | live True | verified True
+MAG-6003248 | large_BHK_0parking,extreme_ppsf | Shriram Elite Apartments | apartment | 4 BHK | bath 3 | carpet 145 | super 208 | price 14900000 | floor 10 / 32 | locality sector 49 | live True | verified True
+MAG-6000816 | extreme_ppsf | Casagrand Sanctuary | apartment | 2 BHK | bath 1 | carpet 76 | super 99 | price 9920000 | floor 8 / 9 | locality new gurgaon | live False | verified True
+DWE-6000572 | house_many_floors | Puravankara Greens | independent house | 2 BHK | bath 2 | carpet 898 | super 1157 | price 9030000 | floor 8 / 29 | locality new gurgaon | live False | verified True
+100-6000578 | extreme_ppsf | Aparna Vista | apartment | 2 BHK | bath 1 | carpet 803 | super 1065 | price 14620 | floor 12 / 15 | locality sohna road | live True | verified True
+DWE-6001772 | large_BHK_0balcony,large_BHK_0parking | Shriram Pavilion | apartment | 5 BHK | bath 5 | carpet 1939 | super 2727 | price 28110000 | floor 21 / 25 | locality sector 82 | live True | verified True
+DWE-6001406 | large_BHK_0parking | Assetz Willows | builder floor | 5 BHK | bath 5 | carpet 1898 | super 2471 | price 29020000 | floor 7 / 15 | locality sector 56 | live True | verified True
+MAG-6000390 | extreme_ppsf | Salarpuria Willows | apartment | 3 BHK | bath 2 | carpet 110 | super 144 | price 21590000 | floor 2 / 4 | locality sector 56 | live True | verified True
+ZER-6003300 | house_many_floors | Salarpuria-Vista | independent house | 2 BHK | bath 1 | carpet 847 | super 1204 | price 16160000 | floor 11 / 20 | locality mg road | live True | verified True
+ZER-6002694 | large_BHK_0parking | Adarsh Grand | apartment | 4 BHK | bath 4 | carpet 1622 | super 2320 | price 19230000 | floor 7 / 7 | locality mg road | live True | verified False
+MAG-6001242 | house_many_floors | Shriram Crest | independent house | 3 BHK | bath 2 | carpet 1181 | super 1671 | price 15970000 | floor 16 / 17 | locality new gurgaon | live True | verified True
+MAG-6002702 | extreme_ppsf | Lodha Crest | builder floor | 2 BHK | bath 1 | carpet 75 | super 96 | price 13870000 | floor 7 / 9 | locality sector 65 | live True | verified False
+MAG-6000431 | extreme_ppsf | Adarsh Vista | apartment | 2 BHK | bath 2 | carpet 82 | super 117 | price 9910000 | floor 1 / 4 | locality new gurgaon | live True | verified True
+100-6001539 | large_BHK_0parking | Century Crest | apartment | 4 BHK | bath 3 | carpet 1601 | super 2044 | price 23830000 | floor 3 / 5 | locality golf course road | live True | verified True
+MAG-6001263 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Casagrand Pavilion | plot | 0 BHK | bath 0 | carpet 2066 | super 2066 | price 17990000 | floor 0 / 0 | locality sector 65 | live False | verified True
+100-6000529 | large_BHK_0balcony | Prestige Pavilion | apartment | 4 BHK | bath 3 | carpet 1617 | super 2163 | price 26030000 | floor 14 / 25 | locality sector 82 | live False | verified True
+MAG-6001056 | extreme_ppsf | Casagrand Sanctuary | apartment | 2 BHK | bath 1 | carpet 76 | super 102 | price 9090000 | floor 9 / 18 | locality dlf phase 3 | live True | verified False
+SQU-6003325 | large_BHK_0parking | Puravankara Greens | apartment | 4 BHK | bath 3 | carpet 1394 | super 1785 | price 18770000 | floor 6 / 8 | locality sector 65 | live True | verified False
+MAG-6000264 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Lodha Pavilion | plot | 0 BHK | bath 0 | carpet 1380 | super 1380 | price 10260000 | floor 0 / 0 | locality sector 82 | live True | verified True
+MAG-6002183 | large_BHK_0balcony,extreme_ppsf | Aparna Crest | apartment | 4 BHK | bath 3 | carpet 147 | super 196 | price 23760000 | floor 1 / 12 | locality mg road | live True | verified False
+DWE-6002893 | house_many_floors | Brigade Woods | independent house | 2 BHK | bath 2 | carpet 867 | super 1231 | price 16230000 | floor 9 / 11 | locality new gurgaon | live True | verified False
+ZER-6002509 | house_many_floors | Shriram Sanctuary | independent house | 2 BHK | bath 1 | carpet 827 | super 1162 | price 8740000 | floor 2 / 11 | locality sector 65 | live True | verified False
+DWE-6000132 | large_BHK_0parking | Adarsh Heights | apartment | 4 BHK | bath 4 | carpet 1485 | super 2016 | price 27660000 | floor 13 / 29 | locality sector 65 | live True | verified False
+DWE-6000721 | large_BHK_0balcony | Rohan Pavilion | independent house | 4 BHK | bath 3 | carpet 1580 | super 2039 | price 18640000 | floor 7 / 9 | locality sector 82 | live False | verified True
+MAG-6000291 | large_BHK_0balcony | Rohan Heights | apartment | 4 BHK | bath 3 | carpet 1603 | super 2232 | price 15840000 | floor 6 / 27 | locality mg road | live True | verified True
+ZER-6000951 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Lodha Pavilion | plot | 0 BHK | bath 0 | carpet 1310 | super 1310 | price 11800000 | floor 0 / 0 | locality sector 56 | live True | verified True
+MAG-6001231 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Century Grand | plot | 0 BHK | bath 0 | carpet 2417 | super 2417 | price 24110000 | floor 0 / 0 | locality sector 82 | live True | verified False
+ZER-6000288 | house_many_floors | Puravankara Elite | independent house | 4 BHK | bath 3 | carpet 1564 | super 2210 | price 17160000 | floor 10 / 25 | locality mg road | live True | verified False
+MAG-6002593 | large_BHK_0balcony | Shriram Residency | apartment | 4 BHK | bath 4 | carpet 1689 | super 2415 | price 34630000 | floor 1 / 6 | locality sector 49 | live True | verified False
+MAG-6003453 | large_BHK_0parking | The Puravankara Boulevard | apartment | 4 BHK | bath 4 | carpet 1513 | super 1945 | price 12900000 | floor 2 / 8 | locality sohna road | live True | verified True
+MAG-6000145 | large_BHK_0balcony,large_BHK_0parking | Puravankara Pavilion | apartment | 5 BHK | bath 4 | carpet 1867 | super 2389 | price 32570000 | floor 12 / 13 | locality new gurgaon | live True | verified True
+DWE-6001440 | house_many_floors | Nitesh Heights | independent house | 3 BHK | bath 2 | carpet 1070 | super 1512 | price 18330000 | floor 19 / 26 | locality sector 82 | live False | verified True
+DWE-6003348 | large_BHK_0balcony | ROHAN MEADOWS | apartment | 4 BHK | bath 4 | carpet 1569 | super 2210 | price 16660000 | floor 23 / 28 | locality golf course road | live True | verified True
+MAG-6002062 | extreme_ppsf | My Home Greens | apartment | 1 BHK | bath 1 | carpet 40 | super 57 | price 5820000 | floor 1 / 16 | locality golf course road | live True | verified True
+MAG-6000137 | large_BHK_0balcony,large_BHK_0parking,extreme_ppsf | Rohan Habitat | apartment | 5 BHK | bath 5 | carpet 182 | super 232 | price 35090000 | floor 6 / 9 | locality sector 49 | live True | verified True
+100-6000678 | extreme_ppsf | Nitesh Pavilion | apartment | 1 BHK | bath 1 | carpet 453 | super 633 | price 5030 | floor 0 / 26 | locality mg road | live True | verified True
+100-6002229 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Shriram Grand | plot | 0 BHK | bath 0 | carpet 1827 | super 1827 | price 19660000 | floor 0 / 0 | locality golf course road | live False | verified False
+MAG-6002209 | extreme_ppsf | Rohan Sanctuary | apartment | 3 BHK | bath 2 | carpet 111 | super 139 | price 18390000 | floor 1 / 12 | locality sector 65 | live False | verified True
+DWE-6000675 | large_BHK_0balcony | Assetz Boulevard | apartment | 4 BHK | bath 4 | carpet 1501 | super 1939 | price 23940000 | floor 19 / 29 | locality golf course road | live True | verified False
+MAG-6000956 | large_BHK_0balcony,extreme_ppsf | Mantri Serenity | apartment | 4 BHK | bath 4 | carpet 137 | super 182 | price 27000000 | floor 4 / 4 | locality sector 49 | live True | verified True
+SQU-6000871 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Lodha Terraces | plot | 0 BHK | bath 0 | carpet 1039 | super 1039 | price 9610000 | floor 0 / 0 | locality sector 56 | live True | verified True
+MAG-6000552 | extreme_ppsf | Assetz Terraces | apartment | 2 BHK | bath 1 | carpet 82 | super 118 | price 16960000 | floor 16 / 16 | locality sector 65 | live True | verified True
+MAG-6002277 | large_BHK_0balcony | Assetz Willows | apartment | 4 BHK | bath 4 | carpet 1543 | super 2017 | price 24090000 | floor 5 / 5 | locality golf course road | live True | verified False
+ZER-6002230 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Mantri Grand | plot | 0 BHK | bath 0 | carpet 1873 | super 1873 | price 12920000 | floor 0 / 0 | locality golf course road | live True | verified False
+100-6002787 | large_BHK_0balcony | Lodha Enclave | apartment | 4 BHK | bath 4 | carpet 1487 | super 1939 | price 19840000 | floor 0 / 8 | locality sector 56 | live True | verified False
+ZER-6003497 | large_BHK_0parking | The Sobha Pavilion | apartment | 4 BHK | bath 3 | carpet 1533 | super 2126 | price 24120000 | floor 20 / 21 | locality sector 65 | live True | verified True
+100-6003491 | house_many_floors | Prestige Woods Apartments | independent house | 1 BHK | bath 1 | carpet 631 | super 829 | price 9830000 | floor 8 / 16 | locality sector 82 | live False | verified True
+MAG-6000201 | house_many_floors,extreme_ppsf | Lodha Grand | independent house | 2 BHK | bath 2 | carpet 74 | super 93 | price 9830000 | floor 17 / 25 | locality sector 56 | live False | verified True
+100-6002366 | large_BHK_0balcony,large_BHK_0parking | Brigade Woods | apartment | 4 BHK | bath 3 | carpet 1614 | super 2255 | price 17010000 | floor 18 / 23 | locality sector 65 | live True | verified True
+ZER-6000598 | large_BHK_0parking | My Home Heights | villa | 4 BHK | bath 3 | carpet 1653 | super 2375 | price 15570000 | floor 22 / 32 | locality sector 49 | live False | verified False
+MAG-6000131 | large_BHK_0parking | Casagrand Sanctuary | apartment | 5 BHK | bath 4 | carpet 2011 | super 2553 | price 35090000 | floor 14 / 15 | locality dlf phase 3 | live True | verified False
+MAG-6001655 | house_many_floors,extreme_ppsf | Salarpuria Habitat | independent house | 3 BHK | bath 2 | carpet 111 | super 154 | price 18550000 | floor 8 / 27 | locality sohna road | live False | verified False
+MAG-6000814 | extreme_ppsf | Lodha Sanctuary | apartment | 2 BHK | bath 1 | carpet 77 | super 99 | price 11670000 | floor 2 / 5 | locality sohna road | live False | verified False
+SQU-6000450 | large_BHK_0balcony | Rohan Grand | apartment | 4 BHK | bath 3 | carpet 1649 | super 2174 | price 8840000 | floor 1 / 14 | locality mg road | live True | verified True
+DWE-6003103 | house_many_floors | Prestige Sanctuary Phase 1 | independent house | 4 BHK | bath 4 | carpet 1558 | super 2002 | price 29380000 | floor 3 / 15 | locality sector 65 | live False | verified False
+MAG-6000014 | large_BHK_0balcony | Aparna Terraces | apartment | 4 BHK | bath 4 | carpet 1596 | super 2271 | price 30830000 | floor 8 / 13 | locality sector 65 | live True | verified False
+MAG-6002108 | extreme_ppsf | Century Heights | independent house | 2 BHK | bath 2 | carpet 75 | super 105 | price 13340000 | floor 1 / 7 | locality golf course road | live True | verified False
+MAG-6002167 | extreme_ppsf | Brigade Pavilion | apartment | 2 BHK | bath 2 | carpet 88 | super 112 | price 12050000 | floor 22 / 27 | locality new gurgaon | live True | verified False
+ZER-6000488 | large_BHK_0parking | Godrej Residency | apartment | 5 BHK | bath 5 | carpet 1972 | super 2515 | price 20330000 | floor 22 / 25 | locality new gurgaon | live True | verified True
+MAG-6000205 | extreme_ppsf | Mantri Terraces | builder floor | 3 BHK | bath 3 | carpet 119 | super 151 | price 14730000 | floor 19 / 24 | locality dlf phase 3 | live False | verified True
+DWE-6002240 | house_many_floors | Godrej Woods | independent house | 3 BHK | bath 3 | carpet 1268 | super 1602 | price 16740000 | floor 4 / 16 | locality sohna road | live True | verified True
+SQU-6001142 | house_many_floors | Lodha Meadows | independent house | 3 BHK | bath 3 | carpet 1198 | super 1527 | price 15830000 | floor 23 / 27 | locality sohna road | live True | verified True
+DWE-6003436 | large_BHK_0parking | The Prestige Habitat | apartment | 4 BHK | bath 4 | carpet 1663 | super 2202 | price 21490000 | floor 10 / 12 | locality sector 56 | live True | verified True
+100-6000030 | large_BHK_0balcony | Brigade Greens | apartment | 4 BHK | bath 4 | carpet 1464 | super 1908 | price 22600000 | floor 19 / 28 | locality dwarka expressway | live True | verified True
+DWE-6003108 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Prestige Vista Apartments | plot | 0 BHK | bath 0 | carpet 1177 | super 1177 | price 6440000 | floor 0 / 0 | locality new gurgaon | live False | verified True
+MAG-6000452 | large_BHK_0parking | Mantri Woods | apartment | 4 BHK | bath 4 | carpet 1651 | super 2377 | price 23470000 | floor 27 / 31 | locality dlf phase 3 | live True | verified True
+100-6001096 | large_BHK_0balcony,house_many_floors | Nitesh Park | independent house | 4 BHK | bath 4 | carpet 1529 | super 2215 | price 19730000 | floor 13 / 29 | locality golf course road | live False | verified True
+ZER-6000436 | house_many_floors | Prestige Crest | independent house | 3 BHK | bath 3 | carpet 1153 | super 1577 | price 23210000 | floor 24 / 26 | locality sector 56 | live True | verified True
+MAG-6002222 | extreme_ppsf | Casagrand Elite | apartment | 2 BHK | bath 1 | carpet 72 | super 103 | price 9720000 | floor 2 / 4 | locality sector 65 | live True | verified True
+SQU-6000398 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Mantri Habitat | plot | 0 BHK | bath 0 | carpet 2058 | super 2058 | price 24480000 | floor 0 / 0 | locality sector 56 | live True | verified True
+DWE-6000896 | house_many_floors | Aparna Meadows | independent house | 3 BHK | bath 3 | carpet 1311 | super 1853 | price 27790000 | floor 10 / 30 | locality dlf phase 3 | live True | verified False
+MAG-6002669 | extreme_ppsf | Prestige Boulevard | apartment | 3 BHK | bath 3 | carpet 110 | super 141 | price 14960000 | floor 8 / 12 | locality sector 65 | live False | verified True
+MAG-6002917 | extreme_ppsf | Prestige Boulevard | apartment | 2 BHK | bath 2 | carpet 75 | super 97 | price 12770000 | floor 4 / 12 | locality new gurgaon | live True | verified True
+ZER-6001881 | large_BHK_0parking | Sobha Grand | builder floor | 4 BHK | bath 3 | carpet 1609 | super 2276 | price 21050000 | floor 10 / 13 | locality dwarka expressway | live True | verified True
+MAG-6000475 | extreme_ppsf | Mantri Boulevard | apartment | 2 BHK | bath 1 | carpet 72 | super 94 | price 11140000 | floor 14 / 32 | locality new gurgaon | live True | verified True
+MAG-6001037 | extreme_ppsf | Rohan Greens | apartment | 2 BHK | bath 2 | carpet 78 | super 107 | price 12880000 | floor 11 / 13 | locality sohna road | live True | verified True
+MAG-6002480 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Puravankara Elite | plot | 0 BHK | bath 0 | carpet 1903 | super 1903 | price 20170000 | floor 0 / 0 | locality golf course road | live True | verified True
+MAG-6000681 | house_many_floors | Century Greens | independent house | 3 BHK | bath 3 | carpet 1262 | super 1594 | price 22810000 | floor 5 / 17 | locality dwarka expressway | live True | verified False
+ZER-6000928 | house_many_floors | Sobha Woods | independent house | 3 BHK | bath 2 | carpet 1238 | super 1770 | price 16600000 | floor 6 / 19 | locality golf course road | live True | verified True
+ZER-6000359 | large_BHK_0balcony,large_BHK_0parking | Salarpuria Terraces | apartment | 4 BHK | bath 4 | carpet 1580 | super 2121 | price 28940000 | floor 1 / 8 | locality mg road | live False | verified False
+ZER-6003009 | large_BHK_0balcony | Sobha Terraces | builder floor | 5 BHK | bath 5 | carpet 1933 | super 2468 | price 19200000 | floor 2 / 18 | locality sector 65 | live True | verified True
+ZER-6000085 | house_many_floors | Sobha Terraces | independent house | 3 BHK | bath 3 | carpet 1231 | super 1775 | price 17520000 | floor 4 / 11 | locality new gurgaon | live True | verified False
+MAG-6002004 | extreme_ppsf | Godrej Serenity | apartment | 1 BHK | bath 1 | carpet 46 | super 58 | price 8410000 | floor 4 / 5 | locality sector 65 | live True | verified False
+MAG-6000067 | extreme_ppsf | Salarpuria Residency | apartment | 2 BHK | bath 2 | carpet 86 | super 112 | price 17010000 | floor 6 / 10 | locality golf course road | live True | verified False
+100-6003211 | large_BHK_0balcony | Shriram Terraces Phase 1 | apartment | 5 BHK | bath 4 | carpet 1958 | super 2704 | price 19930000 | floor 8 / 16 | locality dlf phase 3 | live True | verified False
+SQU-6000516 | large_BHK_0parking | Rohan Enclave | apartment | 4 BHK | bath 3 | carpet 1576 | super 2264 | price 28650000 | floor 8 / 14 | locality sector 65 | live True | verified True
+MAG-6001246 | extreme_ppsf | Brigade Sanctuary | apartment | 3 BHK | bath 3 | carpet 111 | super 149 | price 12640000 | floor 10 / 11 | locality sector 49 | live True | verified False
+DWE-6000818 | house_many_floors | Aparna Greens | independent house | 3 BHK | bath 3 | carpet 1238 | super 1639 | price 14460000 | floor 20 / 20 | locality mg road | live True | verified True
+MAG-6002014 | house_many_floors | Prestige Terraces | independent house | 1 BHK | bath 1 | carpet 430 | super 559 | price 6140000 | floor 2 / 15 | locality dwarka expressway | live True | verified False
+MAG-6001494 | house_many_floors | Salarpuria Grand | independent house | 2 BHK | bath 2 | carpet 892 | super 1205 | price 17340000 | floor 25 / 28 | locality dwarka expressway | live False | verified False
+DWE-6000668 | 0BHK+0bath,0BHK_large_area,0/0_floor,carpet_equals_super | Kolte Patil Heights | plot | 0 BHK | bath 0 | carpet 2257 | super 2257 | price 21270000 | floor 0 / 0 | locality sector 82 | live True | verified True

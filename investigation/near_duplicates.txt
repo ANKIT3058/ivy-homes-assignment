@@ -1,0 +1,53 @@
+TOTAL: 3500
+
+=== PROPERTY ATTRIBUTE COLLISIONS ===
+GROUPS: 3
+RECORDS: 6
+
+KEY: ('kolte patil heights', 'sector 56', 0, 0, 1559, 1559) COUNT: 2
+  SQU-6001541 | price 13040000 | floor 0 | project None | lat/lon 28.556 77.07949 | phone +912006480740 | name Ananya Kulkarni | live True | verified True | posted 2026-01-15T06:06:00
+  DWE-6003087 | price 13250000 | floor 0 | project None | lat/lon 28.55555 77.07921 | phone +912000331079 | name Ananya Reddy | live True | verified True | posted 2026-04-19T07:50:00
+
+KEY: ('mantri heights', 'new gurgaon', 3, 3, 1171, 1525) COUNT: 2
+  DWE-6003109 | price 11680000 | floor 9 | project P60171 | lat/lon 28.52544 77.01206 | phone +912008141402 | name Aditya Nair | live True | verified False | posted 2026-08-06T02:12:00
+  MAG-6000909 | price 11680000 | floor 9 | project P60348 | lat/lon 28.52569 77.01187 | phone +912001048465 | name Aditya Rao | live True | verified False | posted 2026-05-12T14:03:00
+
+KEY: ('salarpuria meadows', 'new gurgaon', 1, 1, 46, 62) COUNT: 2
+  MAG-6003268 | price 6320000 | floor 23 | project P60214 | lat/lon 28.3644 76.88031 | phone +912007078121 | name Arjun Menon | live True | verified True | posted 2026-06-30T09:52:00
+  MAG-6000843 | price 6040000 | floor 23 | project P60235 | lat/lon 28.36396 76.88021 | phone +912005938114 | name Aditya Nair | live True | verified True | posted 2026-07-04T08:40:00
+
+=== SAME NAME + BHK + AREA + NEARBY COORDINATES ===
+GROUPS: 8
+
+KEY: ('adarsh grand', 5, 1729, 28.561, 77.09) COUNT: 2
+  MAG-6003474 | adarsh grand | price 24450000 | carpet 1729 | super 2433 | floor 14 | project P60391 | locality sector 65 | phone +912003284336 | live True | verified False
+  100-6000682 | Adarsh Grand | price 23480000 | carpet 1729 | super 2416 | floor 14 | project P60041 | locality sector 65 | phone +912007378483 | live False | verified False
+
+KEY: ('kolte patil heights', 0, 1559, 28.556, 77.079) COUNT: 2
+  SQU-6001541 | Kolte Patil Heights | price 13040000 | carpet 1559 | super 1559 | floor 0 | project None | locality sector 56 | phone +912006480740 | live True | verified True
+  DWE-6003087 | kolte patil heights | price 13250000 | carpet 1559 | super 1559 | floor 0 | project None | locality sector 56 | phone +912000331079 | live True | verified True
+
+KEY: ('mantri park', 3, 1239, 28.303, 77.18) COUNT: 2
+  100-6000744 | Mantri Park | price 12510000 | carpet 1239 | super 1725 | floor 1 | project P60244 | locality sector 56 | phone +912008197823 | live True | verified True
+  ZER-6003163 | MANTRI PARK | price 12150000 | carpet 1239 | super 1708 | floor 1 | project None | locality sector 56 | phone +912006499274 | live True | verified True
+
+KEY: ('nitesh meadows', 3, 1212, 28.569, 77.018) COUNT: 2
+  ZER-6001853 | Nitesh Meadows | price 20770000 | carpet 1212 | super 1611 | floor 14 | project None | locality golf course road | phone +912006989694 | live True | verified False
+  SQU-6003344 | nitesh meadows | price 20930000 | carpet 1212 | super 1617 | floor 14 | project None | locality golf course road | phone +912006848669 | live False | verified False
+
+KEY: ('prestige elite', 2, 908, 28.52, 76.948) COUNT: 2
+  SQU-6000099 | Prestige Elite | price 15620000 | carpet 908 | super 1214 | floor 2 | project P60374 | locality golf course road | phone +912003828233 | live True | verified False
+  ZER-6003376 | prestige elite | price 15490000 | carpet 908 | super 1204 | floor 2 | project P60108 | locality golf course road | phone +912006435923 | live True | verified False
+
+KEY: ('puravankara pavilion', 3, 1284, 28.547, 77.017) COUNT: 2
+  ZER-6000480 | Puravankara Pavilion | price 20630000 | carpet 1284 | super 1681 | floor 14 | project P60396 | locality sohna road | phone +912002140067 | live True | verified False
+  SQU-6000310 | Puravankara Pavilion | price 19290000 | carpet 1284 | super 1738 | floor 5 | project P60236 | locality sohna road | phone +912000168557 | live True | verified True
+
+KEY: ('puravankara residency', 3, 1188, 28.601, 77.097) COUNT: 2
+  MAG-6000345 | Puravankara Residency | price 21970000 | carpet 1188 | super 1578 | floor 10 | project None | locality sector 49 | phone +912001258979 | live True | verified True
+  MAG-6000376 | Puravankara Residency | price 15840000 | carpet 1188 | super 1677 | floor 5 | project None | locality sector 49 | phone +912002182032 | live True | verified True
+
+KEY: ('salarpuria meadows', 1, 46, 28.364, 76.88) COUNT: 2
+  MAG-6003268 | SALARPURIA MEADOWS | price 6320000 | carpet 46 | super 62 | floor 23 | project P60214 | locality new gurgaon | phone +912007078121 | live True | verified True
+  MAG-6000843 | Salarpuria Meadows | price 6040000 | carpet 46 | super 62 | floor 23 | project P60235 | locality new gurgaon | phone +912005938114 | live True | verified True
+

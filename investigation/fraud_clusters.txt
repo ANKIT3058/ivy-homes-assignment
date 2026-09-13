@@ -1,0 +1,977 @@
+=== SAME PHONE + NAME + BHK + CARPET ===
+
+KEY: ('+912009304783', 'suresh verma', 2, 803) COUNT: 2
+100-6000510 | Lodha Pavilion | price 10400000 | super 1136 | floor 8 | project P60011 | locality sohna road | live True | verified False
+DWE-6002368 | Godrej Park | price 9320000 | super 1056 | floor 8 | project P60342 | locality dwarka expressway | live True | verified True
+
+KEY: ('+912001089042', 'naveen desai', 2, 772) COUNT: 2
+ZER-6000676 | My Home Pavilion | price 15870000 | super 1118 | floor 1 | project None | locality sector 82 | live False | verified True
+SQU-6002968 | Century Grand | price 8660000 | super 991 | floor 21 | project None | locality sector 65 | live True | verified True
+
+KEY: ('+912008137690', 'shreya verma', 3, 1256) COUNT: 2
+DWE-6001728 | Adarsh Greens | price 15110000 | super 1681 | floor 31 | project None | locality new gurgaon | live True | verified False
+DWE-6000536 | Adarsh Meadows | price 20880000 | super 1663 | floor 7 | project P60150 | locality dlf phase 3 | live True | verified True
+
+KEY: ('+912004055003', 'karthik kumar', 3, 1201) COUNT: 2
+100-6001232 | My Home Terraces | price 9910000 | super 1514 | floor 7 | project P60185 | locality sector 49 | live True | verified True
+MAG-6000283 | My Home Sanctuary | price 13480000 | super 1606 | floor 14 | project None | locality mg road | live True | verified True
+
+KEY: ('+912004949456', 'sneha rao', 2, 867) COUNT: 2
+100-6001181 | Kolte Patil Habitat | price 15300000 | super 1131 | floor 1 | project P60045 | locality sector 82 | live True | verified False
+DWE-6002000 | Shriram Grand | price 10530000 | super 1158 | floor 5 | project P60145 | locality sector 65 | live True | verified True
+
+KEY: ('+912003566175', 'deepa kulkarni', 2, 862) COUNT: 2
+100-6003396 | Kolte  Patil  Greens | price 11460000 | super 1142 | floor 3 | project P60345 | locality mg road | live False | verified True
+ZER-6003079 | casagrand park | price 16030000 | super 1168 | floor 9 | project P60363 | locality mg road | live True | verified True
+
+KEY: ('+912001242913', 'sneha rao', 3, 1197) COUNT: 2
+100-6002040 | Salarpuria Park | price 20530000 | super 1595 | floor 13 | project P60055 | locality dwarka expressway | live True | verified True
+DWE-6000775 | Lodha Elite | price 23700000 | super 1667 | floor 8 | project None | locality sohna road | live True | verified True
+
+KEY: ('+912009169074', 'priya shetty', 3, 1229) COUNT: 2
+DWE-6000885 | Prestige Willows | price 21060000 | super 1700 | floor 11 | project None | locality dwarka expressway | live True | verified False
+MAG-6002033 | Puravankara Woods | price 18210000 | super 1597 | floor 19 | project P60014 | locality dwarka expressway | live False | verified False
+
+KEY: ('+912000480620', 'sneha iyer', 2, 821) COUNT: 2
+100-6000356 | Rohan Heights | price 11280000 | super 1156 | floor 3 | project P60368 | locality sohna road | live True | verified False
+MAG-6003202 | Mantri Serenity Phase 1 | price 13100000 | super 1089 | floor 3 | project P60363 | locality mg road | live True | verified False
+
+KEY: ('+912009107125', 'vikram nair', 4, 1515) COUNT: 2
+100-6002401 | Aparna Woods | price 26410000 | super 2050 | floor 7 | project None | locality dlf phase 3 | live True | verified False
+ZER-6000271 | Salarpuria Terraces | price 25500000 | super 2151 | floor 4 | project P60218 | locality sector 56 | live True | verified False
+
+KEY: ('+912001562860', 'rahul bhat', 3, 110) COUNT: 2
+MAG-6002634 | Puravankara Residency | price 12170000 | super 144 | floor 0 | project None | locality dwarka expressway | live True | verified False
+MAG-6003411 | Puravankara-Enclave | price 16490000 | super 145 | floor 23 | project P60030 | locality sector 49 | live True | verified False
+
+KEY: ('+912001674345', 'aditya desai', 3, 1254) COUNT: 2
+SQU-6000276 | Puravankara Woods | price 17440000 | super 1592 | floor 3 | project P60130 | locality mg road | live True | verified True
+MAG-6002855 | Casagrand Meadows | price 13370000 | super 1761 | floor 9 | project P60152 | locality sector 49 | live True | verified True
+GROUPS: 12
+
+=== SAME PHONE + NAME + BHK + AREA + PRICE ===
+GROUPS: 0
+
+=== SAME PHONE + PROPERTY + BHK + AREA + PRICE ===
+GROUPS: 0
+
+=== POSTER TYPE ===
+Counter({'agent': 2065, 'owner': 1000, 'builder': 435})
+
+=== LIVE + UNVERIFIED COUNT ===
+1106
+
+=== LIVE+UNVERIFIED REPEATED PHONES ===
+
+PHONE: +912001618956 COUNT: 14
+ZER-6000301 | Sobha Sanctuary | 3 BHK | 1171 | 11020000 | golf course road
+100-6003191 | Aparna Heights Phase 1 | 2 BHK | 841 | 10130000 | sector 65
+MAG-6003320 | Lodha-Vista | 2 BHK | 918 | 12520000 | sector 56
+100-6003483 | Aparna  Crest | 3 BHK | 1092 | 14660000 | dlf phase 3
+MAG-6002361 | Godrej Serenity | 2 BHK | 700 | 8290000 | sector 56
+DWE-6003037 | Nitesh Meadows | 4 BHK | 1573 | 27210000 | sector 82
+DWE-6000800 | Puravankara Crest | 3 BHK | 1199 | 16730000 | dwarka expressway
+SQU-6003488 | The Shriram Park | 5 BHK | 1974 | 18150000 | dlf phase 3
+100-6001731 | Casagrand Serenity | 3 BHK | 1183 | 10600000 | mg road
+100-6000166 | Sobha Elite | 2 BHK | 846 | 14710000 | sector 49
+MAG-6000948 | Rohan Willows | 3 BHK | 1163 | 22410000 | golf course road
+100-6002731 | Casagrand Willows | 4 BHK | 1489 | 19040000 | sohna road
+DWE-6000349 | Salarpuria Sanctuary | 2 BHK | 808 | 15050000 | sohna road
+ZER-6000007 | Lodha Woods | 2 BHK | 813 | 10590000 | sector 56
+
+PHONE: +912003257395 COUNT: 11
+MAG-6002350 | Kolte Patil Crest | 3 BHK | 110 | 11970000 | sector 56
+ZER-6000750 | Rohan Meadows | 4 BHK | 1472 | 22650000 | dwarka expressway
+100-6001517 | Lodha Meadows | 5 BHK | 2009 | 30220000 | sector 65
+ZER-6003164 | The Shriram Habitat | 2 BHK | 790 | 6710000 | sector 82
+MAG-6001586 | Century Pavilion | 2 BHK | 74 | 10340000 | dwarka expressway
+SQU-6001162 | Nitesh Pavilion | 4 BHK | 1542 | 15140000 | dlf phase 3
+SQU-6002876 | Sobha Pavilion | 2 BHK | 827 | 12220000 | dlf phase 3
+100-6000247 | My Home Enclave | 2 BHK | 924 | 10460000 | mg road
+MAG-6001515 | Adarsh Terraces | 3 BHK | 117 | 12710000 | sector 65
+ZER-6001609 | Lodha Crest | 3 BHK | 1161 | 16760000 | sohna road
+SQU-6003325 | Puravankara Greens | 4 BHK | 1394 | 18770000 | sector 65
+
+PHONE: +912000543109 COUNT: 10
+SQU-6002231 | Century Boulevard | 2 BHK | 759 | 9180000 | dwarka expressway
+ZER-6000091 | Sobha Elite | 2 BHK | 780 | 13840000 | mg road
+MAG-6000550 | Nitesh Residency | 1 BHK | 498 | 8990000 | dlf phase 3
+100-6002752 | Nitesh Pavilion | 3 BHK | 1264 | 17510000 | sector 82
+ZER-6002262 | Shriram Sanctuary | 5 BHK | 1914 | 29190000 | sohna road
+DWE-6002730 | Kolte Patil Serenity | 3 BHK | 1300 | 22130000 | new gurgaon
+100-6000385 | Nitesh Residency | 2 BHK | 857 | 12580000 | golf course road
+100-6003322 | Century Woods | 3 BHK | 1270 | 12890000 | dwarka expressway
+ZER-6002563 | Salarpuria Terraces | 3 BHK | 1220 | 10610000 | sector 82
+SQU-6000460 | Rohan Boulevard | 2 BHK | 821 | 7360000 | dwarka expressway
+
+PHONE: +912009782693 COUNT: 9
+MAG-6002556 | Brigade Habitat | 3 BHK | 106 | 14520000 | mg road
+100-6003339 | My Home Greens Apartments | 3 BHK | 1080 | 18760000 | sector 65
+DWE-6000876 | Century Habitat | 2 BHK | 841 | 11230000 | dwarka expressway
+MAG-6002659 | Rohan Woods | 4 BHK | 1617 | 24800000 | golf course road
+SQU-6000576 | Godrej Crest | 3 BHK | 1174 | 12940000 | sector 82
+100-6000957 | Aparna Residency | 3 BHK | 1261 | 14780000 | new gurgaon
+DWE-6001492 | My Home Enclave | 3 BHK | 1255 | 12870000 | golf course road
+100-6002408 | Rohan Pavilion | 2 BHK | 846 | 16830000 | sohna road
+100-6000483 | Adarsh Park | 4 BHK | 1547 | 20190000 | mg road
+
+PHONE: +912000213900 COUNT: 8
+MAG-6001012 | Aparna Elite | 3 BHK | 115 | 23950000 | sector 56
+MAG-6001864 | Prestige Park | 2 BHK | 73 | 7010000 | dlf phase 3
+MAG-6000671 | Century Willows | 5 BHK | 1994 | 22060000 | sohna road
+MAG-6002443 | Assetz Boulevard | 1 BHK | 459 | 4320000 | dwarka expressway
+ZER-6002065 | Mantri Park | 2 BHK | 816 | 11740000 | mg road
+MAG-6002049 | Brigade Greens | 3 BHK | 1222 | 18770000 | mg road
+DWE-6002302 | Casagrand Habitat | 2 BHK | 815 | 10070000 | mg road
+ZER-6003075 | Lodha  Pavilion | 3 BHK | 1220 | 25070000 | sohna road
+
+PHONE: +912001712912 COUNT: 7
+DWE-6000092 | My Home Heights | 3 BHK | 1206 | 13400000 | golf course road
+100-6000701 | Sobha Terraces | 2 BHK | 867 | 15050000 | sector 65
+SQU-6001275 | Puravankara Woods | 3 BHK | 1312 | 16400000 | sector 82
+DWE-6003138 | Mantri  Heights | 1 BHK | 472 | 6810000 | sohna road
+ZER-6001265 | Nitesh Woods | 5 BHK | 1981 | 34520000 | sector 65
+SQU-6002039 | Salarpuria Meadows | 2 BHK | 898 | 12690000 | new gurgaon
+MAG-6001932 | Sobha Pavilion | 3 BHK | 1228 | 16630000 | new gurgaon
+
+PHONE: +912009107125 COUNT: 7
+MAG-6000054 | Mantri Greens | 2 BHK | 864 | 9620000 | new gurgaon
+DWE-6001364 | My Home Habitat | 3 BHK | 1337 | 21940000 | mg road
+MAG-6000734 | My Home Grand | 3 BHK | 1272 | 14360000 | dlf phase 3
+100-6002401 | Aparna Woods | 4 BHK | 1515 | 26410000 | dlf phase 3
+ZER-6000271 | Salarpuria Terraces | 4 BHK | 1515 | 25500000 | sector 56
+MAG-6000404 | Assetz Habitat | 1 BHK | 334 | 6230000 | sohna road
+SQU-6001662 | Lodha Park | 3 BHK | 1131 | 20710000 | sector 82
+
+PHONE: +912006316330 COUNT: 7
+DWE-6001022 | Assetz Grand | 4 BHK | 1505 | 23020000 | golf course road
+MAG-6001431 | Assetz Park | 2 BHK | 929 | 13920000 | mg road
+100-6002241 | Brigade Greens | 5 BHK | 1944 | 38890000 | dwarka expressway
+DWE-6002311 | Sobha Sanctuary | 4 BHK | 1656 | 27430000 | new gurgaon
+ZER-6001934 | Puravankara Greens | 4 BHK | 1396 | 17980000 | sector 65
+MAG-6002971 | Shriram Woods | 3 BHK | 111 | 10020000 | sector 49
+MAG-6001496 | Lodha Residency | 3 BHK | 1096 | 17560000 | golf course road
+
+PHONE: +912004200129 COUNT: 6
+100-6003363 | Prestige Greens | 2 BHK | 882 | 10640000 | mg road
+DWE-6001839 | Rohan Crest | 3 BHK | 1215 | 16120000 | sector 49
+MAG-6000363 | Sobha Habitat | 2 BHK | 79 | 9140000 | mg road
+MAG-6000025 | Puravankara Sanctuary | 5 BHK | 1980 | 31850000 | golf course road
+MAG-6003067 | Salarpuria Greens Apartments | 3 BHK | 1180 | 13170000 | golf course road
+MAG-6002056 | Godrej Terraces | 3 BHK | 1242 | 22630000 | new gurgaon
+
+PHONE: +912008358841 COUNT: 6
+MAG-6000352 | Lodha Woods | 3 BHK | 1149 | 14910000 | sector 82
+MAG-6003130 | Shriram  Grand | 2 BHK | 881 | 11930000 | dlf phase 3
+DWE-6003052 | my home serenity | 2 BHK | 815 | 10100000 | sector 82
+100-6000844 | My Home Elite | 2 BHK | 909 | 16700000 | sector 82
+100-6002738 | Aparna Meadows | 4 BHK | 1499 | 17100000 | sector 56
+DWE-6000675 | Assetz Boulevard | 4 BHK | 1501 | 23940000 | golf course road
+
+PHONE: +912000955024 COUNT: 5
+100-6002372 | My Home Terraces | 1 BHK | 546 | 6300000 | dwarka expressway
+MAG-6003181 | Godrej-Woods | 3 BHK | 1270 | 14440000 | sohna road
+SQU-6001982 | Puravankara Sanctuary | 4 BHK | 1606 | 29790000 | dlf phase 3
+100-6000419 | My Home Greens | 3 BHK | 1087 | 19270000 | sector 65
+DWE-6000070 | Assetz Woods | 3 BHK | 1202 | 15790000 | sohna road
+
+PHONE: +912001102450 COUNT: 5
+DWE-6001595 | Salarpuria Park | 3 BHK | 1235 | 14050000 | dlf phase 3
+MAG-6000893 | Casagrand Enclave | 4 BHK | 1570 | 17700000 | sector 49
+DWE-6000149 | Puravankara Woods | 2 BHK | 967 | 9580000 | mg road
+MAG-6001636 | Sobha Residency | 4 BHK | 137 | 14600000 | sector 49
+SQU-6002610 | Mantri Vista | 1 BHK | 535 | 6530000 | sector 49
+
+PHONE: +912000651130 COUNT: 5
+MAG-6000610 | Sobha Boulevard | 1 BHK | 489 | 8590000 | dlf phase 3
+ZER-6000789 | Salarpuria Vista | 3 BHK | 1238 | 15310000 | sector 65
+SQU-6000253 | Godrej Vista | 2 BHK | 890 | 17630000 | golf course road
+MAG-6002684 | Sobha Boulevard | 5 BHK | 1839 | 24560000 | sector 56
+MAG-6000702 | Godrej Enclave | 3 BHK | 114 | 22300000 | dwarka expressway
+
+PHONE: +912001562860 COUNT: 5
+DWE-6003270 | Mantri  Enclave | 0 BHK | 1586 | 8710000 | dwarka expressway
+DWE-6002819 | Aparna Crest | 2 BHK | 912 | 11730000 | sohna road
+MAG-6002634 | Puravankara Residency | 3 BHK | 110 | 12170000 | dwarka expressway
+MAG-6003411 | Puravankara-Enclave | 3 BHK | 110 | 16490000 | sector 49
+100-6002223 | Prestige Willows | 1 BHK | 581 | 5630000 | mg road
+
+PHONE: +912007724929 COUNT: 5
+DWE-6000457 | Assetz Woods | 3 BHK | 1227 | 19620000 | sector 82
+ZER-6001260 | Lodha Greens | 5 BHK | 1951 | 33870000 | sector 82
+SQU-6002850 | Kolte Patil Pavilion | 5 BHK | 2004 | 35580000 | sohna road
+DWE-6001967 | My Home Greens | 3 BHK | 1143 | 13860000 | sector 65
+MAG-6000934 | Brigade Terraces | 2 BHK | 869 | 13120000 | sector 65
+
+PHONE: +912007891983 COUNT: 5
+MAG-6001927 | Assetz Heights | 4 BHK | 1504 | 17420000 | sector 56
+SQU-6002658 | Sobha Pavilion | 3 BHK | 1220 | 23390000 | dlf phase 3
+DWE-6000728 | My Home Habitat | 4 BHK | 1538 | 18970000 | golf course road
+ZER-6002894 | Kolte Patil Woods | 3 BHK | 1150 | 13750000 | sector 82
+ZER-6001817 | Kolte Patil Elite | 1 BHK | 446 | 6930000 | mg road
+
+PHONE: +912005118589 COUNT: 5
+ZER-6002655 | Nitesh Crest | 3 BHK | 1227 | 23040000 | sector 56
+SQU-6002349 | Casagrand Enclave | 4 BHK | 1586 | 27090000 | sector 49
+SQU-6002153 | Prestige Park | 2 BHK | 839 | 15870000 | dwarka expressway
+MAG-6002273 | Sobha Park | 4 BHK | 141 | 15980000 | new gurgaon
+ZER-6002503 | Sobha Habitat | 3 BHK | 1310 | 22510000 | new gurgaon
+
+PHONE: +912003673768 COUNT: 5
+DWE-6000411 | My Home Habitat | 1 BHK | 459 | 9720000 | sohna road
+SQU-6001618 | Godrej Enclave | 3 BHK | 1146 | 12370000 | mg road
+ZER-6001704 | Godrej Terraces | 2 BHK | 888 | 13530000 | dwarka expressway
+SQU-6001638 | Century Heights | 1 BHK | 389 | 4000000 | sohna road
+MAG-6002200 | Salarpuria Meadows | 3 BHK | 1160 | 17240000 | dwarka expressway
+
+PHONE: +912000141855 COUNT: 5
+MAG-6000539 | Adarsh Elite | 2 BHK | 761 | 8690000 | sector 65
+SQU-6002163 | Prestige Enclave | 2 BHK | 864 | 9570000 | sector 56
+MAG-6000443 | Lodha Park | 2 BHK | 74 | 15200000 | golf course road
+SQU-6002292 | Mantri Park | 3 BHK | 1128 | 17810000 | dwarka expressway
+SQU-6000535 | Assetz Heights | 3 BHK | 1150 | 17690000 | new gurgaon
+
+PHONE: +912006235980 COUNT: 5
+DWE-6002538 | Shriram Boulevard | 4 BHK | 1657 | 30870000 | sohna road
+DWE-6001547 | Rohan Boulevard | 3 BHK | 1244 | 22210000 | dlf phase 3
+ZER-6000254 | Shriram Habitat | 1 BHK | 524 | 7460000 | sector 82
+ZER-6001598 | Sobha Park | 2 BHK | 839 | 9920000 | mg road
+MAG-6003351 | mantri pavilion | 4 BHK | 1595 | 15930000 | new gurgaon
+
+PHONE: +912002538511 COUNT: 5
+DWE-6002673 | My Home Meadows | 2 BHK | 823 | 14440000 | sector 49
+DWE-6002797 | Aparna Crest | 4 BHK | 1526 | 16240000 | mg road
+100-6003334 | prestige vista | 4 BHK | 1629 | 22300000 | new gurgaon
+100-6003141 | Shriram Enclave | 3 BHK | 1181 | 22140000 | golf course road
+MAG-6001199 | Sobha Elite | 3 BHK | 1096 | 13120000 | sector 49
+
+PHONE: +912001956043 COUNT: 5
+SQU-6002318 | Brigade Habitat | 4 BHK | 1469 | 13910000 | sohna road
+100-6002168 | Kolte Patil Enclave | 2 BHK | 782 | 13110000 | dwarka expressway
+DWE-6001425 | Aparna Pavilion | 3 BHK | 1295 | 11030000 | sector 49
+DWE-6000665 | Shriram Grand | 2 BHK | 884 | 11430000 | dlf phase 3
+100-6000939 | Sobha Crest | 3 BHK | 1162 | 12260000 | sector 65
+
+PHONE: +912006480740 COUNT: 5
+MAG-6002940 | Mantri Enclave | 3 BHK | 109 | 13840000 | sohna road
+SQU-6000846 | Century Vista | 2 BHK | 777 | 12600000 | sector 56
+MAG-6002451 | Sobha Residency | 3 BHK | 1223 | 14530000 | new gurgaon
+DWE-6001353 | Casagrand Enclave | 4 BHK | 1511 | 14280000 | sector 49
+DWE-6003144 | Rohan Woods | 2 BHK | 786 | 12720000 | golf course road
+
+PHONE: +912005648756 COUNT: 5
+MAG-6001058 | Nitesh Crest | 3 BHK | 122 | 25430000 | dwarka expressway
+ZER-6001867 | Mantri Willows | 2 BHK | 946 | 11190000 | sector 82
+ZER-6000485 | My Home Residency | 3 BHK | 1170 | 13300000 | sohna road
+SQU-6000155 | Adarsh Heights | 2 BHK | 907 | 12210000 | sector 65
+MAG-6002016 | Lodha Grand | 2 BHK | 900 | 14630000 | mg road
+
+PHONE: +912009169074 COUNT: 5
+ZER-6002543 | Century Greens | 0 BHK | 1381 | 8130000 | mg road
+MAG-6000444 | Sobha Elite | 1 BHK | 455 | 6820000 | sector 56
+DWE-6000885 | Prestige Willows | 3 BHK | 1229 | 21060000 | dwarka expressway
+DWE-6001681 | Aparna Heights | 2 BHK | 839 | 10410000 | sector 65
+DWE-6000336 | Century Woods | 1 BHK | 524 | 5210000 | golf course road
+
+PHONE: +912006185301 COUNT: 5
+100-6002461 | Godrej Boulevard | 3 BHK | 1249 | 26910000 | new gurgaon
+MAG-6002011 | Mantri Enclave | 4 BHK | 155 | 29040000 | sector 65
+100-6001071 | Century Serenity | 3 BHK | 1169 | 21140000 | golf course road
+100-6002045 | Nitesh Grand | 4 BHK | 1589 | 31690000 | dlf phase 3
+100-6002859 | Prestige Pavilion | 4 BHK | 1567 | 24690000 | sector 82
+
+PHONE: +912009546119 COUNT: 5
+MAG-6001309 | Lodha Terraces | 2 BHK | 907 | 9290000 | dlf phase 3
+MAG-6002516 | Shriram Boulevard | 3 BHK | 109 | 19710000 | golf course road
+ZER-6002531 | Assetz Boulevard | 3 BHK | 1130 | 14650000 | new gurgaon
+MAG-6000299 | Century Elite | 0 BHK | 176 | 20940000 | sector 82
+ZER-6003213 | Prestige Grand | 3 BHK | 1117 | 19830000 | dwarka expressway
+
+PHONE: +912003411562 COUNT: 5
+SQU-6002362 | Rohan Meadows | 4 BHK | 1612 | 18970000 | sector 49
+SQU-6002847 | Century Boulevard | 2 BHK | 770 | 10240000 | golf course road
+SQU-6001688 | Casagrand Residency | 2 BHK | 725 | 14100000 | sector 65
+ZER-6001869 | Casagrand Terraces | 1 BHK | 407 | 4930000 | dwarka expressway
+MAG-6002602 | Century Habitat | 3 BHK | 106 | 19140000 | sector 65
+
+PHONE: +912001317078 COUNT: 5
+ZER-6002428 | Assetz Habitat | 5 BHK | 1901 | 25220000 | sector 82
+DWE-6002587 | Assetz Sanctuary | 3 BHK | 1143 | 23590000 | sector 49
+DWE-6000504 | Nitesh Greens | 2 BHK | 761 | 14430000 | sector 65
+100-6000188 | Nitesh Meadows | 2 BHK | 944 | 19920000 | sector 65
+ZER-6000759 | Kolte Patil Greens | 1 BHK | 564 | 5520000 | dwarka expressway
+
+PHONE: +912007542246 COUNT: 5
+100-6003468 | Sobha-Woods | 2 BHK | 822 | 16460000 | mg road
+100-6003053 | Kolte Patil Serenity Phase 1 | 3 BHK | 1266 | 13890000 | sector 49
+SQU-6000494 | Salarpuria Vista | 3 BHK | 1142 | 18230000 | mg road
+DWE-6002388 | Lodha Sanctuary | 3 BHK | 1066 | 9470000 | dwarka expressway
+ZER-6001170 | Aparna Pavilion | 3 BHK | 1252 | 21550000 | new gurgaon
+
+PHONE: +912002769167 COUNT: 5
+MAG-6000655 | My Home Willows | 3 BHK | 1172 | 21200000 | sector 56
+DWE-6001053 | Shriram Enclave | 3 BHK | 1189 | 22030000 | golf course road
+100-6002118 | Rohan Sanctuary | 1 BHK | 488 | 8160000 | sector 49
+ZER-6002088 | Adarsh Pavilion | 4 BHK | 1560 | 17080000 | sector 82
+SQU-6003414 | Nitesh Pavilion Apartments | 3 BHK | 1256 | 18390000 | sector 82
+
+PHONE: +912000323538 COUNT: 5
+MAG-6002005 | Lodha Pavilion | 3 BHK | 1216 | 21930000 | new gurgaon
+MAG-6002312 | Aparna Terraces | 3 BHK | 114 | 17640000 | sohna road
+ZER-6003147 | Brigade  Habitat | 3 BHK | 1238 | 20920000 | dlf phase 3
+100-6000491 | Sobha Woods | 2 BHK | 816 | 7610000 | sector 82
+MAG-6000371 | Nitesh Greens | 2 BHK | 77 | 9320000 | dlf phase 3
+
+PHONE: +912008234496 COUNT: 5
+ZER-6001914 | Prestige Woods | 3 BHK | 1292 | 18300000 | sector 49
+100-6001211 | Nitesh Residency | 3 BHK | 1172 | 23690000 | sohna road
+100-6000833 | Shriram Grand | 3 BHK | 1317 | 27100000 | sector 82
+ZER-6003429 | Aparna Serenity Phase 1 | 3 BHK | 1239 | 20200000 | sector 65
+ZER-6000545 | Prestige Serenity | 2 BHK | 810 | 11540000 | mg road
+
+PHONE: +912004742348 COUNT: 5
+DWE-6001546 | Nitesh Residency | 2 BHK | 838 | 9800000 | sohna road
+100-6001706 | Shriram Boulevard | 2 BHK | 920 | 10300000 | sector 82
+SQU-6000771 | Century Enclave | 3 BHK | 1220 | 13270000 | dwarka expressway
+MAG-6001056 | Casagrand Sanctuary | 2 BHK | 76 | 9090000 | dlf phase 3
+ZER-6002509 | Shriram Sanctuary | 2 BHK | 827 | 8740000 | sector 65
+
+PHONE: +912005069546 COUNT: 4
+100-6000047 | Aparna Heights | 3 BHK | 1160 | 17050000 | sector 82
+MAG-6003333 | Assetz Boulevard | 4 BHK | 1616 | 19840000 | dlf phase 3
+DWE-6000121 | Puravankara Park | 3 BHK | 1163 | 20240000 | sector 49
+MAG-6001302 | Godrej Woods | 3 BHK | 1272 | 13910000 | sohna road
+
+PHONE: +912003231964 COUNT: 4
+ZER-6003316 | Shriram Residency Phase 1 | 4 BHK | 1674 | 33500000 | sector 49
+100-6002184 | Aparna Park | 3 BHK | 1164 | 18590000 | golf course road
+MAG-6001041 | Prestige Residency | 1 BHK | 37 | 7620000 | mg road
+100-6000432 | Century Habitat | 2 BHK | 778 | 12350000 | sector 56
+
+PHONE: +912002523553 COUNT: 4
+100-6000815 | Rohan Willows | 5 BHK | 1893 | 26890000 | sector 65
+SQU-6003196 | The Assetz Pavilion | 3 BHK | 1233 | 18960000 | sector 65
+ZER-6000804 | Puravankara Woods | 4 BHK | 1535 | 28040000 | mg road
+ZER-6000196 | Kolte Patil Pavilion | 2 BHK | 817 | 13540000 | sector 56
+
+PHONE: +912002362011 COUNT: 4
+100-6002879 | Assetz Greens | 2 BHK | 777 | 14160000 | golf course road
+ZER-6001495 | Nitesh Serenity | 2 BHK | 819 | 10160000 | dlf phase 3
+ZER-6003208 | Casagrand-Grand | 3 BHK | 1124 | 18190000 | sector 65
+DWE-6003331 | nitesh serenity | 2 BHK | 816 | 9780000 | dlf phase 3
+
+PHONE: +912004923985 COUNT: 4
+MAG-6003032 | Salarpuria Pavilion | 2 BHK | 832 | 14250000 | golf course road
+100-6001102 | Aparna Willows | 3 BHK | 1138 | 20150000 | mg road
+MAG-6002941 | Aparna Willows | 5 BHK | 180 | 17250 | dwarka expressway
+MAG-6001231 | Century Grand | 0 BHK | 2417 | 24110000 | sector 82
+
+PHONE: +912008608766 COUNT: 4
+100-6003368 | KOLTE PATIL BOULEVARD | 2 BHK | 786 | 8190000 | dlf phase 3
+ZER-6001736 | Century Vista | 3 BHK | 1189 | 18690000 | sector 65
+ZER-6001371 | Mantri Pavilion | 5 BHK | 2014 | 31370000 | new gurgaon
+MAG-6002029 | Mantri Grand | 2 BHK | 838 | 10340000 | dlf phase 3
+
+PHONE: +912009304783 COUNT: 4
+100-6000510 | Lodha Pavilion | 2 BHK | 803 | 10400000 | sohna road
+SQU-6002351 | Brigade Greens | 3 BHK | 1330 | 23570000 | sector 49
+MAG-6002768 | Lodha Crest | 3 BHK | 1146 | 11600000 | dlf phase 3
+ZER-6000826 | Prestige Meadows | 5 BHK | 2012 | 37190000 | sector 49
+
+PHONE: +912001761579 COUNT: 4
+ZER-6001812 | Shriram Heights | 4 BHK | 1539 | 18410000 | sector 49
+SQU-6002803 | Brigade Pavilion | 4 BHK | 1523 | 13590000 | dlf phase 3
+DWE-6003175 | lodha meadows | 5 BHK | 2013 | 31280000 | sector 65
+100-6000720 | Puravankara Grand | 2 BHK | 808 | 15060000 | sector 65
+
+PHONE: +912000853618 COUNT: 4
+100-6002521 | Assetz Sanctuary | 2 BHK | 743 | 12270000 | new gurgaon
+MAG-6002021 | Mantri Enclave | 2 BHK | 980 | 8810000 | golf course road
+ZER-6002514 | Rohan Grand | 3 BHK | 1166 | 17060000 | sector 56
+ZER-6001553 | Casagrand Serenity | 2 BHK | 721 | 8010000 | sector 82
+
+PHONE: +912005434766 COUNT: 4
+SQU-6001367 | Godrej Residency | 3 BHK | 1138 | 11580000 | dlf phase 3
+MAG-6000687 | Aparna Meadows | 3 BHK | 106 | 20080000 | golf course road
+DWE-6000202 | Shriram Crest | 2 BHK | 838 | 11500000 | golf course road
+MAG-6002108 | Century Heights | 2 BHK | 75 | 13340000 | golf course road
+
+PHONE: +912006752296 COUNT: 4
+DWE-6001445 | Assetz Terraces | 2 BHK | 769 | 12650000 | sector 56
+DWE-6000430 | Mantri Residency | 2 BHK | 848 | 16170000 | sector 49
+SQU-6002455 | Aparna Crest | 3 BHK | 1098 | 15340000 | dlf phase 3
+100-6001134 | Adarsh Serenity | 4 BHK | 1530 | 31180000 | new gurgaon
+
+PHONE: +912007787343 COUNT: 4
+MAG-6000330 | Casagrand Crest | 3 BHK | 1302 | 23230000 | golf course road
+SQU-6001030 | Lodha Habitat | 2 BHK | 804 | 10940000 | dlf phase 3
+MAG-6000427 | Mantri Park | 2 BHK | 72 | 7570000 | dwarka expressway
+MAG-6000757 | Puravankara Woods | 3 BHK | 1241 | 22700000 | sector 56
+
+PHONE: +912001702410 COUNT: 4
+SQU-6002161 | Brigade Serenity | 2 BHK | 775 | 7840000 | dlf phase 3
+100-6003477 | Godrej Serenity Apartments | 2 BHK | 732 | 13590000 | sector 49
+DWE-6002650 | Shriram Terraces | 2 BHK | 886 | 10980000 | golf course road
+ZER-6002561 | Sobha Residency | 2 BHK | 861 | 11980000 | dwarka expressway
+
+PHONE: +912009661088 COUNT: 4
+SQU-6001885 | Brigade Pavilion | 2 BHK | 922 | 13130000 | golf course road
+MAG-6003360 | PURAVANKARA MEADOWS | 3 BHK | 1262 | 15540000 | dlf phase 3
+100-6002060 | Kolte Patil Greens | 0 BHK | 1503 | 12120000 | sohna road
+100-6000877 | Assetz Habitat | 3 BHK | 1270 | 22860000 | mg road
+
+PHONE: +912008723552 COUNT: 4
+SQU-6001650 | Assetz Woods | 3 BHK | 1051 | 14150000 | sector 49
+ZER-6000562 | Mantri Crest | 2 BHK | 855 | 9180000 | new gurgaon
+MAG-6000165 | Brigade Crest | 4 BHK | 162 | 15650000 | sector 49
+100-6000150 | Casagrand Meadows | 3 BHK | 1160 | 13170000 | golf course road
+
+PHONE: +912003951365 COUNT: 4
+MAG-6000640 | Puravankara Meadows | 3 BHK | 1084 | 10820000 | sector 49
+MAG-6003110 | Prestige Greens Apartments | 2 BHK | 880 | 10110000 | mg road
+ZER-6002657 | Lodha Habitat | 1 BHK | 437 | 4850000 | golf course road
+DWE-6003440 | Adarsh-Pavilion | 3 BHK | 1172 | 11200000 | sohna road
+
+PHONE: +912004859605 COUNT: 4
+ZER-6000905 | Nitesh Enclave | 3 BHK | 1269 | 16650000 | dlf phase 3
+SQU-6001993 | Godrej Vista | 3 BHK | 1167 | 10210000 | sector 49
+DWE-6000807 | Casagrand Terraces | 2 BHK | 744 | 10770000 | dlf phase 3
+ZER-6000648 | Nitesh Park | 2 BHK | 884 | 9970000 | dwarka expressway
+
+PHONE: +912006850450 COUNT: 4
+100-6000746 | Lodha Vista | 2 BHK | 888 | 11240000 | dlf phase 3
+DWE-6001138 | My Home Habitat | 3 BHK | 1141 | 17330000 | new gurgaon
+MAG-6002417 | Kolte Patil Elite | 3 BHK | 1188 | 20760000 | golf course road
+MAG-6002831 | Aparna Woods | 2 BHK | 792 | 13320000 | new gurgaon
+
+PHONE: +912003007615 COUNT: 4
+MAG-6002949 | Kolte Patil Willows | 5 BHK | 1974 | 32180000 | dwarka expressway
+MAG-6002715 | Mantri Heights | 1 BHK | 566 | 6380000 | new gurgaon
+100-6000881 | Century Pavilion | 2 BHK | 754 | 8110000 | sector 65
+100-6000824 | Rohan Grand | 2 BHK | 781 | 7470000 | new gurgaon
+
+PHONE: +912004115067 COUNT: 4
+MAG-6001945 | Adarsh Sanctuary | 1 BHK | 409 | 7310000 | sector 82
+ZER-6000546 | Prestige Enclave | 3 BHK | 1284 | 15220000 | golf course road
+DWE-6002345 | Prestige Woods | 3 BHK | 1271 | 13080000 | sector 49
+SQU-6003454 | Adarsh-Vista | 2 BHK | 785 | 11210000 | dwarka expressway
+
+PHONE: +912001616656 COUNT: 4
+DWE-6002982 | Lodha Heights | 4 BHK | 1584 | 23970000 | sector 49
+SQU-6002938 | Salarpuria Pavilion | 2 BHK | 885 | 15860000 | mg road
+MAG-6002053 | Brigade Heights | 3 BHK | 109 | 20410000 | golf course road
+ZER-6002837 | Brigade Vista | 3 BHK | 1135 | 13950000 | new gurgaon
+
+PHONE: +912007075604 COUNT: 4
+100-6001449 | Prestige Vista | 3 BHK | 1065 | 18030000 | golf course road
+100-6003374 | Brigade  Enclave | 2 BHK | 823 | 17670000 | sector 82
+100-6001893 | Kolte Patil Elite | 4 BHK | 1654 | 15820000 | new gurgaon
+100-6000500 | Salarpuria Elite | 2 BHK | 825 | 9560000 | sohna road
+
+PHONE: +912001863617 COUNT: 4
+SQU-6000365 | Shriram Park | 3 BHK | 1143 | 10730000 | dlf phase 3
+100-6002579 | Century Vista | 3 BHK | 1270 | 23900000 | mg road
+ZER-6002280 | Rohan Woods | 3 BHK | 1145 | 11940000 | sohna road
+DWE-6000547 | Mantri Meadows | 2 BHK | 840 | 8650000 | sector 56
+
+PHONE: +912005273755 COUNT: 4
+SQU-6001601 | Casagrand Vista | 2 BHK | 916 | 8750000 | sector 56
+100-6002100 | Shriram Vista | 4 BHK | 1616 | 21920000 | mg road
+MAG-6001690 | Mantri Elite | 5 BHK | 182 | 29340000 | golf course road
+100-6002773 | Rohan Serenity | 3 BHK | 1159 | 15650000 | dlf phase 3
+
+PHONE: +912002401658 COUNT: 4
+DWE-6003302 | Shriram  Terraces | 5 BHK | 1989 | 20340000 | dlf phase 3
+MAG-6000673 | Puravankara Willows | 2 BHK | 74 | 10570000 | mg road
+DWE-6000244 | Lodha Sanctuary | 3 BHK | 1221 | 15460000 | sohna road
+100-6001316 | Sobha Serenity | 3 BHK | 1146 | 11880000 | sector 65
+
+PHONE: +912008441175 COUNT: 4
+ZER-6001304 | Century Vista | 3 BHK | 1243 | 15110000 | dwarka expressway
+MAG-6001889 | Godrej Residency | 3 BHK | 115 | 12690000 | sector 49
+MAG-6002456 | Puravankara Elite | 2 BHK | 852 | 17320000 | sector 49
+ZER-6003243 | sobha terraces | 2 BHK | 862 | 14230000 | sector 65
+
+PHONE: +912004020944 COUNT: 4
+DWE-6000925 | Prestige Crest | 3 BHK | 1175 | 12040000 | mg road
+DWE-6003481 | godrej residency | 2 BHK | 805 | 9420000 | golf course road
+ZER-6000874 | Aparna Greens | 3 BHK | 1091 | 11860000 | mg road
+ZER-6000515 | Lodha Serenity | 5 BHK | 1855 | 29190000 | sector 82
+
+PHONE: +912007736175 COUNT: 4
+DWE-6002403 | Rohan Woods | 3 BHK | 1212 | 12940000 | sector 49
+DWE-6003209 | My  Home  Serenity | 5 BHK | 1889 | 33300000 | mg road
+100-6002524 | Nitesh Enclave | 2 BHK | 725 | 8170000 | dlf phase 3
+100-6002070 | Aparna Sanctuary | 2 BHK | 807 | 9190000 | golf course road
+
+PHONE: +912006989694 COUNT: 4
+DWE-6000543 | Adarsh Park | 3 BHK | 1228 | 17100000 | dlf phase 3
+SQU-6003444 | The Century Heights | 3 BHK | 1184 | 19990000 | sector 49
+ZER-6001853 | Nitesh Meadows | 3 BHK | 1212 | 20770000 | golf course road
+100-6002607 | Puravankara Elite | 4 BHK | 1560 | 18480000 | sohna road
+
+PHONE: +912004080956 COUNT: 4
+DWE-6001132 | Kolte Patil Terraces | 1 BHK | 420 | 5930000 | dwarka expressway
+ZER-6001203 | Kolte Patil Willows | 2 BHK | 823 | 8260000 | sector 65
+SQU-6003131 | Rohan Vista Apartments | 0 BHK | 1606 | 10030000 | sector 82
+MAG-6002760 | Adarsh Sanctuary | 3 BHK | 1087 | 20450000 | mg road
+
+PHONE: +912005679851 COUNT: 4
+SQU-6003415 | Nitesh  Enclave | 3 BHK | 1232 | 16770000 | golf course road
+SQU-6001566 | Salarpuria Habitat | 4 BHK | 1591 | 28080000 | golf course road
+ZER-6002694 | Adarsh Grand | 4 BHK | 1622 | 19230000 | mg road
+MAG-6003442 | Aparna-Willows | 3 BHK | 1127 | 12890000 | mg road
+
+PHONE: +912008709007 COUNT: 4
+ZER-6001457 | Nitesh Meadows | 5 BHK | 1963 | 30010000 | sector 65
+DWE-6001347 | Puravankara Enclave | 1 BHK | 415 | 6940000 | sector 82
+MAG-6002277 | Assetz Willows | 4 BHK | 1543 | 24090000 | golf course road
+100-6000791 | Godrej Enclave | 2 BHK | 795 | 9310000 | dlf phase 3
+
+PHONE: +912008051428 COUNT: 4
+MAG-6002226 | Aparna Heights | 2 BHK | 84 | 15760000 | sector 82
+100-6000581 | My Home Elite | 3 BHK | 1220 | 11670000 | dlf phase 3
+SQU-6000903 | Century Serenity | 3 BHK | 1173 | 15100000 | sector 49
+MAG-6001252 | Assetz Boulevard | 3 BHK | 1172 | 14650000 | sohna road
+
+PHONE: +912003790872 COUNT: 4
+SQU-6001930 | Mantri Woods | 2 BHK | 827 | 12640000 | mg road
+100-6002845 | Brigade Pavilion | 3 BHK | 1296 | 20610000 | sector 82
+MAG-6003185 | Puravankara  Enclave | 1 BHK | 43 | 5170000 | sector 49
+100-6001802 | Assetz Heights | 4 BHK | 1579 | 29280000 | sector 65
+
+PHONE: +912004059615 COUNT: 4
+SQU-6001182 | Prestige Pavilion | 2 BHK | 888 | 7630000 | sector 82
+100-6003356 | The Adarsh Grand | 4 BHK | 1622 | 18730000 | mg road
+DWE-6002261 | Shriram Habitat | 4 BHK | 1457 | 24770000 | sector 82
+ZER-6000960 | Godrej Heights | 4 BHK | 1562 | 25980000 | dwarka expressway
+
+PHONE: +912007980225 COUNT: 3
+ZER-6000711 | Century Habitat | 3 BHK | 1175 | 13180000 | sohna road
+100-6001769 | Century Vista | 1 BHK | 481 | 7050000 | sector 56
+100-6000611 | Assetz Residency | 2 BHK | 831 | 15790000 | mg road
+
+PHONE: +912004885645 COUNT: 3
+DWE-6002589 | Rohan Habitat | 2 BHK | 825 | 7510000 | new gurgaon
+MAG-6001558 | Century Woods | 4 BHK | 1686 | 19000000 | dwarka expressway
+SQU-6002705 | Sobha Heights | 2 BHK | 798 | 7740000 | dwarka expressway
+
+PHONE: +912003856676 COUNT: 3
+ZER-6002724 | Aparna Grand | 2 BHK | 839 | 12000000 | sector 82
+ZER-6000873 | Puravankara Park | 3 BHK | 1171 | 17030000 | sector 65
+ZER-6003390 | My Home Pavilion Apartments | 2 BHK | 866 | 16720000 | golf course road
+
+PHONE: +912001969508 COUNT: 3
+SQU-6003238 | Puravankara Enclave | 3 BHK | 1185 | 10200000 | sector 82
+SQU-6000206 | Lodha Woods | 1 BHK | 475 | 4410000 | mg road
+DWE-6000351 | Adarsh Vista | 3 BHK | 1165 | 19610000 | sector 49
+
+PHONE: +912004522746 COUNT: 3
+SQU-6000694 | Century Residency | 1 BHK | 473 | 5870000 | sohna road
+100-6003337 | The Aparna Residency | 3 BHK | 1313 | 19080000 | dlf phase 3
+ZER-6003462 | kolte patil serenity | 3 BHK | 1269 | 14930000 | dwarka expressway
+
+PHONE: +912001795965 COUNT: 3
+DWE-6001870 | Prestige Meadows | 5 BHK | 1951 | 27410000 | dwarka expressway
+100-6000666 | Kolte Patil Grand | 4 BHK | 1598 | 17160000 | sohna road
+DWE-6001797 | Shriram Heights | 0 BHK | 1860 | 19410000 | sohna road
+
+PHONE: +912000341953 COUNT: 3
+MAG-6001630 | Puravankara Pavilion | 3 BHK | 107 | 12560000 | sector 82
+MAG-6000191 | Godrej Residency | 2 BHK | 79 | 13080000 | sector 56
+MAG-6000259 | Shriram Park | 1 BHK | 501 | 7720000 | sohna road
+
+PHONE: +912005444113 COUNT: 3
+ZER-6001780 | My Home Vista | 4 BHK | 1561 | 22840000 | sector 65
+100-6000239 | Casagrand Crest | 2 BHK | 812 | 16150000 | dwarka expressway
+MAG-6001031 | Century Serenity | 3 BHK | 1094 | 17070000 | sector 82
+
+PHONE: +912006195357 COUNT: 3
+100-6001393 | Adarsh Residency | 3 BHK | 1099 | 15230000 | dwarka expressway
+100-6003038 | Lodha Greens | 3 BHK | 1175 | 15470000 | sector 82
+ZER-6000023 | Godrej Serenity | 2 BHK | 751 | 7550000 | sector 56
+
+PHONE: +912001464994 COUNT: 3
+100-6000379 | Puravankara Residency | 2 BHK | 891 | 11650000 | sector 56
+MAG-6001907 | Casagrand Habitat | 2 BHK | 866 | 11760000 | sohna road
+MAG-6000433 | Shriram Habitat | 5 BHK | 1875 | 16930000 | sector 82
+
+PHONE: +912007558876 COUNT: 3
+ZER-6001116 | Salarpuria Sanctuary | 3 BHK | 1231 | 11830000 | golf course road
+DWE-6003119 | Aparna Crest | 2 BHK | 824 | 10420000 | new gurgaon
+MAG-6001324 | Salarpuria Meadows | 1 BHK | 49 | 7610000 | new gurgaon
+
+PHONE: +912004900539 COUNT: 3
+MAG-6000605 | Lodha Vista | 2 BHK | 85 | 11840000 | sector 56
+SQU-6003251 | The Adarsh Sanctuary | 3 BHK | 1082 | 19910000 | mg road
+ZER-6003220 | Assetz Boulevard | 2 BHK | 848 | 13000000 | dwarka expressway
+
+PHONE: +912004956309 COUNT: 3
+100-6002032 | Shriram Park | 2 BHK | 794 | 8940000 | new gurgaon
+DWE-6002947 | Casagrand Willows | 4 BHK | 1574 | 23870000 | mg road
+100-6001121 | My Home Park | 2 BHK | 920 | 17970000 | sector 56
+
+PHONE: +912002716528 COUNT: 3
+ZER-6000125 | Lodha Elite | 2 BHK | 841 | 12740000 | sector 56
+MAG-6000241 | Sobha Enclave | 2 BHK | 82 | 10850000 | mg road
+100-6000542 | Prestige Sanctuary | 4 BHK | 1590 | 23200000 | sector 82
+
+PHONE: +912003236982 COUNT: 3
+100-6001795 | Adarsh Habitat | 1 BHK | 470 | 9220000 | sector 49
+MAG-6002617 | My Home Willows | 3 BHK | 1259 | 16060000 | sohna road
+MAG-6002448 | Mantri Boulevard | 3 BHK | 1235 | 20130000 | sector 49
+
+PHONE: +912005439897 COUNT: 3
+100-6001027 | Adarsh Pavilion | 2 BHK | 875 | 14400000 | sohna road
+SQU-6000835 | Adarsh Park | 1 BHK | 510 | 4970000 | golf course road
+100-6002787 | Lodha Enclave | 4 BHK | 1487 | 19840000 | sector 56
+
+PHONE: +912002070577 COUNT: 3
+DWE-6000585 | Godrej Boulevard | 3 BHK | 1114 | 14260000 | new gurgaon
+SQU-6002259 | Nitesh Greens | 5 BHK | 1969 | 22780000 | sector 65
+100-6002071 | Lodha Greens | 3 BHK | 1167 | -12340000 | new gurgaon
+
+PHONE: +912005712457 COUNT: 3
+100-6002567 | Brigade Boulevard | 1 BHK | 504 | 7770000 | golf course road
+100-6002718 | Brigade Pavilion | 2 BHK | 906 | 10410000 | mg road
+DWE-6001400 | Aparna Willows | 3 BHK | 1183 | 20300000 | new gurgaon
+
+PHONE: +912007924582 COUNT: 3
+SQU-6000162 | Casagrand Enclave | 4 BHK | 1651 | 23000000 | new gurgaon
+SQU-6000266 | Sobha Boulevard | 4 BHK | 1499 | 27800000 | dwarka expressway
+SQU-6003357 | Adarsh-Boulevard | 2 BHK | 772 | 11560000 | sector 65
+
+PHONE: +912005268556 COUNT: 3
+MAG-6000189 | Adarsh Park | 2 BHK | 815 | 12160000 | sector 82
+DWE-6001684 | My Home Pavilion | 1 BHK | 558 | 6860000 | dlf phase 3
+MAG-6002419 | Aparna Boulevard | 4 BHK | 1577 | 25300000 | sector 49
+
+PHONE: +912006141316 COUNT: 3
+ZER-6001413 | Adarsh Terraces | 2 BHK | 768 | 12310000 | golf course road
+100-6000513 | My Home Sanctuary | 3 BHK | 1248 | 16330000 | sector 56
+SQU-6002402 | Sobha Grand | 3 BHK | 1246 | 21970000 | sector 65
+
+PHONE: +912006359204 COUNT: 3
+ZER-6002097 | Century Park | 2 BHK | 828 | 10080000 | dlf phase 3
+DWE-6002213 | Godrej Grand | 3 BHK | 1131 | 11500000 | sohna road
+ZER-6000760 | Century Sanctuary | 3 BHK | 1155 | 18560000 | dwarka expressway
+
+PHONE: +912005962213 COUNT: 3
+DWE-6002774 | Nitesh Meadows | 4 BHK | 1550 | 24260000 | sector 65
+SQU-6001144 | Salarpuria Serenity | 2 BHK | 808 | 16720000 | sector 56
+100-6001589 | My Home Crest | 3 BHK | 1244 | 13900000 | dwarka expressway
+
+PHONE: +912000549987 COUNT: 3
+DWE-6001633 | Mantri Serenity | 2 BHK | 823 | 12780000 | mg road
+MAG-6000011 | Salarpuria Pavilion | 4 BHK | 141 | 20880000 | sector 65
+DWE-6003171 | The Rohan Elite | 3 BHK | 1194 | 19280000 | dwarka expressway
+
+PHONE: +912008261704 COUNT: 3
+MAG-6003083 | Adarsh Crest Apartments | 4 BHK | 155 | 21190000 | sector 65
+DWE-6002897 | Puravankara Boulevard | 4 BHK | 1603 | 28380000 | sector 65
+100-6002912 | Shriram Park | 3 BHK | 1186 | 18380000 | sector 56
+
+PHONE: +912001851940 COUNT: 3
+SQU-6002383 | Godrej Habitat | 2 BHK | 888 | 17340000 | dwarka expressway
+DWE-6001691 | Nitesh Terraces | 3 BHK | 1204 | 18150000 | sector 56
+ZER-6000050 | Century Park | 1 BHK | 406 | 6550000 | dlf phase 3
+
+PHONE: +912005383441 COUNT: 3
+SQU-6002691 | Rohan Woods | 2 BHK | 831 | 14410000 | mg road
+MAG-6001946 | Salarpuria Boulevard | 3 BHK | 1210 | 15900000 | dwarka expressway
+MAG-6001357 | Puravankara Park | 3 BHK | 1163 | 10950000 | dlf phase 3
+
+PHONE: +912000808826 COUNT: 3
+ZER-6002068 | Prestige Residency | 2 BHK | 804 | 13510000 | sector 49
+MAG-6000036 | Puravankara Boulevard | 3 BHK | 117 | 10910000 | sohna road
+DWE-6001016 | Casagrand Pavilion | 3 BHK | 1179 | 13480000 | sector 49
+
+PHONE: +912004549747 COUNT: 3
+ZER-6003372 | Rohan Sanctuary | 2 BHK | 908 | 10030000 | mg road
+100-6002429 | Rohan Heights | 5 BHK | 1918 | 24500000 | sohna road
+100-6002310 | Lodha Residency | 4 BHK | 1653 | 27280000 | sector 56
+
+PHONE: +912001433223 COUNT: 3
+DWE-6002712 | Prestige Serenity | 2 BHK | 801 | 8610000 | golf course road
+MAG-6002793 | Brigade Pavilion | 2 BHK | 851 | 11370000 | sector 49
+SQU-6000298 | Shriram Enclave | 3 BHK | 1215 | 15760000 | sohna road
+
+PHONE: +912001242913 COUNT: 3
+100-6002844 | Kolte Patil Serenity | 1 BHK | 542 | 9590000 | new gurgaon
+ZER-6001651 | Century Habitat | 4 BHK | 1567 | 19880000 | dlf phase 3
+100-6002970 | Puravankara Sanctuary | 3 BHK | 1173 | 21900000 | golf course road
+
+PHONE: +912004689434 COUNT: 3
+DWE-6002748 | Kolte Patil Residency | 3 BHK | 1165 | 19960000 | dlf phase 3
+100-6000565 | Brigade Greens | 2 BHK | 741 | 14950000 | golf course road
+100-6003211 | Shriram Terraces Phase 1 | 5 BHK | 1958 | 19930000 | dlf phase 3
+
+PHONE: +912007337752 COUNT: 3
+MAG-6003029 | Prestige Heights | 2 BHK | 75 | 10290000 | new gurgaon
+SQU-6001831 | Casagrand Terraces | 4 BHK | 1479 | 16830000 | sector 49
+MAG-6000449 | Assetz Sanctuary | 2 BHK | 88 | 18250000 | sector 49
+
+PHONE: +912006098375 COUNT: 3
+MAG-6001029 | Lodha Habitat | 3 BHK | 117 | 25780000 | golf course road
+SQU-6001502 | My Home Pavilion | 3 BHK | 1240 | 24010000 | sohna road
+ZER-6001217 | Godrej Residency | 2 BHK | 815 | 16530000 | sohna road
+
+PHONE: +912006234399 COUNT: 3
+100-6001461 | Godrej Greens | 3 BHK | 1155 | -17880000 | new gurgaon
+ZER-6000412 | Nitesh Heights | 2 BHK | 871 | 14300000 | dlf phase 3
+100-6002821 | Sobha Elite | 3 BHK | 1221 | 24200000 | sector 49
+
+PHONE: +912003033268 COUNT: 3
+100-6001503 | Century Enclave | 5 BHK | 1993 | 27650000 | mg road
+100-6002665 | Aparna Enclave | 2 BHK | 850 | 14870000 | dlf phase 3
+ZER-6002920 | Lodha Grand | 2 BHK | 833 | 15570000 | sector 49
+
+PHONE: +912008235823 COUNT: 3
+MAG-6002865 | Brigade Vista | 1 BHK | 49 | 5040000 | golf course road
+ZER-6002720 | Adarsh Woods | 0 BHK | 2289 | 16750000 | dlf phase 3
+ZER-6001226 | Salarpuria Serenity | 1 BHK | 419 | 4660000 | dlf phase 3
+
+PHONE: +912008137690 COUNT: 3
+DWE-6001728 | Adarsh Greens | 3 BHK | 1256 | 15110000 | new gurgaon
+MAG-6000151 | Sobha Woods | 2 BHK | 823 | 15970000 | mg road
+MAG-6002437 | Century Park | 2 BHK | 90 | 14220000 | golf course road
+
+PHONE: +912008158400 COUNT: 3
+ZER-6000044 | Nitesh Greens | 2 BHK | 780 | 14150000 | sector 65
+DWE-6001213 | Kolte Patil Residency | 3 BHK | 1301 | 22600000 | dlf phase 3
+100-6000979 | Prestige Heights | 2 BHK | 786 | 7580000 | dwarka expressway
+
+PHONE: +912001871299 COUNT: 3
+SQU-6001201 | Kolte Patil Serenity | 3 BHK | 1266 | 14380000 | sector 49
+100-6001189 | Mantri Crest | 2 BHK | 828 | 12930000 | new gurgaon
+ZER-6003307 | Casagrand  Meadows | 3 BHK | 1161 | 13170000 | golf course road
+
+PHONE: +912001660046 COUNT: 3
+ZER-6001978 | Mantri Boulevard | 1 BHK | 492 | 5200000 | mg road
+DWE-6001878 | Mantri Greens | 1 BHK | 423 | 4450000 | sohna road
+SQU-6000141 | Lodha Heights | 4 BHK | 1637 | 28510000 | sohna road
+
+PHONE: +912006435923 COUNT: 3
+SQU-6001321 | My Home Vista | 3 BHK | 1109 | 14710000 | mg road
+100-6000338 | Mantri Pavilion | 2 BHK | 1739 | 19510000 | sector 82
+ZER-6003376 | prestige elite | 2 BHK | 908 | 15490000 | golf course road
+
+PHONE: +912006184250 COUNT: 3
+100-6000341 | My Home Serenity | 5 BHK | 1918 | 34550000 | golf course road
+MAG-6002905 | Godrej Boulevard | 4 BHK | 134 | 16330000 | dlf phase 3
+ZER-6001060 | Puravankara Boulevard | 4 BHK | 1518 | 17570000 | sector 49
+
+PHONE: +912003828233 COUNT: 3
+DWE-6000052 | Nitesh Meadows | 3 BHK | 1245 | 20880000 | dwarka expressway
+SQU-6000099 | Prestige Elite | 2 BHK | 908 | 15620000 | golf course road
+DWE-6000830 | Brigade Woods | 3 BHK | 1208 | 13070000 | sector 65
+
+PHONE: +912008493356 COUNT: 3
+100-6000194 | Assetz Grand | 2 BHK | 820 | 12510000 | golf course road
+MAG-6001432 | Lodha Habitat | 4 BHK | 1514 | 16510000 | sector 65
+SQU-6001819 | Casagrand Residency | 3 BHK | 1180 | 18460000 | sector 65
+
+PHONE: +912002793705 COUNT: 3
+100-6000644 | Prestige Greens | 2 BHK | 783 | 11330000 | sector 49
+DWE-6002151 | Mantri Enclave | 3 BHK | 1195 | 17790000 | dwarka expressway
+DWE-6000218 | My Home Residency | 3 BHK | 1149 | 19920000 | new gurgaon
+
+PHONE: +912000599263 COUNT: 3
+100-6000756 | Rohan Crest | 2 BHK | 919 | 12070000 | dlf phase 3
+MAG-6000787 | Rohan Grand | 1 BHK | 336 | 3930000 | sector 65
+100-6000663 | Kolte Patil Pavilion | 3 BHK | 1273 | 17380000 | sector 65
+
+PHONE: +912004085754 COUNT: 3
+100-6000049 | Brigade Greens | 4 BHK | 1550 | 20350000 | dwarka expressway
+DWE-6001632 | Shriram Terraces | 2 BHK | 829 | 13720000 | mg road
+ZER-6001258 | Aparna Pavilion | 3 BHK | 1213 | 24670000 | dlf phase 3
+
+PHONE: +912008067299 COUNT: 3
+DWE-6003387 | My Home Elite | 3 BHK | 1229 | 11900000 | dlf phase 3
+100-6001508 | Shriram Serenity | 0 BHK | 1884 | 10910000 | golf course road
+ZER-6001716 | Adarsh Boulevard | 2 BHK | 776 | 11210000 | sector 65
+
+PHONE: +912007718954 COUNT: 3
+SQU-6001280 | Lodha Residency | 3 BHK | 1292 | 15130000 | dlf phase 3
+MAG-6003188 | The Salarpuria Pavilion | 4 BHK | 1494 | 26280000 | sector 65
+DWE-6000896 | Aparna Meadows | 3 BHK | 1311 | 27790000 | dlf phase 3
+
+PHONE: +912005668402 COUNT: 3
+MAG-6001163 | Century Habitat | 2 BHK | 72 | 10160000 | sector 65
+ZER-6000947 | Lodha Habitat | 2 BHK | 786 | 8150000 | dlf phase 3
+MAG-6000894 | Shriram Vista | 3 BHK | 1079 | 10950000 | new gurgaon
+
+PHONE: +912002557428 COUNT: 3
+DWE-6001207 | Shriram Elite | 5 BHK | 1899 | 32470000 | dwarka expressway
+ZER-6000470 | Godrej Woods | 3 BHK | 1278 | 19260000 | sector 65
+100-6001273 | Mantri Serenity | 2 BHK | 935 | 8440000 | sector 56
+
+PHONE: +912002658740 COUNT: 3
+DWE-6000621 | Casagrand Serenity | 3 BHK | 1314 | 15070000 | golf course road
+SQU-6001145 | My Home Grand | 4 BHK | 1609 | 24180000 | golf course road
+SQU-6002364 | Nitesh Enclave | 5 BHK | 1858 | 29110000 | sector 82
+
+PHONE: +912007954933 COUNT: 3
+MAG-6001682 | Prestige Enclave | 3 BHK | 114 | 24030000 | sector 56
+100-6001832 | Sobha Meadows | 2 BHK | 894 | 10630000 | dwarka expressway
+100-6001763 | Lodha Habitat | 4 BHK | 1501 | 16510000 | sohna road
+
+PHONE: +912003208746 COUNT: 3
+100-6002476 | Rohan Terraces | 3 BHK | 1147 | 11980000 | sohna road
+ZER-6003500 | lodha crest | 2 BHK | 904 | 9670000 | dwarka expressway
+ZER-6000288 | Puravankara Elite | 4 BHK | 1564 | 17160000 | mg road
+
+PHONE: +912001491661 COUNT: 3
+100-6002646 | Assetz Terraces | 4 BHK | 1557 | 22220000 | new gurgaon
+ZER-6000374 | Godrej Serenity | 1 BHK | 528 | 9760000 | sector 49
+SQU-6000136 | Casagrand Enclave | 3 BHK | 1212 | 19960000 | mg road
+
+PHONE: +912008301098 COUNT: 3
+DWE-6003193 | Puravankara-Willows | 1 BHK | 508 | 7460000 | dlf phase 3
+SQU-6002255 | Assetz Grand | 4 BHK | 1555 | 19720000 | sector 56
+MAG-6000725 | Century Habitat | 2 BHK | 776 | 14640000 | sohna road
+
+PHONE: +912005494362 COUNT: 3
+SQU-6003122 | Sobha Meadows Phase 1 | 3 BHK | 1116 | 10680000 | sector 49
+MAG-6001756 | Godrej Willows | 3 BHK | 1172 | 13500000 | sector 49
+ZER-6000087 | Assetz Heights | 3 BHK | 1263 | 15320000 | sector 82
+
+PHONE: +912007597819 COUNT: 3
+MAG-6000888 | Puravankara Elite | 1 BHK | 474 | 6720000 | golf course road
+DWE-6002729 | Lodha Boulevard | 3 BHK | 1272 | 18650000 | new gurgaon
+SQU-6002528 | Sobha Grand | 2 BHK | 826 | 9190000 | new gurgaon
+
+PHONE: +912005078202 COUNT: 3
+DWE-6002856 | Salarpuria Boulevard | 2 BHK | 883 | 10460000 | dlf phase 3
+MAG-6003024 | Rohan Terraces | 0 BHK | 2141 | 19330000 | golf course road
+100-6003059 | Mantri-Elite | 5 BHK | 1943 | 28250000 | golf course road
+
+PHONE: +912008074279 COUNT: 3
+ZER-6001341 | Prestige Grand | 2 BHK | 871 | 13550000 | sector 49
+ZER-6001198 | Mantri Residency | 2 BHK | 847 | 9190000 | dwarka expressway
+SQU-6000318 | Mantri Crest | 3 BHK | 1173 | 13970000 | sector 82
+
+PHONE: +912006481979 COUNT: 3
+100-6001559 | Adarsh Woods | 2 BHK | 945 | 11760000 | mg road
+ZER-6002474 | Adarsh Enclave | 3 BHK | 1181 | 20230000 | mg road
+DWE-6003473 | Casagrand  Greens | 4 BHK | 1555 | 13190000 | sector 49
+
+PHONE: +912004422360 COUNT: 3
+MAG-6002441 | Assetz Meadows | 2 BHK | 71 | 15790000 | mg road
+MAG-6001774 | Aparna Habitat | 3 BHK | 121 | 20740000 | sector 65
+SQU-6001481 | Casagrand Enclave | 2 BHK | 901 | 16390000 | sector 56
+
+PHONE: +912004678009 COUNT: 3
+MAG-6000684 | Aparna Serenity | 2 BHK | 818 | 9000000 | sohna road
+ZER-6001590 | Adarsh Meadows | 3 BHK | 1224 | 24160000 | sector 65
+DWE-6001151 | Century Meadows | 4 BHK | 1429 | 16730000 | sector 65
+
+PHONE: +912004672442 COUNT: 3
+MAG-6000362 | Adarsh Crest | 1 BHK | 50 | 5000000 | sector 49
+DWE-6002122 | Adarsh Meadows | 3 BHK | 1184 | 22080000 | mg road
+ZER-6001602 | Prestige Meadows | 2 BHK | 864 | 11670000 | dwarka expressway
+
+PHONE: +912004543396 COUNT: 3
+SQU-6002464 | Lodha Boulevard | 4 BHK | 1635 | 17430000 | golf course road
+SQU-6000173 | Sobha Greens | 1 BHK | 460 | 5770000 | dwarka expressway
+DWE-6003154 | Brigade  Vista | 4 BHK | 1598 | 23160000 | dlf phase 3
+
+PHONE: +912009068573 COUNT: 3
+100-6002536 | Kolte Patil Park | 3 BHK | 1159 | 18320000 | sohna road
+100-6003017 | Casagrand Enclave | 2 BHK | 776 | 14170000 | sector 65
+ZER-6002230 | Mantri Grand | 0 BHK | 1873 | 12920000 | golf course road
+
+PHONE: +912008296323 COUNT: 3
+MAG-6003472 | Lodha-Terraces | 3 BHK | 112 | 12710000 | sector 65
+SQU-6002505 | Brigade Serenity | 2 BHK | 833 | 15670000 | sohna road
+DWE-6002333 | Sobha Willows | 3 BHK | 1104 | 17030000 | dwarka expressway
+
+PHONE: +912005959940 COUNT: 3
+MAG-6002632 | Salarpuria Woods | 2 BHK | 905 | 8210000 | mg road
+MAG-6000131 | Casagrand Sanctuary | 5 BHK | 2011 | 35090000 | dlf phase 3
+ZER-6001354 | Brigade Crest | 3 BHK | 1199 | 21080000 | dwarka expressway
+
+PHONE: +912005732077 COUNT: 3
+MAG-6001065 | Adarsh Elite | 3 BHK | 121 | 25070000 | sector 82
+ZER-6001446 | Lodha Terraces | 3 BHK | 1216 | 13020000 | sector 65
+SQU-6002397 | Brigade Park | 3 BHK | 1124 | 12570000 | dwarka expressway
+
+PHONE: +912006499274 COUNT: 3
+100-6001397 | Kolte Patil Willows | 2 BHK | 883 | 13810000 | dwarka expressway
+100-6002869 | Puravankara Greens | 2 BHK | 843 | 13450000 | sector 56
+100-6000892 | Mantri Sanctuary | 5 BHK | 1868 | 35860000 | sector 82
+
+PHONE: +912003168968 COUNT: 3
+DWE-6000071 | Adarsh Park | 4 BHK | 1656 | 31030000 | sector 82
+MAG-6000263 | Mantri Grand | 2 BHK | 75 | 6930000 | sector 65
+DWE-6001080 | Lodha Habitat | 2 BHK | 926 | 8970000 | new gurgaon
+
+PHONE: +912001561620 COUNT: 3
+SQU-6001588 | Puravankara Enclave | 1 BHK | 522 | 7370000 | new gurgaon
+DWE-6002573 | Sobha Vista | 3 BHK | 1197 | 16970000 | sector 65
+SQU-6003125 | Assetz Boulevard Apartments | 2 BHK | 853 | 12750000 | dwarka expressway
+
+PHONE: +912005797276 COUNT: 3
+MAG-6003035 | Century Heights | 3 BHK | 103 | 18380000 | sector 65
+100-6000472 | Rohan Boulevard | 1 BHK | 496 | 8010000 | sohna road
+MAG-6002348 | Prestige Pavilion | 2 BHK | 778 | 14380000 | mg road
+
+PHONE: +912003097769 COUNT: 3
+ZER-6003184 | CENTURY PARK | 2 BHK | 832 | 10510000 | dlf phase 3
+100-6002874 | My Home Terraces | 2 BHK | 787 | 13560000 | sector 49
+100-6003383 | Puravankara-Elite | 4 BHK | 1468 | 17920000 | golf course road
+
+PHONE: +912007427311 COUNT: 3
+ZER-6003425 | Godrej  Residency | 3 BHK | 1252 | 12020000 | sector 49
+ZER-6002877 | Godrej Residency | 2 BHK | 805 | 9870000 | golf course road
+SQU-6001489 | Adarsh Habitat | 3 BHK | 1202 | 20870000 | sector 65
+
+PHONE: +912000480620 COUNT: 3
+ZER-6003352 | Shriram-Boulevard | 2 BHK | 912 | 9690000 | sector 82
+100-6000356 | Rohan Heights | 2 BHK | 821 | 11280000 | sohna road
+MAG-6003202 | Mantri Serenity Phase 1 | 2 BHK | 821 | 13100000 | mg road
+
+PHONE: +912008084028 COUNT: 3
+DWE-6000838 | Kolte Patil Boulevard | 2 BHK | 940 | 16400000 | dwarka expressway
+SQU-6003172 | ROHAN GRAND | 3 BHK | 1098 | 13490000 | sector 49
+ZER-6000182 | Lodha Vista | 3 BHK | 1149 | 10350000 | sohna road
+
+PHONE: +912006434364 COUNT: 3
+DWE-6002074 | Brigade Habitat | 2 BHK | 842 | 16540000 | golf course road
+ZER-6001622 | Casagrand Sanctuary | 2 BHK | 841 | 13540000 | sector 65
+DWE-6002681 | Brigade Pavilion | 2 BHK | 771 | 8300000 | dwarka expressway
+
+PHONE: +912009756287 COUNT: 3
+DWE-6000034 | Nitesh Vista | 3 BHK | 1152 | 10510000 | new gurgaon
+MAG-6000143 | Casagrand Elite | 1 BHK | 43 | 6100000 | sector 56
+MAG-6001465 | My Home Meadows | 2 BHK | 847 | 9960000 | sector 65
+
+PHONE: +912002680551 COUNT: 3
+MAG-6001349 | Prestige Habitat | 3 BHK | 1095 | 15740000 | sector 49
+MAG-6002195 | Shriram Elite | 3 BHK | 1201 | 15960000 | mg road
+100-6001216 | Rohan Vista | 3 BHK | 1252 | 23780000 | dlf phase 3
+
+PHONE: +912000312141 COUNT: 3
+SQU-6002651 | Nitesh Enclave | 3 BHK | 1259 | 25240000 | mg road
+100-6000856 | Godrej Habitat | 2 BHK | 960 | 15350000 | golf course road
+SQU-6002542 | Lodha Grand | 4 BHK | 1545 | 13200000 | sohna road
+
+PHONE: +912009504673 COUNT: 3
+DWE-6002293 | Sobha Vista | 2 BHK | 896 | 11090000 | dlf phase 3
+SQU-6002969 | Century Elite | 3 BHK | 1293 | 18240000 | golf course road
+MAG-6001291 | Shriram Crest | 2 BHK | 923 | 14790000 | golf course road
+
+PHONE: +912007160760 COUNT: 3
+DWE-6002852 | Shriram Habitat | 2 BHK | 794 | 7060000 | sector 82
+ZER-6000289 | Assetz Heights | 4 BHK | 1536 | 23960000 | sector 65
+DWE-6001068 | Century Terraces | 1 BHK | 499 | 10160000 | dlf phase 3
+
+PHONE: +912002412904 COUNT: 3
+MAG-6000850 | Casagrand Sanctuary | 2 BHK | 936 | 19300000 | dwarka expressway
+DWE-6000645 | My Home Crest | 3 BHK | 1154 | 22200000 | sector 82
+ZER-6001702 | Rohan Boulevard | 2 BHK | 763 | 9360000 | sector 65
+
+PHONE: +912004779618 COUNT: 3
+DWE-6002079 | Casagrand Woods | 3 BHK | 1239 | 25880000 | new gurgaon
+DWE-6000944 | Century Park | 4 BHK | 1612 | 17100000 | dlf phase 3
+MAG-6000658 | Mantri Woods | 2 BHK | 844 | 7310000 | sector 56

@@ -1,0 +1,488 @@
+======================================================================
+Q5 — SOHNA ROAD RENT
+======================================================================
+Sohna Road rental records: 114
+Total monthly rent: 3733800
+
+Rental prices:
+R6000003 | 31500 | 3 BHK | Assetz Grand
+R6000014 | 67100 | 3 BHK | Adarsh Willows
+R6000044 | 28300 | 2 BHK | Lodha Elite
+R6000060 | 22300 | 2 BHK | Rohan Willows
+R6000061 | 22700 | 2 BHK | Lodha Crest
+R6000093 | 25100 | 2 BHK | Kolte Patil Elite
+R6000094 | 10500 | 1 BHK | Puravankara Pavilion
+R6000100 | 15700 | 1 BHK | Prestige Boulevard
+R6000103 | 17700 | 2 BHK | Salarpuria Serenity
+R6000107 | 40200 | 2 BHK | Rohan Elite
+R6000110 | 43800 | 3 BHK | Sobha Crest
+R6000131 | 32400 | 2 BHK | Godrej Park
+R6000148 | 39200 | 2 BHK | Assetz Crest
+R6000150 | 28400 | 2 BHK | Prestige Enclave
+R6000161 | 42400 | 3 BHK | Adarsh Woods
+R6000163 | 51200 | 3 BHK | My Home Grand
+R6000190 | 41000 | 3 BHK | Casagrand Boulevard
+R6000196 | 10600 | 1 BHK | Aparna Sanctuary
+R6000203 | 26300 | 1 BHK | Adarsh Woods
+R6000209 | 25700 | 1 BHK | My Home Willows
+R6000212 | 40700 | 2 BHK | Nitesh Grand
+R6000217 | 30000 | 2 BHK | Godrej Sanctuary
+R6000218 | 17500 | 2 BHK | Aparna Grand
+R6000229 | 43400 | 3 BHK | Aparna Boulevard
+R6000250 | 26100 | 3 BHK | Kolte Patil Heights
+R6000252 | 17300 | 2 BHK | Puravankara Woods
+R6000257 | 22100 | 1 BHK | Adarsh Enclave
+R6000279 | 31900 | 3 BHK | Nitesh Enclave
+R6000284 | 59800 | 3 BHK | Salarpuria Boulevard
+R6000286 | 65800 | 3 BHK | My Home Grand
+R6000301 | 19000 | 2 BHK | Mantri Serenity
+R6000305 | 12100 | 1 BHK | Kolte Patil Meadows
+R6000307 | 14600 | 1 BHK | My Home Sanctuary
+R6000318 | 20200 | 2 BHK | Brigade Pavilion
+R6000324 | 47600 | 3 BHK | Salarpuria Sanctuary
+R6000375 | 63000 | 4 BHK | Brigade Crest
+R6000389 | 22400 | 2 BHK | Prestige Sanctuary
+R6000403 | 38300 | 2 BHK | Puravankara Grand
+R6000444 | 21700 | 2 BHK | My Home Park
+R6000445 | 56400 | 3 BHK | Nitesh Willows
+R6000476 | 21400 | 1 BHK | Kolte Patil Elite
+R6000478 | 21500 | 1 BHK | Shriram Sanctuary
+R6000488 | 22300 | 1 BHK | Century Terraces
+R6000489 | 34700 | 4 BHK | Rohan Serenity
+R6000501 | 49800 | 4 BHK | Lodha Woods
+R6000502 | 17600 | 2 BHK | My Home Willows
+R6000526 | 24900 | 2 BHK | Casagrand Serenity
+R6000532 | 52600 | 3 BHK | Sobha Serenity
+R6000539 | 59500 | 3 BHK | Casagrand Elite
+R6000541 | 17900 | 2 BHK | My Home Heights
+R6000548 | 18700 | 2 BHK | Casagrand Elite
+R6000575 | 30100 | 2 BHK | Prestige Crest
+R6000592 | 77100 | 4 BHK | Kolte Patil Habitat
+R6000594 | 51900 | 3 BHK | Puravankara Park
+R6000600 | 31900 | 2 BHK | Mantri Terraces
+R6000626 | 29700 | 3 BHK | Adarsh Sanctuary
+R6000628 | 20600 | 2 BHK | Mantri Grand
+R6000636 | 20100 | 1 BHK | Mantri Enclave
+R6000637 | 10300 | 1 BHK | Adarsh Greens
+R6000649 | 62000 | 4 BHK | Lodha Heights
+R6000651 | 39100 | 2 BHK | Puravankara Greens
+R6000668 | 22100 | 2 BHK | Salarpuria Enclave
+R6000677 | 23100 | 1 BHK | Salarpuria Pavilion
+R6000689 | 28700 | 1 BHK | My Home Elite
+R6000702 | 17900 | 1 BHK | Rohan Park
+R6000710 | 20100 | 2 BHK | My Home Boulevard
+R6000735 | 45300 | 2 BHK | Prestige Park
+R6000766 | 20300 | 1 BHK | Nitesh Residency
+R6000768 | 44200 | 3 BHK | Mantri Serenity
+R6000773 | 38700 | 3 BHK | Kolte Patil Vista
+R6000789 | 47600 | 2 BHK | Puravankara Habitat
+R6000804 | 26000 | 1 BHK | Sobha Enclave
+R6000809 | 41900 | 2 BHK | Rohan Crest
+R6000813 | 49400 | 3 BHK | Shriram Grand
+R6000834 | 23400 | 2 BHK | Casagrand Heights
+R6000836 | 22000 | 1 BHK | My Home Greens
+R6000849 | 32200 | 2 BHK | Salarpuria Willows
+R6000877 | 40200 | 3 BHK | Puravankara Serenity
+R6000891 | 21400 | 2 BHK | Rohan Serenity
+R6000919 | 28100 | 3 BHK | Assetz Elite
+R6000924 | 53000 | 3 BHK | Kolte Patil Heights
+R6000950 | 13400 | 1 BHK | Assetz Woods
+R6000953 | 35700 | 3 BHK | Nitesh Woods
+R6000959 | 20600 | 2 BHK | Rohan Park
+R6000963 | 9100 | 1 BHK | Aparna Meadows
+R6000966 | 23500 | 2 BHK | Century Pavilion
+R6000971 | 15000 | 1 BHK | Aparna Vista
+R6000976 | 13100 | 1 BHK | Casagrand Grand
+R6000986 | 27400 | 3 BHK | Shriram Park
+R6000998 | 65400 | 3 BHK | Rohan Crest
+R6001004 | 19800 | 2 BHK | Century Elite
+R6001025 | 31600 | 2 BHK | Nitesh Greens
+R6001037 | 34800 | 3 BHK | My Home Boulevard
+R6001049 | 29700 | 2 BHK | Rohan Terraces
+R6001075 | 19900 | 2 BHK | My Home Sanctuary
+R6001094 | 42900 | 3 BHK | Rohan Sanctuary
+R6001106 | 44700 | 3 BHK | Casagrand Greens
+R6001137 | 16100 | 2 BHK | Puravankara Serenity
+R6001155 | 18300 | 2 BHK | Lodha Grand
+R6001174 | 35800 | 2 BHK | Prestige Enclave
+R6001176 | 26200 | 1 BHK | Century Terraces
+R6001179 | 49100 | 3 BHK | Kolte Patil Meadows
+R6001180 | 31600 | 3 BHK | Mantri Meadows
+R6001185 | 33300 | 2 BHK | Mantri Greens
+R6001203 | 51600 | 3 BHK | Aparna Residency
+R6001204 | 18200 | 2 BHK | Adarsh Pavilion
+R6001227 | 49200 | 2 BHK | Aparna Grand
+R6001235 | 62400 | 3 BHK | Rohan Pavilion
+R6001239 | 46100 | 3 BHK | Sobha Enclave
+R6001263 | 65000 | 3 BHK | Aparna Meadows
+R6001269 | 23500 | 2 BHK | Mantri Heights
+R6001291 | 36400 | 2 BHK | Brigade Terraces
+R6001294 | 12800 | 1 BHK | Sobha Vista
+R6001297 | 60300 | 4 BHK | Nitesh Willows
+
+======================================================================
+Q7 — COSTLIEST PROJECT
+======================================================================
+{
+  "project_id": "P60090",
+  "project_url": "https://www.ivy.homes/projects/60090",
+  "city_id": 6,
+  "apartment_name": "Puravankara Willows",
+  "developer_name": "Puravankara",
+  "locality": "new gurgaon",
+  "project_status": "under construction",
+  "total_units": 568,
+  "total_towers": 8,
+  "total_floors": 10,
+  "launch_date": "2020-06-28",
+  "possession_date": "2023-12-23",
+  "rera_number": "PRM/KA/RERA/3535/699",
+  "min_area_sqft": 753,
+  "max_area_sqft": 1067,
+  "amenities": [
+    "library",
+    "spa",
+    "co-working",
+    "lift"
+  ],
+  "latitude": 28.36818,
+  "longitude": 76.99526,
+  "total_listings": 4,
+  "price_min": 55.8,
+  "price_max": 98.9
+}
+
+======================================================================
+Q10 — PROJECT LISTING COUNT MISMATCHES
+======================================================================
+Projects: 400
+Mismatches: 295
+P60001 | Sobha Meadows | golf course road | reported=6 | actual=7
+P60002 | Puravankara Vista | sector 65 | reported=3 | actual=7
+P60004 | Shriram Boulevard | dwarka expressway | reported=8 | actual=9
+P60005 | Casagrand Sanctuary | dlf phase 3 | reported=4 | actual=7
+P60006 | My Home Boulevard | sector 56 | reported=4 | actual=11
+P60007 | Sobha Pavilion | dwarka expressway | reported=6 | actual=7
+P60009 | Shriram Meadows | dwarka expressway | reported=3 | actual=4
+P60010 | Prestige Habitat | dwarka expressway | reported=6 | actual=7
+P60011 | Lodha Elite | sohna road | reported=0 | actual=9
+P60012 | Assetz Park | sector 82 | reported=0 | actual=5
+P60014 | My Home Terraces | dwarka expressway | reported=3 | actual=6
+P60015 | Lodha Park | sohna road | reported=3 | actual=4
+P60017 | Nitesh Heights | sector 82 | reported=9 | actual=2
+P60018 | Brigade Vista | mg road | reported=5 | actual=6
+P60019 | Rohan Heights | sector 56 | reported=6 | actual=7
+P60021 | Puravankara Enclave | dwarka expressway | reported=3 | actual=7
+P60022 | Puravankara Park | dwarka expressway | reported=7 | actual=5
+P60023 | Sobha Pavilion | sector 65 | reported=4 | actual=6
+P60024 | Lodha Meadows | dlf phase 3 | reported=8 | actual=9
+P60025 | Casagrand Habitat | dlf phase 3 | reported=5 | actual=6
+P60027 | Shriram Sanctuary | sohna road | reported=16 | actual=9
+P60029 | Rohan Vista | dlf phase 3 | reported=3 | actual=4
+P60030 | Kolte Patil Woods | sector 49 | reported=20 | actual=8
+P60031 | Brigade Crest | dlf phase 3 | reported=4 | actual=5
+P60032 | Rohan Elite | new gurgaon | reported=3 | actual=4
+P60033 | Mantri Sanctuary | sector 65 | reported=4 | actual=7
+P60034 | Godrej Boulevard | sohna road | reported=4 | actual=7
+P60035 | Aparna Boulevard | sector 65 | reported=0 | actual=2
+P60037 | Casagrand Pavilion | golf course road | reported=7 | actual=9
+P60039 | Mantri Serenity | dwarka expressway | reported=8 | actual=5
+P60040 | Kolte Patil Meadows | sohna road | reported=21 | actual=7
+P60041 | Godrej Willows | sector 65 | reported=0 | actual=2
+P60042 | Godrej Greens | golf course road | reported=0 | actual=4
+P60043 | Salarpuria Heights | new gurgaon | reported=5 | actual=7
+P60044 | Century Residency | sohna road | reported=2 | actual=3
+P60045 | Nitesh Pavilion | sector 82 | reported=7 | actual=8
+P60046 | Casagrand Park | sector 49 | reported=10 | actual=9
+P60048 | Adarsh Willows | sector 49 | reported=2 | actual=9
+P60049 | Assetz Greens | sector 56 | reported=3 | actual=4
+P60050 | Prestige Elite | new gurgaon | reported=0 | actual=5
+P60053 | Salarpuria Serenity | sohna road | reported=8 | actual=10
+P60055 | Kolte Patil Boulevard | dwarka expressway | reported=6 | actual=7
+P60057 | Puravankara Heights | dlf phase 3 | reported=5 | actual=3
+P60058 | Kolte Patil Park | golf course road | reported=5 | actual=6
+P60060 | Mantri Terraces | sector 49 | reported=8 | actual=10
+P60061 | My Home Vista | sohna road | reported=3 | actual=5
+P60063 | Casagrand Terraces | mg road | reported=15 | actual=5
+P60068 | Prestige Greens | new gurgaon | reported=3 | actual=5
+P60069 | Lodha Crest | mg road | reported=3 | actual=4
+P60071 | Rohan Elite | sector 82 | reported=1 | actual=3
+P60073 | Prestige Grand | dwarka expressway | reported=0 | actual=4
+P60074 | Rohan Serenity | dwarka expressway | reported=0 | actual=7
+P60075 | Sobha Residency | dwarka expressway | reported=1 | actual=6
+P60076 | Sobha Boulevard | new gurgaon | reported=6 | actual=7
+P60077 | Shriram Woods | sector 49 | reported=8 | actual=9
+P60078 | Assetz Meadows | golf course road | reported=5 | actual=7
+P60079 | Brigade Terraces | mg road | reported=10 | actual=4
+P60080 | Sobha Willows | mg road | reported=0 | actual=3
+P60081 | Nitesh Habitat | sector 49 | reported=5 | actual=6
+P60082 | Aparna Meadows | sector 82 | reported=0 | actual=6
+P60083 | Shriram Enclave | dwarka expressway | reported=5 | actual=6
+P60084 | Godrej Woods | new gurgaon | reported=0 | actual=5
+P60085 | Sobha Woods | sector 82 | reported=6 | actual=8
+P60086 | Assetz Crest | dlf phase 3 | reported=7 | actual=11
+P60087 | Casagrand Park | sohna road | reported=12 | actual=7
+P60088 | Century Woods | sector 56 | reported=11 | actual=1
+P60089 | Century Sanctuary | sector 49 | reported=5 | actual=8
+P60092 | Assetz Grand | sector 56 | reported=4 | actual=7
+P60094 | Casagrand Greens | sector 65 | reported=14 | actual=4
+P60095 | Shriram Sanctuary | sector 65 | reported=0 | actual=5
+P60098 | Salarpuria Woods | sector 65 | reported=4 | actual=5
+P60101 | Shriram Boulevard | new gurgaon | reported=4 | actual=5
+P60104 | Sobha Sanctuary | dlf phase 3 | reported=13 | actual=9
+P60105 | Century Terraces | sector 65 | reported=0 | actual=3
+P60106 | Prestige Woods | golf course road | reported=10 | actual=3
+P60107 | Salarpuria Meadows | sector 56 | reported=0 | actual=5
+P60108 | Kolte Patil Boulevard | golf course road | reported=4 | actual=5
+P60109 | Prestige Sanctuary | sohna road | reported=0 | actual=1
+P60110 | Prestige Serenity | sector 56 | reported=3 | actual=4
+P60111 | Puravankara Meadows | sector 49 | reported=6 | actual=8
+P60112 | Lodha Greens | golf course road | reported=3 | actual=5
+P60113 | Adarsh Woods | sohna road | reported=6 | actual=9
+P60115 | Lodha Sanctuary | sector 65 | reported=0 | actual=2
+P60116 | Rohan Heights | sector 49 | reported=6 | actual=10
+P60117 | Mantri Serenity | sector 82 | reported=5 | actual=6
+P60118 | Adarsh Elite | sector 65 | reported=5 | actual=7
+P60120 | Aparna Boulevard | new gurgaon | reported=6 | actual=7
+P60121 | Assetz Serenity | dlf phase 3 | reported=7 | actual=9
+P60122 | Aparna Grand | sector 82 | reported=3 | actual=6
+P60124 | Lodha Elite | sector 65 | reported=8 | actual=12
+P60126 | Rohan Woods | sohna road | reported=4 | actual=6
+P60128 | Aparna Willows | sector 82 | reported=4 | actual=6
+P60130 | Adarsh Vista | mg road | reported=5 | actual=6
+P60131 | Nitesh Woods | mg road | reported=9 | actual=4
+P60132 | Puravankara Enclave | sector 49 | reported=8 | actual=9
+P60133 | Kolte Patil Grand | sector 56 | reported=2 | actual=3
+P60134 | Rohan Heights | sector 82 | reported=12 | actual=3
+P60135 | Lodha Serenity | golf course road | reported=5 | actual=8
+P60136 | Adarsh Woods | golf course road | reported=7 | actual=6
+P60137 | Puravankara Park | new gurgaon | reported=3 | actual=5
+P60139 | Kolte Patil Vista | dlf phase 3 | reported=6 | actual=10
+P60140 | Shriram Serenity | mg road | reported=4 | actual=6
+P60141 | Rohan Meadows | golf course road | reported=8 | actual=3
+P60142 | My Home Greens | sector 49 | reported=8 | actual=10
+P60143 | Assetz Terraces | mg road | reported=2 | actual=5
+P60144 | Lodha Greens | sector 65 | reported=3 | actual=4
+P60145 | Shriram Greens | sector 65 | reported=6 | actual=8
+P60146 | Aparna Willows | sector 56 | reported=0 | actual=6
+P60147 | Salarpuria Habitat | new gurgaon | reported=2 | actual=4
+P60148 | Nitesh Boulevard | dlf phase 3 | reported=3 | actual=9
+P60150 | Godrej Sanctuary | dlf phase 3 | reported=0 | actual=7
+P60151 | Godrej Sanctuary | dwarka expressway | reported=3 | actual=4
+P60152 | Nitesh Elite | sector 49 | reported=6 | actual=8
+P60153 | Kolte Patil Meadows | new gurgaon | reported=4 | actual=5
+P60155 | Kolte Patil Grand | dwarka expressway | reported=2 | actual=3
+P60156 | Lodha Elite | new gurgaon | reported=7 | actual=10
+P60159 | Assetz Woods | mg road | reported=0 | actual=4
+P60162 | Adarsh Meadows | sector 56 | reported=0 | actual=4
+P60163 | Lodha Elite | new gurgaon | reported=3 | actual=5
+P60164 | Salarpuria Greens | sector 49 | reported=5 | actual=6
+P60165 | Puravankara Enclave | sohna road | reported=0 | actual=8
+P60166 | Mantri Crest | sector 65 | reported=2 | actual=3
+P60167 | My Home Willows | mg road | reported=7 | actual=10
+P60169 | Sobha Greens | dwarka expressway | reported=14 | actual=8
+P60170 | Salarpuria Boulevard | dwarka expressway | reported=3 | actual=4
+P60171 | Prestige Enclave | new gurgaon | reported=1 | actual=3
+P60173 | Adarsh Sanctuary | sector 65 | reported=7 | actual=3
+P60174 | Salarpuria Grand | sector 56 | reported=4 | actual=7
+P60175 | Mantri Pavilion | new gurgaon | reported=5 | actual=6
+P60176 | Mantri Serenity | new gurgaon | reported=2 | actual=4
+P60177 | Assetz Heights | new gurgaon | reported=9 | actual=6
+P60178 | Sobha Terraces | dwarka expressway | reported=5 | actual=6
+P60179 | Adarsh Enclave | golf course road | reported=2 | actual=3
+P60183 | Brigade Vista | dwarka expressway | reported=6 | actual=9
+P60184 | Assetz Willows | sector 49 | reported=8 | actual=10
+P60185 | Assetz Serenity | sector 49 | reported=9 | actual=11
+P60186 | Assetz Willows | golf course road | reported=5 | actual=6
+P60187 | Godrej Willows | dlf phase 3 | reported=10 | actual=11
+P60188 | My Home Greens | golf course road | reported=12 | actual=5
+P60189 | Nitesh Habitat | sohna road | reported=5 | actual=7
+P60190 | Assetz Serenity | sector 56 | reported=15 | actual=2
+P60191 | Brigade Vista | sector 49 | reported=2 | actual=4
+P60193 | Brigade Serenity | new gurgaon | reported=1 | actual=2
+P60194 | Puravankara Heights | dlf phase 3 | reported=1 | actual=7
+P60196 | Prestige Heights | dwarka expressway | reported=4 | actual=5
+P60197 | Century Vista | sector 65 | reported=1 | actual=5
+P60198 | Rohan Grand | sector 65 | reported=2 | actual=5
+P60201 | Shriram Sanctuary | sector 65 | reported=0 | actual=6
+P60202 | Salarpuria Meadows | sector 82 | reported=19 | actual=6
+P60204 | Sobha Vista | sohna road | reported=5 | actual=8
+P60206 | Casagrand Boulevard | dwarka expressway | reported=6 | actual=8
+P60208 | My Home Terraces | mg road | reported=17 | actual=9
+P60209 | Godrej Residency | dlf phase 3 | reported=15 | actual=8
+P60210 | Sobha Meadows | dwarka expressway | reported=4 | actual=5
+P60211 | Casagrand Terraces | mg road | reported=0 | actual=3
+P60213 | Century Heights | dlf phase 3 | reported=7 | actual=9
+P60214 | Kolte Patil Serenity | new gurgaon | reported=0 | actual=7
+P60216 | Sobha Woods | dwarka expressway | reported=3 | actual=5
+P60217 | Rohan Vista | golf course road | reported=0 | actual=6
+P60218 | Lodha Meadows | sector 56 | reported=3 | actual=6
+P60219 | Century Residency | golf course road | reported=4 | actual=5
+P60220 | Rohan Crest | sector 49 | reported=0 | actual=6
+P60221 | My Home Terraces | golf course road | reported=8 | actual=6
+P60223 | Godrej Park | new gurgaon | reported=12 | actual=2
+P60224 | Lodha Serenity | sector 82 | reported=7 | actual=9
+P60225 | Salarpuria Greens | dwarka expressway | reported=1 | actual=2
+P60226 | Godrej Habitat | sector 65 | reported=16 | actual=11
+P60227 | Salarpuria Willows | sector 65 | reported=18 | actual=7
+P60228 | Century Heights | dlf phase 3 | reported=4 | actual=5
+P60230 | Prestige Boulevard | golf course road | reported=3 | actual=5
+P60232 | Aparna Crest | mg road | reported=3 | actual=4
+P60235 | Shriram Park | new gurgaon | reported=6 | actual=7
+P60236 | Shriram Terraces | sohna road | reported=5 | actual=6
+P60237 | Shriram Sanctuary | golf course road | reported=0 | actual=7
+P60238 | Puravankara Serenity | sector 82 | reported=1 | actual=2
+P60239 | Rohan Residency | sector 65 | reported=5 | actual=6
+P60240 | Godrej Residency | sector 65 | reported=23 | actual=9
+P60243 | Shriram Serenity | sector 82 | reported=0 | actual=10
+P60244 | Salarpuria Crest | sector 56 | reported=3 | actual=5
+P60245 | Godrej Pavilion | sector 65 | reported=5 | actual=6
+P60246 | Casagrand Willows | sector 56 | reported=1 | actual=3
+P60247 | Brigade Boulevard | golf course road | reported=7 | actual=9
+P60248 | Aparna Park | mg road | reported=9 | actual=11
+P60249 | Adarsh Greens | sohna road | reported=1 | actual=3
+P60250 | Aparna Elite | sohna road | reported=6 | actual=10
+P60251 | Rohan Elite | sector 82 | reported=0 | actual=1
+P60252 | Brigade Residency | mg road | reported=8 | actual=9
+P60253 | Puravankara Terraces | golf course road | reported=0 | actual=4
+P60254 | Godrej Park | dwarka expressway | reported=6 | actual=2
+P60257 | Puravankara Greens | mg road | reported=6 | actual=7
+P60258 | My Home Terraces | dwarka expressway | reported=14 | actual=6
+P60259 | My Home Residency | new gurgaon | reported=5 | actual=6
+P60260 | Prestige Crest | mg road | reported=5 | actual=6
+P60261 | Rohan Serenity | new gurgaon | reported=4 | actual=3
+P60263 | My Home Pavilion | sector 65 | reported=6 | actual=8
+P60264 | Brigade Meadows | sector 56 | reported=1 | actual=3
+P60266 | Century Park | sector 82 | reported=4 | actual=5
+P60267 | Godrej Serenity | dwarka expressway | reported=4 | actual=5
+P60269 | My Home Vista | dwarka expressway | reported=4 | actual=5
+P60270 | Shriram Heights | mg road | reported=6 | actual=9
+P60271 | Adarsh Terraces | sector 56 | reported=5 | actual=6
+P60273 | Casagrand Heights | sector 65 | reported=4 | actual=5
+P60274 | Puravankara Grand | new gurgaon | reported=10 | actual=8
+P60275 | Godrej Enclave | sector 56 | reported=3 | actual=4
+P60276 | Kolte Patil Sanctuary | sector 65 | reported=13 | actual=7
+P60278 | Century Enclave | golf course road | reported=1 | actual=3
+P60280 | My Home Grand | sector 49 | reported=9 | actual=12
+P60282 | Assetz Heights | dwarka expressway | reported=14 | actual=6
+P60283 | Adarsh Crest | dlf phase 3 | reported=10 | actual=5
+P60285 | Mantri Boulevard | sector 49 | reported=6 | actual=7
+P60286 | Aparna Pavilion | sector 82 | reported=5 | actual=7
+P60287 | Sobha Elite | sohna road | reported=10 | actual=11
+P60289 | Godrej Greens | sector 49 | reported=4 | actual=8
+P60290 | Salarpuria Habitat | sector 49 | reported=5 | actual=8
+P60292 | Puravankara Park | sector 65 | reported=7 | actual=8
+P60293 | Casagrand Terraces | dlf phase 3 | reported=14 | actual=2
+P60294 | Brigade Heights | new gurgaon | reported=4 | actual=0
+P60295 | Salarpuria Grand | sector 65 | reported=0 | actual=6
+P60296 | Kolte Patil Residency | sector 56 | reported=18 | actual=8
+P60297 | Brigade Greens | mg road | reported=5 | actual=7
+P60299 | Lodha Heights | sector 82 | reported=2 | actual=3
+P60300 | Puravankara Crest | sector 56 | reported=5 | actual=7
+P60301 | Nitesh Park | sector 56 | reported=10 | actual=5
+P60302 | Nitesh Terraces | sector 82 | reported=0 | actual=4
+P60304 | Lodha Grand | new gurgaon | reported=8 | actual=11
+P60305 | Shriram Willows | dwarka expressway | reported=3 | actual=4
+P60308 | Godrej Enclave | dwarka expressway | reported=2 | actual=4
+P60309 | Assetz Park | mg road | reported=3 | actual=4
+P60312 | Kolte Patil Greens | dwarka expressway | reported=0 | actual=6
+P60313 | My Home Sanctuary | new gurgaon | reported=3 | actual=5
+P60315 | Nitesh Crest | sector 65 | reported=6 | actual=8
+P60316 | Mantri Habitat | sohna road | reported=6 | actual=5
+P60317 | Rohan Elite | dlf phase 3 | reported=0 | actual=3
+P60318 | Shriram Meadows | golf course road | reported=3 | actual=5
+P60319 | Puravankara Grand | sector 65 | reported=19 | actual=7
+P60320 | Shriram Heights | sector 49 | reported=5 | actual=6
+P60321 | Puravankara Park | sector 82 | reported=3 | actual=6
+P60322 | Assetz Pavilion | dwarka expressway | reported=3 | actual=5
+P60324 | My Home Heights | new gurgaon | reported=4 | actual=6
+P60325 | Brigade Grand | dwarka expressway | reported=8 | actual=1
+P60326 | Brigade Pavilion | dwarka expressway | reported=4 | actual=5
+P60327 | Sobha Sanctuary | mg road | reported=5 | actual=7
+P60328 | Casagrand Elite | sector 56 | reported=15 | actual=4
+P60330 | Brigade Heights | dwarka expressway | reported=5 | actual=7
+P60332 | Salarpuria Enclave | sohna road | reported=5 | actual=6
+P60333 | Puravankara Elite | sector 56 | reported=9 | actual=4
+P60336 | Century Habitat | golf course road | reported=4 | actual=5
+P60337 | Mantri Grand | golf course road | reported=1 | actual=2
+P60339 | Prestige Greens | sector 65 | reported=6 | actual=8
+P60340 | Mantri Terraces | dwarka expressway | reported=5 | actual=6
+P60341 | Kolte Patil Habitat | golf course road | reported=0 | actual=3
+P60343 | Godrej Habitat | sector 56 | reported=4 | actual=6
+P60344 | My Home Elite | mg road | reported=12 | actual=3
+P60345 | Sobha Grand | mg road | reported=0 | actual=9
+P60346 | Assetz Crest | sohna road | reported=4 | actual=9
+P60347 | Kolte Patil Residency | sohna road | reported=1 | actual=2
+P60350 | My Home Crest | sector 56 | reported=2 | actual=3
+P60351 | Casagrand Enclave | new gurgaon | reported=4 | actual=5
+P60352 | Lodha Residency | dlf phase 3 | reported=6 | actual=7
+P60353 | Aparna Residency | sohna road | reported=13 | actual=10
+P60354 | Mantri Meadows | sector 65 | reported=17 | actual=11
+P60356 | Puravankara Vista | sector 82 | reported=8 | actual=11
+P60357 | Shriram Residency | golf course road | reported=7 | actual=8
+P60358 | Salarpuria Residency | sector 65 | reported=5 | actual=6
+P60359 | Century Crest | sector 65 | reported=0 | actual=4
+P60361 | Sobha Boulevard | sector 56 | reported=15 | actual=3
+P60363 | Brigade Enclave | mg road | reported=11 | actual=12
+P60364 | Aparna Pavilion | mg road | reported=3 | actual=5
+P60365 | Casagrand Heights | sector 82 | reported=5 | actual=7
+P60366 | Lodha Boulevard | sector 65 | reported=2 | actual=3
+P60367 | Salarpuria Serenity | sector 56 | reported=15 | actual=4
+P60368 | Godrej Sanctuary | sohna road | reported=6 | actual=8
+P60370 | My Home Crest | dlf phase 3 | reported=9 | actual=11
+P60371 | Puravankara Boulevard | dlf phase 3 | reported=7 | actual=8
+P60372 | Adarsh Elite | sector 56 | reported=0 | actual=6
+P60374 | Assetz Enclave | golf course road | reported=0 | actual=6
+P60375 | Mantri Elite | mg road | reported=3 | actual=5
+P60377 | Kolte Patil Crest | sohna road | reported=3 | actual=9
+P60379 | Salarpuria Heights | dwarka expressway | reported=0 | actual=10
+P60380 | Assetz Pavilion | sector 56 | reported=7 | actual=8
+P60382 | Sobha Woods | sohna road | reported=0 | actual=8
+P60383 | Kolte Patil Meadows | sector 82 | reported=4 | actual=6
+P60384 | Brigade Crest | new gurgaon | reported=8 | actual=10
+P60385 | Sobha Residency | sector 82 | reported=0 | actual=4
+P60386 | My Home Serenity | sector 82 | reported=1 | actual=2
+P60387 | Mantri Terraces | golf course road | reported=0 | actual=5
+P60388 | Lodha Elite | golf course road | reported=0 | actual=2
+P60389 | Adarsh Greens | sector 49 | reported=4 | actual=7
+P60391 | Kolte Patil Elite | sector 65 | reported=4 | actual=8
+P60392 | Kolte Patil Crest | golf course road | reported=17 | actual=10
+P60394 | Nitesh Greens | sector 82 | reported=5 | actual=6
+P60395 | Assetz Serenity | golf course road | reported=3 | actual=5
+P60396 | Casagrand Heights | sohna road | reported=16 | actual=9
+P60398 | Century Terraces | mg road | reported=5 | actual=6
+P60400 | Shriram Grand | sector 49 | reported=7 | actual=10
+
+======================================================================
+PROJECT PRICE UNIT CHECK
+======================================================================
+P60001 | Sobha Meadows | project_max=4.54 | listing_max=26550000 | ratio=5848017.62
+P60002 | Puravankara Vista | project_max=4.12 | listing_max=26290000 | ratio=6381067.96
+P60003 | Adarsh Terraces | project_max=4.17 | listing_max=25240000 | ratio=6052757.79
+P60004 | Shriram Boulevard | project_max=2.15 | listing_max=24470000 | ratio=11381395.35
+P60005 | Casagrand Sanctuary | project_max=2.25 | listing_max=21190000 | ratio=9417777.78
+P60006 | My Home Boulevard | project_max=4.64 | listing_max=24140000 | ratio=5202586.21
+P60007 | Sobha Pavilion | project_max=4.08 | listing_max=30360000 | ratio=7441176.47
+P60008 | Puravankara Greens | project_max=2.59 | listing_max=22050000 | ratio=8513513.51
+P60009 | Shriram Meadows | project_max=1.88 | listing_max=26920000 | ratio=14319148.94
+P60010 | Prestige Habitat | project_max=1.77 | listing_max=22810000 | ratio=12887005.65
+P60011 | Lodha Elite | project_max=3.6 | listing_max=14440000 | ratio=4011111.11
+P60012 | Assetz Park | project_max=3.22 | listing_max=31030000 | ratio=9636645.96
+P60013 | Shriram Enclave | project_max=1.75 | listing_max=24670000 | ratio=14097142.86
+P60014 | My Home Terraces | project_max=2.34 | listing_max=22700000 | ratio=9700854.70
+P60015 | Lodha Park | project_max=2.96 | listing_max=23450000 | ratio=7922297.30
+P60016 | Nitesh Residency | project_max=1.53 | listing_max=28780000 | ratio=18810457.52
+P60017 | Nitesh Heights | project_max=2.38 | listing_max=31990000 | ratio=13441176.47
+P60018 | Brigade Vista | project_max=1.15 | listing_max=31940000 | ratio=27773913.04
+P60019 | Rohan Heights | project_max=3.44 | listing_max=29020000 | ratio=8436046.51
+P60020 | Nitesh Residency | project_max=2.9 | listing_max=20690000 | ratio=7134482.76
+P60021 | Puravankara Enclave | project_max=4.43 | listing_max=16010000 | ratio=3613995.49
+P60022 | Puravankara Park | project_max=1.75 | listing_max=29470000 | ratio=16840000.00
+P60023 | Sobha Pavilion | project_max=2.38 | listing_max=21630000 | ratio=9088235.29
+P60024 | Lodha Meadows | project_max=2.82 | listing_max=23160000 | ratio=8212765.96
+P60025 | Casagrand Habitat | project_max=2.23 | listing_max=26780000 | ratio=12008968.61
+P60026 | Rohan Elite | project_max=2.29 | listing_max=15780000 | ratio=6890829.69
+P60027 | Shriram Sanctuary | project_max=3.2 | listing_max=29970000 | ratio=9365625.00
+P60028 | Lodha Residency | project_max=2.39 | listing_max=24470000 | ratio=10238493.72
+P60029 | Rohan Vista | project_max=2.62 | listing_max=18620000 | ratio=7106870.23
+P60030 | Kolte Patil Woods | project_max=2.57 | listing_max=33520000 | ratio=13042801.56
