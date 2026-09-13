@@ -1,122 +1,32 @@
-import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
+import { useCallback, useEffect, useState } from 'react'
+import { login, logout } from './api/auth'
+import { getListings, getListing } from './api/listings'
+import { getRentals } from './api/rentals'
+import { getProjects } from './api/projects'
+import { getFavourites, removeFavourite, saveFavourite } from './api/favourites'
 import './App.css'
 
-function App() {
-  const [count, setCount] = useState(0)
+const KEY = 'ivy-session'
+const money = (n) => new Intl.NumberFormat('en-IN', { style: 'currency', currency: 'INR', maximumFractionDigits: 0 }).format(Number(n || 0))
+const price = (n) => Number(n) >= 1e7 ? `₹${(n / 1e7).toFixed(2).replace(/\.00$/, '')} Cr` : `₹${(n / 1e5).toFixed(0)} L`
+const projectPrice = (n) => `₹${Number(n || 0).toFixed(1).replace(/\.0$/, '')} Cr`
+const area = (n) => n ? `${new Intl.NumberFormat('en-IN').format(n)} sq ft` : '—'
+const date = (n) => n ? new Intl.DateTimeFormat('en-IN', { dateStyle: 'medium' }).format(new Date(n)) : '—'
+const nav = [['/', 'Listings'], ['/rentals', 'Rentals'], ['/projects', 'Projects'], ['/saved', 'Saved'], ['/insights', 'Insights']]
 
-  return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
-}
-
-export default App
+function useRoute() { const [path, setPath] = useState(location.pathname); useEffect(() => { const h = () => setPath(location.pathname); addEventListener('popstate', h); return () => removeEventListener('popstate', h) }, []); const go = useCallback((to) => { history.pushState({}, '', to); setPath(to); scrollTo(0, 0) }, []); return [path, go] }
+function Status({ item }) { return <span className={`badge ${item.is_live === false ? 'inactive' : 'live'}`}>{item.is_live === false ? 'Inactive' : 'Live'}</span> }
+function Save({ id, saved, toggle, compact }) { return <button className={`save ${saved ? 'saved' : ''} ${compact ? 'compact' : ''}`} onClick={(e) => { e.stopPropagation(); toggle(id) }}>{saved ? '♥ Saved' : '♡ Save'}</button> }
+function Loading() { return <div className="grid">{Array.from({ length: 6 }, (_, i) => <div className="skeleton" key={i} />)}</div> }
+function ErrorState({ error, retry }) { return <div className="state error"><strong>We couldn’t load this page.</strong><span>{error}</span><button onClick={retry}>Try again</button></div> }
+function Page({ title, subtitle, children }) { return <main className="page"><div className="page-heading"><div><h1>{title}</h1>{subtitle && <p>{subtitle}</p>}</div></div>{children}</main> }
+function Card({ item, saved, toggle, go }) { return <article className="listing-card" onClick={() => go(`/listings/${encodeURIComponent(item.listing_id)}`)}><div className="property-art"><span>{item.property_type || 'Home'}</span><Status item={item}/><Save id={item.listing_id} saved={saved.has(item.listing_id)} toggle={toggle} compact/></div><div className="card-body"><div className="card-top"><h3>{item.apartment_name || 'Independent residence'}</h3>{item.is_verified && <span className="verified">Verified</span>}</div><p className="locality">⌖ {item.locality || 'Location unavailable'}</p><strong className="price">{price(item.price)}</strong><div className="facts"><span>{item.bedroom || '—'} BHK</span><span>{item.bathroom || '—'} Bath</span><span>{area(item.carpet_area)}</span></div><p className="muted">{item.furnishing || 'Furnishing unavailable'}</p></div></article> }
+function Filters({ values, setValues }) { const set = (k, v) => setValues(o => ({ ...o, [k]: v })); return <div className="filters"><div className="filter-inputs"><input placeholder="Search locality" value={values.locality} onChange={e => set('locality', e.target.value)}/><select value={values.bhk} onChange={e => set('bhk', e.target.value)}><option value="">Any BHK</option>{[1,2,3,4,5].map(x=><option key={x} value={x}>{x} BHK</option>)}</select><select value={values.furnishing} onChange={e => set('furnishing', e.target.value)}><option value="">Any furnishing</option><option value="unfurnished">Unfurnished</option><option value="semi-furnished">Semi-furnished</option><option value="fully-furnished">Fully furnished</option></select><input type="number" placeholder="Min price" value={values.min_price} onChange={e => set('min_price',e.target.value)}/><input type="number" placeholder="Max price" value={values.max_price} onChange={e => set('max_price',e.target.value)}/><select value={`${values.sort_by}:${values.order}`} onChange={e => { const [sort_by, order] = e.target.value.split(':'); setValues(o=>({...o,sort_by,order}))}}><option value="posted_at:desc">Newest first</option><option value="price:asc">Price: low to high</option><option value="price:desc">Price: high to low</option><option value="carpet_area:desc">Largest area</option></select><label className="toggle"><input type="checkbox" checked={values.live} onChange={e=>set('live',e.target.checked)}/> Live only</label></div><div className="chips"><button className="link-button" onClick={()=>setValues({locality:'',bhk:'',furnishing:'',min_price:'',max_price:'',sort_by:'posted_at',order:'desc',live:true})}>Reset filters</button></div></div> }
+function Listings({ token, saved, toggle, go, expired }) { const initial={locality:'',bhk:'',furnishing:'',min_price:'',max_price:'',sort_by:'posted_at',order:'desc',live:true};const [f,setF]=useState(initial),[items,setItems]=useState([]),[meta,setMeta]=useState({}),[displayCount,setDisplayCount]=useState(24),[loading,setLoading]=useState(true),[error,setError]=useState(''); const descendingPrice=f.sort_by==='price'&&f.order==='desc';const updateFilters=(next)=>{setItems([]);setMeta({});setDisplayCount(24);setLoading(true);setF(next)};const load=useCallback(async(more=false)=>{if(descendingPrice&&more){setDisplayCount(count=>count+24);return}setLoading(true);setError('');try{if(descendingPrice){let offset=0;let all=[];let response;do{response=await getListings(token,{...f,live:undefined,order:'asc',offset,limit:100});const batch=response.results||[];all=[...all,...batch];offset+=batch.length}while(response?.has_more&&response.results?.length);setItems(all.sort((a,b)=>Number(b.price??0)-Number(a.price??0)));setMeta({total:all.length});setDisplayCount(24)}else{const r=await getListings(token,{...f,live:undefined,offset:more?items.length:0,limit:24});setItems(o=>more?[...o,...r.results]:r.results);setMeta(r)}}catch(e){if(e.status===401||e.status===403)expired();else setError(e.message)}finally{setLoading(false)}},[token,f,items.length,expired,descendingPrice]);useEffect(()=>{const t=setTimeout(load,250);return()=>clearTimeout(t)},[f]);const fieldValue=(item)=>f.sort_by==='posted_at'?new Date(item.posted_at).getTime():Number(item[f.sort_by]??0);const sorted=(f.live?items.filter(x=>x.is_live!==false):items).slice().sort((a,b)=>(fieldValue(a)-fieldValue(b))*(f.order==='desc'?-1:1));const shown=descendingPrice?sorted.slice(0,displayCount):sorted;const hasMore=descendingPrice?displayCount<sorted.length:meta.has_more;return <Page title="Find your next place" subtitle="Explore verified homes across the city."><Filters values={f} setValues={updateFilters}/>{error?<ErrorState error={error} retry={load}/>:loading&&!items.length?<Loading/>:!shown.length?<div className="state"><strong>No listings match your filters.</strong><button onClick={()=>updateFilters(initial)}>Clear filters</button></div>:<><div className="result-row"><span>{meta.total ? `${new Intl.NumberFormat('en-IN').format(meta.total)} homes found` : 'Homes for you'}</span></div><div className="grid">{shown.map(x=><Card key={x.listing_id} item={x} saved={saved} toggle={toggle} go={go}/>)}</div>{hasMore&&<div className="load-more"><button disabled={loading} onClick={()=>load(true)}>{loading?'Loading…':'Load more homes'}</button></div>}</>}</Page> }
+function Detail({ id, token, saved, toggle, go, expired }) { const [item,setItem]=useState(),[error,setError]=useState('');const load=useCallback(async()=>{try{setItem(await getListing(id,token))}catch(e){if(e.status===401||e.status===403)expired();else setError(e.message)}},[id,token,expired]);useEffect(()=>{load()},[load]);if(error)return <Page title="Listing"><ErrorState error={error} retry={load}/></Page>;if(!item)return <Page title="Listing details"><Loading/></Page>;const data=[['Bedrooms',item.bedroom],['Bathrooms',item.bathroom],['Carpet area',area(item.carpet_area)],['Super built-up',area(item.super_built_up_area)],['Floor',item.floor?`${item.floor} of ${item.total_floors||'—'}`:'—'],['Furnishing',item.furnishing],['Balcony',item.balcony],['Parking',item.covered_parking?`${item.covered_parking} covered`:'—'],['Facing',item.facing_direction],['Project',item.project_id],['Posted',date(item.posted_at)]];return <main className="page detail"><button className="back" onClick={()=>go('/')}>← All listings</button><div className="detail-hero"><div><div className="eyebrow">{item.locality}</div><h1>{item.apartment_name || 'Independent residence'}</h1><div className="inline-badges"><Status item={item}/>{item.is_verified&&<span className="verified">Verified listing</span>}</div><div className="detail-price">{price(item.price)}</div></div><div className="detail-art">{item.property_type||'Property'}</div></div><section className="detail-grid"><div className="surface"><h2>At a glance</h2><div className="facts-grid">{data.map(([k,v])=><div key={k}><span>{k}</span><strong>{v||'—'}</strong></div>)}</div></div><aside className="surface action-panel"><p>Interested in this home?</p><Save id={item.listing_id} saved={saved.has(item.listing_id)} toggle={toggle}/><small>Saved listings sync to your Ivy account.</small></aside></section><section className="surface description"><h2>About this property</h2><p>{item.description||'No description has been added for this property.'}</p></section></main> }
+function Collection({ type, token, expired }) { const rental=type==='rentals';const [items,setItems]=useState([]),[meta,setMeta]=useState({}),[loading,setLoading]=useState(true),[error,setError]=useState('');const load=useCallback(async(more=false)=>{setLoading(true);try{const r=rental?await getRentals(token,{offset:more?items.length:0,limit:24}):await getProjects(token,{offset:more?items.length:0,limit:24});setItems(o=>more?[...o,...r.results]:r.results);setMeta(r)}catch(e){if(e.status===401||e.status===403)expired();else setError(e.message)}finally{setLoading(false)}},[rental,token,items.length,expired]);useEffect(()=>{load()},[load]);return <Page title={rental?'Rentals, made simple':'Discover new projects'} subtitle={rental?'Homes available for monthly rent.':'Compare projects and availability.'}>{error?<ErrorState error={error} retry={load}/>:loading&&!items.length?<Loading/>:<><div className="grid">{items.map(x=>rental?<article className="listing-card static" key={x.listing_id}><div className="property-art"><span>Rental</span></div><div className="card-body"><h3>{x.apartment_name||x.title}</h3><p className="locality">⌖ {x.locality}</p><strong className="price">{money(x.price)} <small>/ month</small></strong><div className="facts"><span>{x.bedroom} BHK</span><span>{x.bathroom} Bath</span><span>{area(x.carpet_area)}</span></div><p className="muted">Deposit {money(x.deposit)} · {x.furnishing}</p></div></article>:<article className="project-card" key={x.project_id}><div className="project-banner">{x.project_status||'Project'}</div><div className="card-body"><h3>{x.apartment_name}</h3><p className="locality">⌖ {x.locality}</p><strong className="price">{projectPrice(x.price_min)} – {projectPrice(x.price_max)}</strong><div className="facts"><span>{x.total_units||'—'} units</span><span>{x.total_listings||0} listings</span></div><p className="muted">{x.developer_name||'Developer'} · Possession {date(x.possession_date)}</p></div></article>)}</div>{meta.has_more&&<div className="load-more"><button disabled={loading} onClick={()=>load(true)}>{loading?'Loading…':`Load more ${type}`}</button></div>}</>}</Page> }
+function Saved({ token,saved,setSaved,toggle,go,expired }) { const [items,setItems]=useState([]),[loading,setLoading]=useState(true),[error,setError]=useState('');const load=useCallback(async()=>{try{setLoading(true);const r=await getFavourites(token);const list=r.results||[];setItems(list);setSaved(new Set(list.map(x=>x.listing_id||x.id)))}catch(e){if(e.status===401||e.status===403)expired();else setError(e.message)}finally{setLoading(false)}},[token,setSaved,expired]);useEffect(()=>{load()},[load]);return <Page title="Saved homes" subtitle="A private shortlist, synced to your account.">{error?<ErrorState error={error} retry={load}/>:loading?<Loading/>:items.length?<div className="grid">{items.map(x=><Card key={x.listing_id} item={x} saved={saved} toggle={toggle} go={go}/>)}</div>:<div className="state"><strong>Your shortlist is empty.</strong><span>Save homes while browsing to revisit them here.</span><button onClick={()=>go('/')}>Browse listings</button></div>}</Page> }
+function Insights() { const corrupt=['100-6001475','DWE-6000627','MAG-6000014','SQU-6002204','SQU-6002405','ZER-6001341'];const fake=['100-6000297','DWE-6001082','MAG-6002328','SQU-6000334','SQU-6002610','ZER-6000479'];return <Page title="Market intelligence" subtitle="A data-discovery view built from complete API retrieval."><div className="metrics">{[['3,500','Total listing records'],['2,792','Live listings'],['3,499','Unique properties'],['129','Listings in last 7 days']].map(([v,l])=><div className="metric" key={l}><strong>{v}</strong><span>{l}</span></div>)}</div><div className="insight-layout"><section className="surface"><h2>Market snapshot</h2><div className="snapshot"><div><span>Total monthly rent</span><strong>{money(3733800)}</strong></div><div className="average-metric"><span>Avg. 2 BHK price / sq ft</span><strong>₹26,710 approx.</strong><small>26709.99037687148 exact</small></div><div><span>Costliest project</span><strong>P60090 · {money(989000000)}</strong></div></div></section><section className="surface"><h2>API reality checks</h2><ul className="findings"><li><strong>Authentication</strong> uses an <code>X-API-Key</code> header, not the documented query parameter.</li><li><strong>Pagination</strong> requires <code>offset + limit</code>; <code>page</code> is ignored.</li><li><strong>Activity</strong> is not guaranteed by listings; inactive records return with <code>is_live</code>.</li><li><strong>Analytics endpoint</strong> is documented but returns 404.</li></ul></section><section className="surface wide"><h2>Data quality alerts</h2><div className="alerts"><div><strong>Count discrepancies</strong><p>Reported totals are lower than complete retrieval: listings 3,375 vs 3,500; rentals 1,273 vs 1,320; projects 386 vs 400.</p></div><div><strong>Project consistency</strong><p>295 of 400 projects disagree with their associated listing count. Prices are crore-style decimals, not INR.</p></div><div><strong>Duplicate physical property</strong><p>DWE-6003109 and MAG-6000909 describe the same property despite distinct listing IDs.</p></div></div></section><section className="surface wide"><h2>Investigated listings</h2><div className="id-groups"><div><span>Corrupt candidates</span><p>{corrupt.join(' · ')}</p></div><div><span>Fake listing candidates</span><p>{fake.join(' · ')}</p></div></div></section></div></Page> }
+function Login({ submit }) { const [email,setEmail]=useState(import.meta.env.VITE_IVY_EMAIL||''),[password,setPassword]=useState(import.meta.env.VITE_IVY_PASSWORD||''),[error,setError]=useState(''),[loading,setLoading]=useState(false);const send=async e=>{e.preventDefault();setLoading(true);setError('');try{await submit(email,password)}catch(x){setError(x.message)}finally{setLoading(false)}};return <div className="login-page"><form className="login-card" onSubmit={send}><div className="brand large">ivy<span>.</span></div><h1>Welcome back</h1><p>Sign in to explore your next home.</p>{error&&<div className="form-error">{error}</div>}<label>Email<input required type="email" value={email} onChange={e=>setEmail(e.target.value)} placeholder="demo1@ivy.homes"/></label><label>Password<input required type="password" value={password} onChange={e=>setPassword(e.target.value)} placeholder="Your password"/></label><button disabled={loading}>{loading?'Signing in…':'Sign in'}</button><small>Your session stays private on this device.</small></form></div> }
+function Layout({path,go,session,out,children}) { return <><header><button className="brand" onClick={()=>go('/')}>ivy<span>.</span></button><nav>{nav.map(([to,name])=><button key={to} className={path===to?'active':''} onClick={()=>go(to)}>{name}</button>)}</nav><div className="user"><span>{session.user?.name||session.user?.email||'Account'}</span><button onClick={out}>Log out</button></div></header>{children}</> }
+export default function App() { const [path,go]=useRoute();const [session,setSession]=useState(()=>{try{return JSON.parse(localStorage.getItem(KEY))}catch{return null}}),[saved,setSaved]=useState(new Set());const clear=useCallback(()=>{localStorage.removeItem(KEY);setSession(null);setSaved(new Set());go('/login')},[go]);const signIn=async(email,password)=>{const r=await login(email,password);const token=r.access_token||r.token;if(!token)throw new Error('The login response did not include a usable session token.');const next={token,user:r.user};localStorage.setItem(KEY,JSON.stringify(next));setSession(next);go('/')};const toggle=async id=>{const was=saved.has(id);setSaved(o=>{const n=new Set(o);was?n.delete(id):n.add(id);return n});try{was?await removeFavourite(id,session.token):await saveFavourite(id,session.token)}catch(e){setSaved(o=>{const n=new Set(o);was?n.add(id):n.delete(id);return n});if(e.status===401||e.status===403)clear();else alert(e.message)}};const out=async()=>{try{await logout(session.token)}catch{void 0}clear()};useEffect(()=>{if(!session&&path!=='/login')go('/login');if(session&&path==='/login')go('/')},[session,path,go]);if(!session)return <Login submit={signIn}/>;let view=path==='/saved'?<Saved token={session.token} saved={saved} setSaved={setSaved} toggle={toggle} go={go} expired={clear}/>:path==='/rentals'?<Collection type="rentals" token={session.token} expired={clear}/>:path==='/projects'?<Collection type="projects" token={session.token} expired={clear}/>:path==='/insights'?<Insights/>:path.startsWith('/listings/')?<Detail id={decodeURIComponent(path.slice(10))} token={session.token} saved={saved} toggle={toggle} go={go} expired={clear}/>:<Listings token={session.token} saved={saved} toggle={toggle} go={go} expired={clear}/>;return <Layout path={path} go={go} session={session} out={out}>{view}</Layout> }
